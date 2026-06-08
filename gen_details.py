@@ -10,7 +10,7 @@ import os
 import shutil
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SITE_URL = "https://eval-index.vercel.app"
+SITE_URL = "https://eval.kymatalabs.com"
 P_DIR = os.path.join(HERE, "p")
 
 

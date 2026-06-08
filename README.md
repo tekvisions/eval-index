@@ -4,7 +4,7 @@ A living leaderboard of **LLM & AI-agent evaluation and benchmark tooling** — 
 benchmark suites, observability, and red-teaming harnesses — ranked by **momentum** (stars,
 push-recency, and how fast a repo is rising) computed from live GitHub signals.
 
-Live: https://eval-index.vercel.app
+Live: https://eval.kymatalabs.com
 
 ## How it works (self-updating)
 

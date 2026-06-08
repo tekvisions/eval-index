@@ -26,7 +26,7 @@ from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 API = "https://api.github.com"
-SITE_URL = "https://eval-index.vercel.app"   # fixed to the real alias after first deploy
+SITE_URL = "https://eval.kymatalabs.com"   # fixed to the real alias after first deploy
 SITE_NAME = "The Eval Index"
 
 QUERIES = [
