@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Eval Index — every LLM evaluation & benchmark tool, ranked by momentum</title>
+<meta name="description" content="A living leaderboard of LLM and AI-agent evaluation, benchmark, observability and red-teaming tools — ranked daily by momentum from live GitHub signals.">
+<link rel="canonical" href="https://eval-index.vercel.app/">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="llm evaluation framework, llm benchmark, ai eval tools, agent evaluation, llm observability, red teaming llm, rag evaluation, prompt testing, deepeval, promptfoo">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eval-index.vercel.app/">
+<meta property="og:title" content="The Eval Index — every LLM evaluation & benchmark tool, ranked by momentum">
+<meta property="og:description" content="A living leaderboard of LLM & agent evaluation, benchmark and red-teaming tools, ranked daily from live GitHub signals.">
+<meta property="og:image" content="https://eval-index.vercel.app/og.png">
+<meta property="og:site_name" content="The Eval Index">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Eval Index — every LLM evaluation & benchmark tool">
+<meta name="twitter:description" content="A living leaderboard of LLM & agent eval tooling, ranked daily by momentum.">
+<meta name="twitter:image" content="https://eval-index.vercel.app/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="The Eval Index" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{ "@context": "https://schema.org", "@type": "WebSite", "name": "The Eval Index",
+  "url": "https://eval-index.vercel.app/",
+  "description": "A living leaderboard of LLM and AI-agent evaluation & benchmark tooling, ranked by momentum from live GitHub signals.",
+  "publisher": { "@type": "Organization", "name": "The Eval Index" } }
+</script>
+</head>
+<body>
+<header><div class="wrap head-row">
+  <div class="brand"><span class="dot"></span><span class="name disp">EVAL<b>/</b>INDEX</span></div>
+  <div class="head-actions">
+    <a href="/rss.xml">RSS</a><a href="/llms.txt">llms.txt</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+  </div>
+</div></header>
+
+<main>
+  <section class="hero"><div class="wrap">
+    <div class="kicker">Recomputed daily from live GitHub signals</div>
+    <h1>How do you <b>measure</b> an AI?</h1>
+    <p class="lede">The living leaderboard of LLM &amp; agent evaluation tooling — eval frameworks, benchmark suites, observability, and red-teaming — ranked by momentum, not marketing.</p>
+    <div class="stats">
+      <div class="stat"><div class="num disp" id="s-count">0</div><div class="lbl">tools ranked</div></div>
+      <div class="stat"><div class="num disp" id="s-cats">0</div><div class="lbl">categories</div></div>
+      <div class="stat"><div class="num disp" id="s-top">—</div><div class="lbl">top momentum</div></div>
+    </div>
+  </div></section>
+
+  <section class="toolbar"><div class="wrap">
+    <div class="search-row">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="search eval tools, owners, topics…" autocomplete="off" spellcheck="false">
+      </label>
+      <div class="sort" id="sort">
+        <button data-sort="momentum" class="active">Momentum</button>
+        <button data-sort="stars">Stars</button>
+        <button data-sort="new">Newest</button>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div></section>
+
+  <div class="wrap">
+    <div class="meta-line" id="metaline">loading the leaderboard…</div>
+    <div class="board" id="board"></div>
+  </div>
+</main>
+
+<footer><div class="wrap foot-row">
+  <div>
+    <div class="blurb">The Eval Index is a self-updating leaderboard. Every day a GitHub Action recomputes each tool's momentum — stars, push-recency, and how fast it's rising — and republishes. No editors, no vendor decks, just the signal.</div>
+    <div class="updated" id="foot-updated"></div>
+  </div>
+  <div class="links">
+    <a href="/sitemap.xml">Sitemap</a><a href="/rss.xml">RSS feed</a>
+    <a href="/llms.txt">llms.txt</a><a href="https://github.com/tekvisions" target="_blank" rel="noopener">Built by tekvisions →</a>
+  </div>
+</div></footer>
+
+<script src="/app.js"></script>
+</body>
+</html>
