@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-26T11:34:38.914367+00:00",
+ "generated_at": "2026-06-27T10:48:39.578136+00:00",
  "count": 271,
  "categories": [
   {
@@ -43,12 +43,12 @@
    "url": "https://github.com/langfuse/langfuse",
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 29826,
-   "forks": 3103,
-   "open_issues": 677,
+   "stars": 29861,
+   "forks": 3109,
+   "open_issues": 672,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T11:32:55Z",
+   "pushed_at": "2026-06-27T09:45:06Z",
    "created_at": "2023-05-18T17:47:09Z",
    "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
    "topics": [
@@ -83,12 +83,12 @@
    "url": "https://github.com/mlflow/mlflow",
    "owner": "mlflow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39938107?v=4",
-   "stars": 26748,
-   "forks": 5908,
-   "open_issues": 2007,
+   "stars": 26741,
+   "forks": 5910,
+   "open_issues": 2009,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T06:19:38Z",
+   "pushed_at": "2026-06-27T07:21:14Z",
    "created_at": "2018-06-05T16:05:58Z",
    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
    "topics": [
@@ -122,12 +122,12 @@
    "url": "https://github.com/promptfoo/promptfoo",
    "owner": "promptfoo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137907881?v=4",
-   "stars": 22622,
-   "forks": 2006,
-   "open_issues": 356,
+   "stars": 22642,
+   "forks": 2011,
+   "open_issues": 360,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-26T11:33:51Z",
+   "pushed_at": "2026-06-27T02:40:26Z",
    "created_at": "2023-04-28T15:48:49Z",
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
    "topics": [
@@ -151,7 +151,7 @@
     "vulnerability-scanners"
    ],
    "category": "Red Teaming & Safety",
-   "momentum": 86,
+   "momentum": 85,
    "rank": 3
   },
   {
@@ -161,12 +161,12 @@
    "url": "https://github.com/comet-ml/opik",
    "owner": "comet-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
-   "stars": 19879,
-   "forks": 1547,
-   "open_issues": 118,
+   "stars": 19931,
+   "forks": 1560,
+   "open_issues": 122,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T11:26:21Z",
+   "pushed_at": "2026-06-26T20:43:56Z",
    "created_at": "2023-05-10T12:57:13Z",
    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
    "topics": [
@@ -195,12 +195,12 @@
    "url": "https://github.com/openobserve/openobserve",
    "owner": "openobserve",
    "owner_avatar": "https://avatars.githubusercontent.com/u/95867656?v=4",
-   "stars": 19445,
-   "forks": 873,
-   "open_issues": 577,
+   "stars": 19451,
+   "forks": 872,
+   "open_issues": 574,
    "language": "TypeScript",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-06-26T11:29:35Z",
+   "pushed_at": "2026-06-27T09:37:48Z",
    "created_at": "2023-02-02T03:29:51Z",
    "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
    "topics": [
@@ -236,12 +236,12 @@
    "url": "https://github.com/trycua/cua",
    "owner": "trycua",
    "owner_avatar": "https://avatars.githubusercontent.com/u/191107687?v=4",
-   "stars": 19054,
-   "forks": 1240,
-   "open_issues": 427,
+   "stars": 19110,
+   "forks": 1248,
+   "open_issues": 430,
    "language": "HTML",
    "license": "MIT",
-   "pushed_at": "2026-06-26T08:24:46Z",
+   "pushed_at": "2026-06-27T04:45:49Z",
    "created_at": "2025-01-31T15:02:49Z",
    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
    "topics": [
@@ -275,12 +275,12 @@
    "url": "https://github.com/Tencent/WeKnora",
    "owner": "Tencent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-   "stars": 17370,
-   "forks": 2277,
-   "open_issues": 284,
+   "stars": 17406,
+   "forks": 2285,
+   "open_issues": 285,
    "language": "Go",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T08:55:45Z",
+   "pushed_at": "2026-06-27T08:55:37Z",
    "created_at": "2025-07-22T08:01:23Z",
    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
    "topics": [
@@ -316,9 +316,9 @@
    "url": "https://github.com/confident-ai/deepeval",
    "owner": "confident-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130858411?v=4",
-   "stars": 16485,
-   "forks": 1592,
-   "open_issues": 321,
+   "stars": 16497,
+   "forks": 1594,
+   "open_issues": 325,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-26T09:43:57Z",
@@ -345,10 +345,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/103249391?v=4",
    "stars": 11474,
    "forks": 1875,
-   "open_issues": 111,
+   "open_issues": 112,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T11:24:09Z",
+   "pushed_at": "2026-06-27T10:24:11Z",
    "created_at": "2023-08-28T10:00:24Z",
    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
    "topics": [
@@ -384,12 +384,12 @@
    "url": "https://github.com/Arize-ai/phoenix",
    "owner": "Arize-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59858760?v=4",
-   "stars": 10286,
-   "forks": 945,
+   "stars": 10295,
+   "forks": 944,
    "open_issues": 626,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T08:53:39Z",
+   "pushed_at": "2026-06-27T02:56:27Z",
    "created_at": "2022-11-09T23:44:35Z",
    "description": "AI Observability & Evaluation",
    "topics": [
@@ -423,10 +423,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/167452922?v=4",
    "stars": 9330,
    "forks": 781,
-   "open_issues": 19,
+   "open_issues": 18,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-24T04:29:39Z",
+   "pushed_at": "2026-06-27T00:11:44Z",
    "created_at": "2024-05-07T17:45:15Z",
    "description": "Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!",
    "topics": [
@@ -444,7 +444,7 @@
     "vlms"
    ],
    "category": "Eval Frameworks",
-   "momentum": 80,
+   "momentum": 81,
    "rank": 11
   },
   {
@@ -454,12 +454,12 @@
    "url": "https://github.com/NVIDIA/garak",
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
-   "stars": 8227,
+   "stars": 8241,
    "forks": 1045,
-   "open_issues": 340,
+   "open_issues": 346,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-24T16:29:40Z",
+   "pushed_at": "2026-06-26T15:50:39Z",
    "created_at": "2023-05-10T18:52:16Z",
    "description": "the LLM vulnerability scanner",
    "topics": [
@@ -480,7 +480,7 @@
    "url": "https://github.com/Doorman11991/smallcode",
    "owner": "Doorman11991",
    "owner_avatar": "https://avatars.githubusercontent.com/u/283874042?v=4",
-   "stars": 1929,
+   "stars": 1934,
    "forks": 144,
    "open_issues": 18,
    "language": "JavaScript",
@@ -500,8 +500,8 @@
    "url": "https://github.com/tensorzero/tensorzero",
    "owner": "tensorzero",
    "owner_avatar": "https://avatars.githubusercontent.com/u/148420822?v=4",
-   "stars": 11672,
-   "forks": 942,
+   "stars": 11673,
+   "forks": 940,
    "open_issues": 393,
    "language": "Rust",
    "license": "Apache-2.0",
@@ -541,9 +541,9 @@
    "url": "https://github.com/traceloop/openllmetry",
    "owner": "traceloop",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
-   "stars": 7239,
-   "forks": 1009,
-   "open_issues": 576,
+   "stars": 7240,
+   "forks": 1008,
+   "open_issues": 577,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-25T15:30:39Z",
@@ -581,8 +581,8 @@
    "owner": "open-compass",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143521324?v=4",
    "stars": 7123,
-   "forks": 793,
-   "open_issues": 461,
+   "forks": 794,
+   "open_issues": 462,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-26T09:14:59Z",
@@ -609,7 +609,7 @@
    "url": "https://github.com/katanemo/plano",
    "owner": "katanemo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/112724757?v=4",
-   "stars": 6603,
+   "stars": 6601,
    "forks": 432,
    "open_issues": 141,
    "language": "Rust",
@@ -647,9 +647,9 @@
    "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
    "owner": "GoogleCloudPlatform",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2810941?v=4",
-   "stars": 6495,
-   "forks": 1492,
-   "open_issues": 42,
+   "stars": 6492,
+   "forks": 1493,
+   "open_issues": 43,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-22T21:46:16Z",
@@ -676,9 +676,9 @@
    "url": "https://github.com/AgentOps-AI/agentops",
    "owner": "AgentOps-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140554352?v=4",
-   "stars": 5654,
-   "forks": 600,
-   "open_issues": 164,
+   "stars": 5656,
+   "forks": 602,
+   "open_issues": 165,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-06-25T08:25:03Z",
@@ -714,12 +714,12 @@
    "url": "https://github.com/coze-dev/coze-loop",
    "owner": "coze-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/157483752?v=4",
-   "stars": 5558,
+   "stars": 5559,
    "forks": 769,
    "open_issues": 66,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T11:01:10Z",
+   "pushed_at": "2026-06-26T11:51:33Z",
    "created_at": "2025-06-24T00:26:28Z",
    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.",
    "topics": [
@@ -752,7 +752,7 @@
    "url": "https://github.com/Giskard-AI/giskard-oss",
    "owner": "Giskard-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/71782571?v=4",
-   "stars": 5467,
+   "stars": 5470,
    "forks": 477,
    "open_issues": 66,
    "language": "Python",
@@ -790,9 +790,9 @@
    "url": "https://github.com/Andyyyy64/whichllm",
    "owner": "Andyyyy64",
    "owner_avatar": "https://avatars.githubusercontent.com/u/105579829?v=4",
-   "stars": 5289,
-   "forks": 280,
-   "open_issues": 17,
+   "stars": 5324,
+   "forks": 279,
+   "open_issues": 18,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-06-25T04:57:52Z",
@@ -819,15 +819,45 @@
    "rank": 22
   },
   {
+   "name": "awesome-evals",
+   "full_name": "benchflow-ai/awesome-evals",
+   "slug": "benchflow-ai-awesome-evals",
+   "url": "https://github.com/benchflow-ai/awesome-evals",
+   "owner": "benchflow-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/190338344?v=4",
+   "stars": 510,
+   "forks": 38,
+   "open_issues": 1,
+   "language": "",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-27T09:39:44Z",
+   "created_at": "2026-06-24T08:10:33Z",
+   "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+   "topics": [
+    "agent-evaluation",
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "benchmarks",
+    "evals",
+    "llm",
+    "llm-evaluation",
+    "rl-environments"
+   ],
+   "category": "Agent Eval",
+   "momentum": 78,
+   "rank": 23
+  },
+  {
    "name": "chinese-llm-benchmark",
    "full_name": "jeinlee1991/chinese-llm-benchmark",
    "slug": "jeinlee1991-chinese-llm-benchmark",
    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
    "owner": "jeinlee1991",
    "owner_avatar": "https://avatars.githubusercontent.com/u/46815718?v=4",
-   "stars": 6219,
-   "forks": 253,
-   "open_issues": 14,
+   "stars": 6222,
+   "forks": 254,
+   "open_issues": 15,
    "language": "",
    "license": "",
    "pushed_at": "2026-06-18T09:34:07Z",
@@ -841,7 +871,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 77,
-   "rank": 23
+   "rank": 24
   },
   {
    "name": "Kiln",
@@ -850,12 +880,12 @@
    "url": "https://github.com/Kiln-AI/Kiln",
    "owner": "Kiln-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/178670964?v=4",
-   "stars": 4934,
+   "stars": 4936,
    "forks": 373,
-   "open_issues": 57,
+   "open_issues": 55,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T06:54:49Z",
+   "pushed_at": "2026-06-27T07:47:57Z",
    "created_at": "2024-07-23T23:10:13Z",
    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
    "topics": [
@@ -882,7 +912,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 77,
-   "rank": 24
+   "rank": 25
   },
   {
    "name": "AutoRAG",
@@ -891,8 +921,8 @@
    "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
    "owner": "Marker-Inc-Korea",
    "owner_avatar": "https://avatars.githubusercontent.com/u/74290595?v=4",
-   "stars": 4839,
-   "forks": 404,
+   "stars": 4841,
+   "forks": 403,
    "open_issues": 165,
    "language": "Python",
    "license": "Apache-2.0",
@@ -921,7 +951,44 @@
    ],
    "category": "RAG Eval",
    "momentum": 77,
-   "rank": 25
+   "rank": 26
+  },
+  {
+   "name": "logfire",
+   "full_name": "pydantic/logfire",
+   "slug": "pydantic-logfire",
+   "url": "https://github.com/pydantic/logfire",
+   "owner": "pydantic",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/110818415?v=4",
+   "stars": 4334,
+   "forks": 249,
+   "open_issues": 232,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-27T01:32:23Z",
+   "created_at": "2024-04-23T11:50:23Z",
+   "description": "AI observability platform for production LLM and agent systems.",
+   "topics": [
+    "agent-observability",
+    "ai",
+    "ai-observability",
+    "ai-tools",
+    "evals",
+    "fastapi",
+    "llm-observability",
+    "logging",
+    "metrics",
+    "observability",
+    "openai",
+    "opentelemetry",
+    "pydantic",
+    "pydantic-ai",
+    "python",
+    "trace"
+   ],
+   "category": "Observability",
+   "momentum": 77,
+   "rank": 27
   },
   {
    "name": "agenta",
@@ -931,11 +998,11 @@
    "owner": "Agenta-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127993667?v=4",
    "stars": 4244,
-   "forks": 557,
-   "open_issues": 77,
+   "forks": 556,
+   "open_issues": 83,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T11:33:27Z",
+   "pushed_at": "2026-06-27T10:45:35Z",
    "created_at": "2023-04-26T09:54:28Z",
    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
    "topics": [
@@ -957,37 +1024,7 @@
    ],
    "category": "Observability",
    "momentum": 77,
-   "rank": 26
-  },
-  {
-   "name": "awesome-evals",
-   "full_name": "benchflow-ai/awesome-evals",
-   "slug": "benchflow-ai-awesome-evals",
-   "url": "https://github.com/benchflow-ai/awesome-evals",
-   "owner": "benchflow-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/190338344?v=4",
-   "stars": 404,
-   "forks": 25,
-   "open_issues": 1,
-   "language": "",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T08:54:37Z",
-   "created_at": "2026-06-24T08:10:33Z",
-   "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-   "topics": [
-    "agent-evaluation",
-    "ai-agents",
-    "awesome",
-    "awesome-list",
-    "benchmarks",
-    "evals",
-    "llm",
-    "llm-evaluation",
-    "rl-environments"
-   ],
-   "category": "Agent Eval",
-   "momentum": 77,
-   "rank": 27
+   "rank": 28
   },
   {
    "name": "helicone",
@@ -996,9 +1033,9 @@
    "url": "https://github.com/Helicone/helicone",
    "owner": "Helicone",
    "owner_avatar": "https://avatars.githubusercontent.com/u/114524975?v=4",
-   "stars": 5865,
-   "forks": 611,
-   "open_issues": 109,
+   "stars": 5867,
+   "forks": 613,
+   "open_issues": 110,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-11T19:46:29Z",
@@ -1027,43 +1064,6 @@
    ],
    "category": "Observability",
    "momentum": 76,
-   "rank": 28
-  },
-  {
-   "name": "logfire",
-   "full_name": "pydantic/logfire",
-   "slug": "pydantic-logfire",
-   "url": "https://github.com/pydantic/logfire",
-   "owner": "pydantic",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/110818415?v=4",
-   "stars": 4331,
-   "forks": 250,
-   "open_issues": 230,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-20T19:20:01Z",
-   "created_at": "2024-04-23T11:50:23Z",
-   "description": "AI observability platform for production LLM and agent systems.",
-   "topics": [
-    "agent-observability",
-    "ai",
-    "ai-observability",
-    "ai-tools",
-    "evals",
-    "fastapi",
-    "llm-observability",
-    "logging",
-    "metrics",
-    "observability",
-    "openai",
-    "opentelemetry",
-    "pydantic",
-    "pydantic-ai",
-    "python",
-    "trace"
-   ],
-   "category": "Observability",
-   "momentum": 76,
    "rank": 29
   },
   {
@@ -1073,7 +1073,7 @@
    "url": "https://github.com/EvolvingLMMs-Lab/lmms-eval",
    "owner": "EvolvingLMMs-Lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/154951679?v=4",
-   "stars": 4254,
+   "stars": 4256,
    "forks": 608,
    "open_issues": 39,
    "language": "Python",
@@ -1106,8 +1106,8 @@
    "owner": "open-compass",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143521324?v=4",
    "stars": 4242,
-   "forks": 726,
-   "open_issues": 261,
+   "forks": 727,
+   "open_issues": 264,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-25T12:13:55Z",
@@ -1145,12 +1145,12 @@
    "url": "https://github.com/Tencent/AI-Infra-Guard",
    "owner": "Tencent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-   "stars": 3986,
+   "stars": 3992,
    "forks": 384,
-   "open_issues": 11,
+   "open_issues": 12,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-25T13:29:57Z",
+   "pushed_at": "2026-06-26T13:40:39Z",
    "created_at": "2024-12-25T06:39:30Z",
    "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
    "topics": [
@@ -1185,12 +1185,12 @@
    "url": "https://github.com/future-agi/future-agi",
    "owner": "future-agi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/147392366?v=4",
-   "stars": 1236,
-   "forks": 277,
-   "open_issues": 286,
+   "stars": 1245,
+   "forks": 286,
+   "open_issues": 303,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T11:17:26Z",
+   "pushed_at": "2026-06-27T10:36:26Z",
    "created_at": "2026-04-23T14:11:31Z",
    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
    "topics": [
@@ -1212,7 +1212,7 @@
    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
    "owner": "FareedKhan-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/63067900?v=4",
-   "stars": 3685,
+   "stars": 3684,
    "forks": 650,
    "open_issues": 4,
    "language": "Jupyter Notebook",
@@ -1233,40 +1233,6 @@
    "rank": 34
   },
   {
-   "name": "trulens",
-   "full_name": "truera/trulens",
-   "slug": "truera-trulens",
-   "url": "https://github.com/truera/trulens",
-   "owner": "truera",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/51224128?v=4",
-   "stars": 3400,
-   "forks": 303,
-   "open_issues": 96,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-21T22:58:02Z",
-   "created_at": "2020-11-02T21:56:45Z",
-   "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-   "topics": [
-    "agent-evaluation",
-    "agentops",
-    "ai-agents",
-    "ai-monitoring",
-    "ai-observability",
-    "evals",
-    "explainable-ml",
-    "llm-eval",
-    "llm-evaluation",
-    "llmops",
-    "llms",
-    "machine-learning",
-    "neural-networks"
-   ],
-   "category": "Observability",
-   "momentum": 75,
-   "rank": 35
-  },
-  {
    "name": "langwatch",
    "full_name": "langwatch/langwatch",
    "slug": "langwatch-langwatch",
@@ -1275,10 +1241,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/146763322?v=4",
    "stars": 3313,
    "forks": 324,
-   "open_issues": 814,
+   "open_issues": 818,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T11:29:04Z",
+   "pushed_at": "2026-06-27T10:43:02Z",
    "created_at": "2023-09-09T11:33:18Z",
    "description": "The platform for LLM evaluations and AI agent testing",
    "topics": [
@@ -1298,7 +1264,7 @@
    ],
    "category": "Observability",
    "momentum": 75,
-   "rank": 36
+   "rank": 35
   },
   {
    "name": "lmnr",
@@ -1307,12 +1273,12 @@
    "url": "https://github.com/lmnr-ai/lmnr",
    "owner": "lmnr-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161496104?v=4",
-   "stars": 3038,
-   "forks": 211,
-   "open_issues": 89,
+   "stars": 3042,
+   "forks": 213,
+   "open_issues": 87,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T11:26:06Z",
+   "pushed_at": "2026-06-26T19:53:46Z",
    "created_at": "2024-08-29T03:45:28Z",
    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
    "topics": [
@@ -1339,7 +1305,7 @@
    ],
    "category": "Observability",
    "momentum": 75,
-   "rank": 37
+   "rank": 36
   },
   {
    "name": "evalscope",
@@ -1348,7 +1314,7 @@
    "url": "https://github.com/modelscope/evalscope",
    "owner": "modelscope",
    "owner_avatar": "https://avatars.githubusercontent.com/u/109945100?v=4",
-   "stars": 2989,
+   "stars": 2992,
    "forks": 408,
    "open_issues": 38,
    "language": "Python",
@@ -1365,27 +1331,41 @@
    ],
    "category": "RAG Eval",
    "momentum": 75,
-   "rank": 38
+   "rank": 37
   },
   {
-   "name": "PaperGuru-Benchmark",
-   "full_name": "PaperGuru-AI/PaperGuru-Benchmark",
-   "slug": "paperguru-ai-paperguru-benchmark",
-   "url": "https://github.com/PaperGuru-AI/PaperGuru-Benchmark",
-   "owner": "PaperGuru-AI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/282129565?v=4",
-   "stars": 1241,
-   "forks": 190,
-   "open_issues": 0,
-   "language": "TeX",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-08T21:14:07Z",
-   "created_at": "2026-05-08T16:01:28Z",
-   "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
-   "topics": [],
-   "category": "Agent Eval",
-   "momentum": 75,
-   "rank": 39
+   "name": "trulens",
+   "full_name": "truera/trulens",
+   "slug": "truera-trulens",
+   "url": "https://github.com/truera/trulens",
+   "owner": "truera",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/51224128?v=4",
+   "stars": 3400,
+   "forks": 304,
+   "open_issues": 97,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-21T22:58:02Z",
+   "created_at": "2020-11-02T21:56:45Z",
+   "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+   "topics": [
+    "agent-evaluation",
+    "agentops",
+    "ai-agents",
+    "ai-monitoring",
+    "ai-observability",
+    "evals",
+    "explainable-ml",
+    "llm-eval",
+    "llm-evaluation",
+    "llmops",
+    "llms",
+    "machine-learning",
+    "neural-networks"
+   ],
+   "category": "Observability",
+   "momentum": 74,
+   "rank": 38
   },
   {
    "name": "harbor",
@@ -1394,12 +1374,12 @@
    "url": "https://github.com/harbor-framework/harbor",
    "owner": "harbor-framework",
    "owner_avatar": "https://avatars.githubusercontent.com/u/256467836?v=4",
-   "stars": 2746,
-   "forks": 1209,
-   "open_issues": 429,
+   "stars": 2755,
+   "forks": 1212,
+   "open_issues": 428,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T03:19:32Z",
+   "pushed_at": "2026-06-27T06:03:03Z",
    "created_at": "2025-08-04T23:28:26Z",
    "description": "Framework for evaluating and improving agents",
    "topics": [
@@ -1409,7 +1389,56 @@
    ],
    "category": "Agent Eval",
    "momentum": 74,
+   "rank": 39
+  },
+  {
+   "name": "yao-meta-skill",
+   "full_name": "yaojingang/yao-meta-skill",
+   "slug": "yaojingang-yao-meta-skill",
+   "url": "https://github.com/yaojingang/yao-meta-skill",
+   "owner": "yaojingang",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/266242792?v=4",
+   "stars": 1622,
+   "forks": 151,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-21T08:40:42Z",
+   "created_at": "2026-03-31T11:59:35Z",
+   "description": "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "evaluation",
+    "governance",
+    "meta-skill",
+    "portability",
+    "skill-engineering",
+    "workflow-automation"
+   ],
+   "category": "Agent Eval",
+   "momentum": 74,
    "rank": 40
+  },
+  {
+   "name": "PaperGuru-Benchmark",
+   "full_name": "PaperGuru-AI/PaperGuru-Benchmark",
+   "slug": "paperguru-ai-paperguru-benchmark",
+   "url": "https://github.com/PaperGuru-AI/PaperGuru-Benchmark",
+   "owner": "PaperGuru-AI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/282129565?v=4",
+   "stars": 1258,
+   "forks": 192,
+   "open_issues": 0,
+   "language": "TeX",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-08T21:14:07Z",
+   "created_at": "2026-05-08T16:01:28Z",
+   "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
+   "topics": [],
+   "category": "Agent Eval",
+   "momentum": 74,
+   "rank": 41
   },
   {
    "name": "openlit",
@@ -1418,7 +1447,7 @@
    "url": "https://github.com/openlit/openlit",
    "owner": "openlit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/149867240?v=4",
-   "stars": 2553,
+   "stars": 2556,
    "forks": 304,
    "open_issues": 59,
    "language": "TypeScript",
@@ -1449,36 +1478,7 @@
     "tracing"
    ],
    "category": "Observability",
-   "momentum": 74,
-   "rank": 41
-  },
-  {
-   "name": "yao-meta-skill",
-   "full_name": "yaojingang/yao-meta-skill",
-   "slug": "yaojingang-yao-meta-skill",
-   "url": "https://github.com/yaojingang/yao-meta-skill",
-   "owner": "yaojingang",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/266242792?v=4",
-   "stars": 1618,
-   "forks": 149,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-21T08:40:42Z",
-   "created_at": "2026-03-31T11:59:35Z",
-   "description": "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "evaluation",
-    "governance",
-    "meta-skill",
-    "portability",
-    "skill-engineering",
-    "workflow-automation"
-   ],
-   "category": "Agent Eval",
-   "momentum": 74,
+   "momentum": 73,
    "rank": 42
   },
   {
@@ -1539,33 +1539,13 @@
    "rank": 44
   },
   {
-   "name": "evals",
-   "full_name": "openai/evals",
-   "slug": "openai-evals",
-   "url": "https://github.com/openai/evals",
-   "owner": "openai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
-   "stars": 18782,
-   "forks": 2996,
-   "open_issues": 210,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-04-14T15:29:57Z",
-   "created_at": "2023-01-23T20:51:04Z",
-   "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
-   "topics": [],
-   "category": "Benchmarks",
-   "momentum": 72,
-   "rank": 45
-  },
-  {
    "name": "ChainForge",
    "full_name": "ianarawjo/ChainForge",
    "slug": "ianarawjo-chainforge",
    "url": "https://github.com/ianarawjo/ChainForge",
    "owner": "ianarawjo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5251713?v=4",
-   "stars": 3001,
+   "stars": 3002,
    "forks": 256,
    "open_issues": 68,
    "language": "TypeScript",
@@ -1583,7 +1563,7 @@
    ],
    "category": "Coding Eval",
    "momentum": 72,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "Awesome-AI4Med",
@@ -1612,7 +1592,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 72,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "free-coding-models",
@@ -1621,7 +1601,7 @@
    "url": "https://github.com/vava-nessa/free-coding-models",
    "owner": "vava-nessa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5466264?v=4",
-   "stars": 2078,
+   "stars": 2083,
    "forks": 230,
    "open_issues": 19,
    "language": "HTML",
@@ -1648,7 +1628,7 @@
    ],
    "category": "Coding Eval",
    "momentum": 72,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "Spiritual-Spell-Red-Teaming",
@@ -1657,7 +1637,7 @@
    "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming",
    "owner": "Goochbeater",
    "owner_avatar": "https://avatars.githubusercontent.com/u/174131698?v=4",
-   "stars": 1952,
+   "stars": 1962,
    "forks": 355,
    "open_issues": 11,
    "language": "",
@@ -1668,33 +1648,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 72,
-   "rank": 49
-  },
-  {
-   "name": "deepteam",
-   "full_name": "confident-ai/deepteam",
-   "slug": "confident-ai-deepteam",
-   "url": "https://github.com/confident-ai/deepteam",
-   "owner": "confident-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/130858411?v=4",
-   "stars": 1921,
-   "forks": 315,
-   "open_issues": 47,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-22T07:47:19Z",
-   "created_at": "2025-03-05T06:34:21Z",
-   "description": "DeepTeam is a framework to red team LLMs and AI agents.",
-   "topics": [
-    "llm-guardrails",
-    "llm-red-teaming",
-    "llm-safety",
-    "llm-seecurity",
-    "python"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 72,
-   "rank": 50
+   "rank": 48
   },
   {
    "name": "AssetOpsBench",
@@ -1703,12 +1657,12 @@
    "url": "https://github.com/IBM/AssetOpsBench",
    "owner": "IBM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
-   "stars": 1920,
-   "forks": 283,
-   "open_issues": 42,
+   "stars": 1928,
+   "forks": 285,
+   "open_issues": 46,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T02:00:40Z",
+   "pushed_at": "2026-06-27T04:26:32Z",
    "created_at": "2025-05-01T20:48:50Z",
    "description": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP.",
    "topics": [
@@ -1723,7 +1677,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 72,
-   "rank": 51
+   "rank": 49
   },
   {
    "name": "agentic_security",
@@ -1758,7 +1712,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 72,
-   "rank": 52
+   "rank": 50
   },
   {
    "name": "WFGY",
@@ -1767,12 +1721,12 @@
    "url": "https://github.com/onestardao/WFGY",
    "owner": "onestardao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/212544643?v=4",
-   "stars": 1760,
+   "stars": 1759,
    "forks": 163,
    "open_issues": 11,
    "language": "Jupyter Notebook",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T09:32:49Z",
+   "pushed_at": "2026-06-27T08:39:33Z",
    "created_at": "2025-06-04T13:45:14Z",
    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV Easter Egg.",
    "topics": [
@@ -1791,7 +1745,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 72,
-   "rank": 53
+   "rank": 51
   },
   {
    "name": "FinSight-AI",
@@ -1822,7 +1776,7 @@
    ],
    "category": "Observability",
    "momentum": 72,
-   "rank": 54
+   "rank": 52
   },
   {
    "name": "iFixAi",
@@ -1833,10 +1787,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/279006089?v=4",
    "stars": 570,
    "forks": 112,
-   "open_issues": 1,
+   "open_issues": 0,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T10:19:55Z",
+   "pushed_at": "2026-06-27T10:48:16Z",
    "created_at": "2026-04-27T13:02:34Z",
    "description": "Catch your AI's mistakes and blind spots before your customers or regulators do. iFixAi runs 45 inspections, 32 graded core plus 13 extended for frontier risks like sabotage, sandbagging, and oversight evasion. It returns a letter grade in under 5 minutes. Industry and model agnostic.",
    "topics": [
@@ -1863,7 +1817,27 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 72,
-   "rank": 55
+   "rank": 53
+  },
+  {
+   "name": "evals",
+   "full_name": "openai/evals",
+   "slug": "openai-evals",
+   "url": "https://github.com/openai/evals",
+   "owner": "openai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
+   "stars": 18785,
+   "forks": 2997,
+   "open_issues": 211,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-04-14T15:29:57Z",
+   "created_at": "2023-01-23T20:51:04Z",
+   "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+   "topics": [],
+   "category": "Benchmarks",
+   "momentum": 71,
+   "rank": 54
   },
   {
    "name": "helm",
@@ -1883,6 +1857,32 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 71,
+   "rank": 55
+  },
+  {
+   "name": "deepteam",
+   "full_name": "confident-ai/deepteam",
+   "slug": "confident-ai-deepteam",
+   "url": "https://github.com/confident-ai/deepteam",
+   "owner": "confident-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/130858411?v=4",
+   "stars": 1920,
+   "forks": 315,
+   "open_issues": 47,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-22T07:47:19Z",
+   "created_at": "2025-03-05T06:34:21Z",
+   "description": "DeepTeam is a framework to red team LLMs and AI agents.",
+   "topics": [
+    "llm-guardrails",
+    "llm-red-teaming",
+    "llm-safety",
+    "llm-seecurity",
+    "python"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 71,
    "rank": 56
   },
   {
@@ -1892,7 +1892,7 @@
    "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
    "owner": "Barca0412",
    "owner_avatar": "https://avatars.githubusercontent.com/u/92302656?v=4",
-   "stars": 1508,
+   "stars": 1513,
    "forks": 165,
    "open_issues": 0,
    "language": "Python",
@@ -1924,12 +1924,12 @@
    "url": "https://github.com/trpc-group/trpc-agent-go",
    "owner": "trpc-group",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140800716?v=4",
-   "stars": 1410,
-   "forks": 179,
+   "stars": 1413,
+   "forks": 180,
    "open_issues": 63,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T09:59:32Z",
+   "pushed_at": "2026-06-27T03:22:33Z",
    "created_at": "2025-05-14T13:51:35Z",
    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
    "topics": [
@@ -1963,7 +1963,7 @@
    "url": "https://github.com/evidentlyai/evidently",
    "owner": "evidentlyai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/75031056?v=4",
-   "stars": 7641,
+   "stars": 7642,
    "forks": 872,
    "open_issues": 281,
    "language": "Jupyter Notebook",
@@ -1998,7 +1998,7 @@
    "url": "https://github.com/DestinyLinker/MingLi-Bench",
    "owner": "DestinyLinker",
    "owner_avatar": "https://avatars.githubusercontent.com/u/227604965?v=4",
-   "stars": 1959,
+   "stars": 1968,
    "forks": 319,
    "open_issues": 1,
    "language": "Python",
@@ -2018,7 +2018,7 @@
    "url": "https://github.com/SmartFlowAI/EmoLLM",
    "owner": "SmartFlowAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161115059?v=4",
-   "stars": 1752,
+   "stars": 1753,
    "forks": 222,
    "open_issues": 5,
    "language": "Python",
@@ -2066,65 +2066,13 @@
    "rank": 62
   },
   {
-   "name": "LiveBench",
-   "full_name": "LiveBench/LiveBench",
-   "slug": "livebench-livebench",
-   "url": "https://github.com/LiveBench/LiveBench",
-   "owner": "LiveBench",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/169931984?v=4",
-   "stars": 1214,
-   "forks": 110,
-   "open_issues": 158,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-24T13:39:23Z",
-   "created_at": "2024-06-12T12:13:57Z",
-   "description": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
-   "topics": [],
-   "category": "Benchmarks",
-   "momentum": 70,
-   "rank": 63
-  },
-  {
-   "name": "ParseBench",
-   "full_name": "run-llama/ParseBench",
-   "slug": "run-llama-parsebench",
-   "url": "https://github.com/run-llama/ParseBench",
-   "owner": "run-llama",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/130722866?v=4",
-   "stars": 506,
-   "forks": 65,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-25T00:20:31Z",
-   "created_at": "2026-04-10T20:46:33Z",
-   "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-   "topics": [
-    "benchmark",
-    "document-ai",
-    "document-parsing",
-    "evaluation",
-    "llamaindex",
-    "llm",
-    "machine-learning",
-    "ocr",
-    "pdf-parsing",
-    "table-extraction",
-    "vision-language-models"
-   ],
-   "category": "Agent Eval",
-   "momentum": 70,
-   "rank": 64
-  },
-  {
    "name": "prompty",
    "full_name": "microsoft/prompty",
    "slug": "microsoft-prompty",
    "url": "https://github.com/microsoft/prompty",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 1222,
+   "stars": 1223,
    "forks": 117,
    "open_issues": 15,
    "language": "TypeScript",
@@ -2141,7 +2089,27 @@
    ],
    "category": "Observability",
    "momentum": 69,
-   "rank": 65
+   "rank": 63
+  },
+  {
+   "name": "LiveBench",
+   "full_name": "LiveBench/LiveBench",
+   "slug": "livebench-livebench",
+   "url": "https://github.com/LiveBench/LiveBench",
+   "owner": "LiveBench",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/169931984?v=4",
+   "stars": 1215,
+   "forks": 111,
+   "open_issues": 158,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-24T13:39:23Z",
+   "created_at": "2024-06-12T12:13:57Z",
+   "description": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
+   "topics": [],
+   "category": "Benchmarks",
+   "momentum": 69,
+   "rank": 64
   },
   {
    "name": "Awesome-LLMs-for-Vulnerability-Detection",
@@ -2150,12 +2118,12 @@
    "url": "https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection",
    "owner": "huhusmang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/77958410?v=4",
-   "stars": 1078,
+   "stars": 1079,
    "forks": 96,
    "open_issues": 2,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-06-26T02:03:38Z",
+   "pushed_at": "2026-06-27T01:58:19Z",
    "created_at": "2024-09-02T13:49:55Z",
    "description": "The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and smart-contract detection, plus datasets, benchmarks, and surveys.",
    "topics": [
@@ -2169,7 +2137,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 69,
-   "rank": 66
+   "rank": 65
   },
   {
    "name": "judgeval",
@@ -2205,7 +2173,7 @@
    ],
    "category": "Observability",
    "momentum": 69,
-   "rank": 67
+   "rank": 66
   },
   {
    "name": "Gym",
@@ -2215,11 +2183,11 @@
    "owner": "NVIDIA-NeMo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/213689629?v=4",
    "stars": 1007,
-   "forks": 205,
-   "open_issues": 454,
+   "forks": 207,
+   "open_issues": 456,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-26T10:24:57Z",
+   "pushed_at": "2026-06-27T05:22:07Z",
    "created_at": "2025-08-25T21:37:55Z",
    "description": "Evaluate and improve models and agents using environments",
    "topics": [
@@ -2236,7 +2204,80 @@
    ],
    "category": "Agent Eval",
    "momentum": 69,
+   "rank": 67
+  },
+  {
+   "name": "ParseBench",
+   "full_name": "run-llama/ParseBench",
+   "slug": "run-llama-parsebench",
+   "url": "https://github.com/run-llama/ParseBench",
+   "owner": "run-llama",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/130722866?v=4",
+   "stars": 507,
+   "forks": 66,
+   "open_issues": 3,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-25T00:20:31Z",
+   "created_at": "2026-04-10T20:46:33Z",
+   "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+   "topics": [
+    "benchmark",
+    "document-ai",
+    "document-parsing",
+    "evaluation",
+    "llamaindex",
+    "llm",
+    "machine-learning",
+    "ocr",
+    "pdf-parsing",
+    "table-extraction",
+    "vision-language-models"
+   ],
+   "category": "Agent Eval",
+   "momentum": 69,
    "rank": 68
+  },
+  {
+   "name": "ClawBench",
+   "full_name": "TIGER-AI-Lab/ClawBench",
+   "slug": "tiger-ai-lab-clawbench",
+   "url": "https://github.com/TIGER-AI-Lab/ClawBench",
+   "owner": "TIGER-AI-Lab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/144196744?v=4",
+   "stars": 422,
+   "forks": 26,
+   "open_issues": 36,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-27T05:17:33Z",
+   "created_at": "2026-04-10T01:59:17Z",
+   "description": "Open-source benchmark for browser AI agents on daily tasks.",
+   "topics": [
+    "agent-evaluation",
+    "agentic-ai",
+    "ai-agent-benchmark",
+    "ai-agents",
+    "benchmark",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "chrome-agent",
+    "chrome-extension",
+    "computer-use",
+    "dataset",
+    "evaluation",
+    "everyday-tasks",
+    "llm",
+    "llm-evaluation",
+    "online-tasks",
+    "real-world-benchmark",
+    "web-agent",
+    "web-agents"
+   ],
+   "category": "Agent Eval",
+   "momentum": 69,
+   "rank": 69
   },
   {
    "name": "audio-ai-hub",
@@ -2264,47 +2305,6 @@
    ],
    "category": "Benchmarks",
    "momentum": 68,
-   "rank": 69
-  },
-  {
-   "name": "ClawBench",
-   "full_name": "TIGER-AI-Lab/ClawBench",
-   "slug": "tiger-ai-lab-clawbench",
-   "url": "https://github.com/TIGER-AI-Lab/ClawBench",
-   "owner": "TIGER-AI-Lab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/144196744?v=4",
-   "stars": 422,
-   "forks": 25,
-   "open_issues": 35,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-23T18:59:16Z",
-   "created_at": "2026-04-10T01:59:17Z",
-   "description": "Open-source benchmark for browser AI agents on daily tasks.",
-   "topics": [
-    "agent-evaluation",
-    "agentic-ai",
-    "ai-agent-benchmark",
-    "ai-agents",
-    "benchmark",
-    "browser-agent",
-    "browser-automation",
-    "browser-use",
-    "chrome-agent",
-    "chrome-extension",
-    "computer-use",
-    "dataset",
-    "evaluation",
-    "everyday-tasks",
-    "llm",
-    "llm-evaluation",
-    "online-tasks",
-    "real-world-benchmark",
-    "web-agent",
-    "web-agents"
-   ],
-   "category": "Agent Eval",
-   "momentum": 68,
    "rank": 70
   },
   {
@@ -2314,7 +2314,7 @@
    "url": "https://github.com/m4xx101/cryptex-oss",
    "owner": "m4xx101",
    "owner_avatar": "https://avatars.githubusercontent.com/u/46222738?v=4",
-   "stars": 331,
+   "stars": 332,
    "forks": 61,
    "open_issues": 0,
    "language": "TypeScript",
@@ -2326,6 +2326,56 @@
    "category": "Red Teaming & Safety",
    "momentum": 68,
    "rank": 71
+  },
+  {
+   "name": "LLM-Engineers-Handbook",
+   "full_name": "PacktPublishing/LLM-Engineers-Handbook",
+   "slug": "packtpublishing-llm-engineers-handbook",
+   "url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
+   "owner": "PacktPublishing",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/10974906?v=4",
+   "stars": 5133,
+   "forks": 1234,
+   "open_issues": 32,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-04-22T08:25:03Z",
+   "created_at": "2024-04-09T10:56:03Z",
+   "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
+   "topics": [
+    "aws",
+    "fine-tuning-llm",
+    "genai",
+    "llm",
+    "llm-evaluation",
+    "llmops",
+    "ml-system-design",
+    "mlops",
+    "rag"
+   ],
+   "category": "RAG Eval",
+   "momentum": 66,
+   "rank": 72
+  },
+  {
+   "name": "skill",
+   "full_name": "pinchbench/skill",
+   "slug": "pinchbench-skill",
+   "url": "https://github.com/pinchbench/skill",
+   "owner": "pinchbench",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/260781745?v=4",
+   "stars": 1254,
+   "forks": 143,
+   "open_issues": 21,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-02T21:35:43Z",
+   "created_at": "2026-02-11T01:41:39Z",
+   "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+   "topics": [],
+   "category": "Agent Eval",
+   "momentum": 66,
+   "rank": 73
   },
   {
    "name": "uqlm",
@@ -2359,56 +2409,6 @@
     "uncertainty-quantification"
    ],
    "category": "Red Teaming & Safety",
-   "momentum": 67,
-   "rank": 72
-  },
-  {
-   "name": "LLM-Engineers-Handbook",
-   "full_name": "PacktPublishing/LLM-Engineers-Handbook",
-   "slug": "packtpublishing-llm-engineers-handbook",
-   "url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
-   "owner": "PacktPublishing",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/10974906?v=4",
-   "stars": 5130,
-   "forks": 1234,
-   "open_issues": 32,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-04-22T08:25:03Z",
-   "created_at": "2024-04-09T10:56:03Z",
-   "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
-   "topics": [
-    "aws",
-    "fine-tuning-llm",
-    "genai",
-    "llm",
-    "llm-evaluation",
-    "llmops",
-    "ml-system-design",
-    "mlops",
-    "rag"
-   ],
-   "category": "RAG Eval",
-   "momentum": 66,
-   "rank": 73
-  },
-  {
-   "name": "skill",
-   "full_name": "pinchbench/skill",
-   "slug": "pinchbench-skill",
-   "url": "https://github.com/pinchbench/skill",
-   "owner": "pinchbench",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/260781745?v=4",
-   "stars": 1252,
-   "forks": 143,
-   "open_issues": 21,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-02T21:35:43Z",
-   "created_at": "2026-02-11T01:41:39Z",
-   "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
-   "topics": [],
-   "category": "Agent Eval",
    "momentum": 66,
    "rank": 74
   },
@@ -2419,7 +2419,7 @@
    "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
    "owner": "VoltAgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
-   "stars": 1462,
+   "stars": 1466,
    "forks": 160,
    "open_issues": 6,
    "language": "",
@@ -2481,7 +2481,7 @@
    "url": "https://github.com/agentscope-ai/OpenJudge",
    "owner": "agentscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
-   "stars": 688,
+   "stars": 689,
    "forks": 57,
    "open_issues": 12,
    "language": "Python",
@@ -2514,8 +2514,8 @@
    "url": "https://github.com/gy15901580825/Argus",
    "owner": "gy15901580825",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59456306?v=4",
-   "stars": 191,
-   "forks": 26,
+   "stars": 199,
+   "forks": 27,
    "open_issues": 1,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2534,7 +2534,7 @@
    "url": "https://github.com/suyoumo/ClawProBench",
    "owner": "suyoumo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39437291?v=4",
-   "stars": 802,
+   "stars": 808,
    "forks": 52,
    "open_issues": 0,
    "language": "Python",
@@ -2562,7 +2562,7 @@
    "url": "https://github.com/IntelLabs/RAG-FiT",
    "owner": "IntelLabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1492758?v=4",
-   "stars": 770,
+   "stars": 769,
    "forks": 61,
    "open_issues": 1,
    "language": "Python",
@@ -2591,7 +2591,7 @@
    "url": "https://github.com/chrisliu298/awesome-llm-unlearning",
    "owner": "chrisliu298",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59010212?v=4",
-   "stars": 598,
+   "stars": 600,
    "forks": 31,
    "open_issues": 0,
    "language": "",
@@ -2666,7 +2666,7 @@
    "url": "https://github.com/langfuse/langfuse-python",
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 426,
+   "stars": 427,
    "forks": 301,
    "open_issues": 66,
    "language": "Python",
@@ -2684,38 +2684,6 @@
    "category": "Observability",
    "momentum": 64,
    "rank": 83
-  },
-  {
-   "name": "rhesis",
-   "full_name": "rhesis-ai/rhesis",
-   "slug": "rhesis-ai-rhesis",
-   "url": "https://github.com/rhesis-ai/rhesis",
-   "owner": "rhesis-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/168341335?v=4",
-   "stars": 373,
-   "forks": 26,
-   "open_issues": 121,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T09:34:16Z",
-   "created_at": "2024-10-09T19:32:19Z",
-   "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (adversarial) conversations, and trace every failure to its root cause.",
-   "topics": [
-    "generative-ai",
-    "llm-evaluation",
-    "llm-evaluation-framework",
-    "llmops",
-    "open-source",
-    "quality-assessment",
-    "responsible-ai",
-    "test-execution",
-    "test-generation",
-    "test-management",
-    "trustworthy-ai"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 64,
-   "rank": 84
   },
   {
    "name": "Awesome-LLM-in-Social-Science",
@@ -2747,7 +2715,78 @@
    ],
    "category": "Agent Eval",
    "momentum": 63,
+   "rank": 84
+  },
+  {
+   "name": "rhesis",
+   "full_name": "rhesis-ai/rhesis",
+   "slug": "rhesis-ai-rhesis",
+   "url": "https://github.com/rhesis-ai/rhesis",
+   "owner": "rhesis-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/168341335?v=4",
+   "stars": 373,
+   "forks": 26,
+   "open_issues": 121,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-26T14:43:36Z",
+   "created_at": "2024-10-09T19:32:19Z",
+   "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (adversarial) conversations, and trace every failure to its root cause.",
+   "topics": [
+    "generative-ai",
+    "llm-evaluation",
+    "llm-evaluation-framework",
+    "llmops",
+    "open-source",
+    "quality-assessment",
+    "responsible-ai",
+    "test-execution",
+    "test-generation",
+    "test-management",
+    "trustworthy-ai"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 63,
    "rank": 85
+  },
+  {
+   "name": "verifywise",
+   "full_name": "verifywise-ai/verifywise",
+   "slug": "verifywise-ai-verifywise",
+   "url": "https://github.com/verifywise-ai/verifywise",
+   "owner": "verifywise-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/262239808?v=4",
+   "stars": 313,
+   "forks": 105,
+   "open_issues": 86,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-27T08:23:59Z",
+   "created_at": "2024-08-18T23:02:10Z",
+   "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI frameworks and regulations. Join our Discord channel: https://discord.com/invite/d3k3E4uEpR",
+   "topics": [
+    "ai",
+    "ai-auditing",
+    "ai-compliance",
+    "ai-governance",
+    "ai-governance-model",
+    "ai-risk",
+    "audit",
+    "auditing",
+    "compliance",
+    "eu-ai-act",
+    "governance",
+    "grc",
+    "iso27001",
+    "iso42001",
+    "llm-eval",
+    "llm-evaluation",
+    "nist-ai-rmf",
+    "risk-management"
+   ],
+   "category": "Eval Frameworks",
+   "momentum": 63,
+   "rank": 86
   },
   {
    "name": "openllmetry-js",
@@ -2781,46 +2820,7 @@
     "typescript"
    ],
    "category": "Observability",
-   "momentum": 63,
-   "rank": 86
-  },
-  {
-   "name": "verifywise",
-   "full_name": "verifywise-ai/verifywise",
-   "slug": "verifywise-ai-verifywise",
-   "url": "https://github.com/verifywise-ai/verifywise",
-   "owner": "verifywise-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/262239808?v=4",
-   "stars": 313,
-   "forks": 105,
-   "open_issues": 82,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T09:40:42Z",
-   "created_at": "2024-08-18T23:02:10Z",
-   "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI frameworks and regulations. Join our Discord channel: https://discord.com/invite/d3k3E4uEpR",
-   "topics": [
-    "ai",
-    "ai-auditing",
-    "ai-compliance",
-    "ai-governance",
-    "ai-governance-model",
-    "ai-risk",
-    "audit",
-    "auditing",
-    "compliance",
-    "eu-ai-act",
-    "governance",
-    "grc",
-    "iso27001",
-    "iso42001",
-    "llm-eval",
-    "llm-evaluation",
-    "nist-ai-rmf",
-    "risk-management"
-   ],
-   "category": "Eval Frameworks",
-   "momentum": 63,
+   "momentum": 62,
    "rank": 87
   },
   {
@@ -2830,9 +2830,9 @@
    "url": "https://github.com/vibrantlabsai/ragas",
    "owner": "vibrantlabsai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/122604797?v=4",
-   "stars": 14541,
-   "forks": 1508,
-   "open_issues": 450,
+   "stars": 14547,
+   "forks": 1511,
+   "open_issues": 453,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-02-24T07:47:19Z",
@@ -2960,10 +2960,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
    "stars": 214,
    "forks": 246,
-   "open_issues": 136,
+   "open_issues": 135,
    "language": "MDX",
    "license": "MIT",
-   "pushed_at": "2026-06-26T10:24:45Z",
+   "pushed_at": "2026-06-27T07:08:52Z",
    "created_at": "2023-05-22T14:48:56Z",
    "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
    "topics": [
@@ -3016,26 +3016,6 @@
    "rank": 94
   },
   {
-   "name": "promptimize",
-   "full_name": "preset-io/promptimize",
-   "slug": "preset-io-promptimize",
-   "url": "https://github.com/preset-io/promptimize",
-   "owner": "preset-io",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/45908173?v=4",
-   "stars": 495,
-   "forks": 43,
-   "open_issues": 17,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-25T21:07:55Z",
-   "created_at": "2023-04-04T15:34:08Z",
-   "description": "Promptimize is a prompt engineering evaluation and testing toolkit.",
-   "topics": [],
-   "category": "Eval Frameworks",
-   "momentum": 60,
-   "rank": 95
-  },
-  {
    "name": "moonshot",
    "full_name": "aiverify-foundation/moonshot",
    "slug": "aiverify-foundation-moonshot",
@@ -3059,7 +3039,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 60,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "LLM-eval-survey",
@@ -3086,6 +3066,26 @@
    ],
    "category": "Benchmarks",
    "momentum": 59,
+   "rank": 96
+  },
+  {
+   "name": "promptimize",
+   "full_name": "preset-io/promptimize",
+   "slug": "preset-io-promptimize",
+   "url": "https://github.com/preset-io/promptimize",
+   "owner": "preset-io",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/45908173?v=4",
+   "stars": 495,
+   "forks": 43,
+   "open_issues": 17,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-25T21:07:55Z",
+   "created_at": "2023-04-04T15:34:08Z",
+   "description": "Promptimize is a prompt engineering evaluation and testing toolkit.",
+   "topics": [],
+   "category": "Eval Frameworks",
+   "momentum": 59,
    "rank": 97
   },
   {
@@ -3095,7 +3095,7 @@
    "url": "https://github.com/vectara/open-rag-eval",
    "owner": "vectara",
    "owner_avatar": "https://avatars.githubusercontent.com/u/108304503?v=4",
-   "stars": 377,
+   "stars": 379,
    "forks": 23,
    "open_issues": 8,
    "language": "Python",
@@ -3122,7 +3122,7 @@
    "url": "https://github.com/alphadl/AdaRubrics",
    "owner": "alphadl",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20458732?v=4",
-   "stars": 308,
+   "stars": 313,
    "forks": 33,
    "open_issues": 0,
    "language": "Python",
@@ -3148,7 +3148,7 @@
    "url": "https://github.com/supermemoryai/memorybench",
    "owner": "supermemoryai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/171979587?v=4",
-   "stars": 286,
+   "stars": 287,
    "forks": 67,
    "open_issues": 10,
    "language": "TypeScript",
@@ -3230,7 +3230,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/209155962?v=4",
    "stars": 153,
    "forks": 41,
-   "open_issues": 45,
+   "open_issues": 46,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-25T22:38:58Z",
@@ -3248,33 +3248,6 @@
    "category": "Agent Eval",
    "momentum": 59,
    "rank": 103
-  },
-  {
-   "name": "langfuse-js",
-   "full_name": "langfuse/langfuse-js",
-   "slug": "langfuse-langfuse-js",
-   "url": "https://github.com/langfuse/langfuse-js",
-   "owner": "langfuse",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 145,
-   "forks": 94,
-   "open_issues": 29,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-26T07:39:59Z",
-   "created_at": "2023-07-02T21:43:44Z",
-   "description": "🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-   "topics": [
-    "javascript",
-    "langfuse",
-    "llmops",
-    "observability",
-    "sdk-js",
-    "typescript"
-   ],
-   "category": "Observability",
-   "momentum": 59,
-   "rank": 104
   },
   {
    "name": "rag-fusion",
@@ -3304,7 +3277,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 58,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "web-codegen-scorer",
@@ -3314,7 +3287,7 @@
    "owner": "angular",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139426?v=4",
    "stars": 753,
-   "forks": 65,
+   "forks": 66,
    "open_issues": 17,
    "language": "TypeScript",
    "license": "MIT",
@@ -3329,7 +3302,7 @@
    ],
    "category": "Coding Eval",
    "momentum": 58,
-   "rank": 106
+   "rank": 105
   },
   {
    "name": "llms-tools",
@@ -3359,46 +3332,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 58,
-   "rank": 107
-  },
-  {
-   "name": "llmio",
-   "full_name": "atopos31/llmio",
-   "slug": "atopos31-llmio",
-   "url": "https://github.com/atopos31/llmio",
-   "owner": "atopos31",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/113456534?v=4",
-   "stars": 313,
-   "forks": 36,
-   "open_issues": 14,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-05-29T02:41:21Z",
-   "created_at": "2025-08-06T03:43:36Z",
-   "description": "Unified LLM gateway with weighted load balancing, observability & cost tracking. 统一的 LLM 网关，提供权重负载均衡、可观测性与费用追踪。",
-   "topics": [
-    "ai",
-    "ai-gateway",
-    "claude",
-    "claude-ai",
-    "claude-code",
-    "codex",
-    "deepseek",
-    "doubao",
-    "gemini",
-    "gemini-cli",
-    "go",
-    "golang",
-    "kimi",
-    "newapi",
-    "openai",
-    "openclaw",
-    "qwen",
-    "transformer"
-   ],
-   "category": "Observability",
-   "momentum": 58,
-   "rank": 108
+   "rank": 106
   },
   {
    "name": "llm-bridge",
@@ -3418,37 +3352,34 @@
    "topics": [],
    "category": "Observability",
    "momentum": 58,
-   "rank": 109
+   "rank": 107
   },
   {
-   "name": "AgentEval",
-   "full_name": "AgentEvalHQ/AgentEval",
-   "slug": "agentevalhq-agenteval",
-   "url": "https://github.com/AgentEvalHQ/AgentEval",
-   "owner": "AgentEvalHQ",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/263448867?v=4",
-   "stars": 124,
-   "forks": 10,
-   "open_issues": 1,
-   "language": "C#",
-   "license": "MIT",
-   "pushed_at": "2026-06-25T06:12:01Z",
-   "created_at": "2026-01-02T19:52:13Z",
-   "description": "AgentEval is the comprehensive .NET toolkit for AI agent evaluation—tool usage validation, RAG quality metrics, stochastic evaluation, and model comparison—built first for Microsoft Agent Framework (MAF) and Microsoft.Extensions.AI. What RAGAS, PromptFoo and DeepEval do for Python, AgentEval does for .NET",
+   "name": "langfuse-js",
+   "full_name": "langfuse/langfuse-js",
+   "slug": "langfuse-langfuse-js",
+   "url": "https://github.com/langfuse/langfuse-js",
+   "owner": "langfuse",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
+   "stars": 145,
+   "forks": 94,
+   "open_issues": 28,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-26T14:50:44Z",
+   "created_at": "2023-07-02T21:43:44Z",
+   "description": "🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
    "topics": [
-    "agent",
-    "agentic",
-    "evals",
-    "evaluations",
-    "framework",
-    "net",
-    "red-teaming",
-    "testing",
-    "workflows"
+    "javascript",
+    "langfuse",
+    "llmops",
+    "observability",
+    "sdk-js",
+    "typescript"
    ],
-   "category": "Red Teaming & Safety",
+   "category": "Observability",
    "momentum": 58,
-   "rank": 110
+   "rank": 108
   },
   {
    "name": "tma1",
@@ -3457,7 +3388,7 @@
    "url": "https://github.com/tma1-ai/tma1",
    "owner": "tma1-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/267869330?v=4",
-   "stars": 101,
+   "stars": 102,
    "forks": 11,
    "open_issues": 4,
    "language": "Go",
@@ -3488,7 +3419,7 @@
    ],
    "category": "Observability",
    "momentum": 58,
-   "rank": 111
+   "rank": 109
   },
   {
    "name": "awesome-ai-security-tools",
@@ -3516,7 +3447,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 58,
-   "rank": 112
+   "rank": 110
   },
   {
    "name": "trench",
@@ -3557,7 +3488,100 @@
    ],
    "category": "Observability",
    "momentum": 57,
+   "rank": 111
+  },
+  {
+   "name": "llmio",
+   "full_name": "atopos31/llmio",
+   "slug": "atopos31-llmio",
+   "url": "https://github.com/atopos31/llmio",
+   "owner": "atopos31",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/113456534?v=4",
+   "stars": 313,
+   "forks": 36,
+   "open_issues": 14,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-05-29T02:41:21Z",
+   "created_at": "2025-08-06T03:43:36Z",
+   "description": "Unified LLM gateway with weighted load balancing, observability & cost tracking. 统一的 LLM 网关，提供权重负载均衡、可观测性与费用追踪。",
+   "topics": [
+    "ai",
+    "ai-gateway",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "codex",
+    "deepseek",
+    "doubao",
+    "gemini",
+    "gemini-cli",
+    "go",
+    "golang",
+    "kimi",
+    "newapi",
+    "openai",
+    "openclaw",
+    "qwen",
+    "transformer"
+   ],
+   "category": "Observability",
+   "momentum": 57,
+   "rank": 112
+  },
+  {
+   "name": "AgentEval",
+   "full_name": "AgentEvalHQ/AgentEval",
+   "slug": "agentevalhq-agenteval",
+   "url": "https://github.com/AgentEvalHQ/AgentEval",
+   "owner": "AgentEvalHQ",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/263448867?v=4",
+   "stars": 124,
+   "forks": 10,
+   "open_issues": 1,
+   "language": "C#",
+   "license": "MIT",
+   "pushed_at": "2026-06-25T06:12:01Z",
+   "created_at": "2026-01-02T19:52:13Z",
+   "description": "AgentEval is the comprehensive .NET toolkit for AI agent evaluation—tool usage validation, RAG quality metrics, stochastic evaluation, and model comparison—built first for Microsoft Agent Framework (MAF) and Microsoft.Extensions.AI. What RAGAS, PromptFoo and DeepEval do for Python, AgentEval does for .NET",
+   "topics": [
+    "agent",
+    "agentic",
+    "evals",
+    "evaluations",
+    "framework",
+    "net",
+    "red-teaming",
+    "testing",
+    "workflows"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 57,
    "rank": 113
+  },
+  {
+   "name": "EvaLearn",
+   "full_name": "ByteDance-Seed/EvaLearn",
+   "slug": "bytedance-seed-evalearn",
+   "url": "https://github.com/ByteDance-Seed/EvaLearn",
+   "owner": "ByteDance-Seed",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/202897071?v=4",
+   "stars": 430,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-12T07:00:26Z",
+   "created_at": "2025-06-03T04:41:27Z",
+   "description": "EvaLearn is a pioneering benchmark designed to evaluate large language models (LLMs) on their learning capability and efficiency in challenging tasks.",
+   "topics": [
+    "dynamic-evaluation",
+    "evaluation",
+    "llms"
+   ],
+   "category": "Benchmarks",
+   "momentum": 56,
+   "rank": 114
   },
   {
    "name": "generative-ai-project-template",
@@ -3585,32 +3609,88 @@
     "ubuntu"
    ],
    "category": "Observability",
-   "momentum": 57,
-   "rank": 114
-  },
-  {
-   "name": "EvaLearn",
-   "full_name": "ByteDance-Seed/EvaLearn",
-   "slug": "bytedance-seed-evalearn",
-   "url": "https://github.com/ByteDance-Seed/EvaLearn",
-   "owner": "ByteDance-Seed",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/202897071?v=4",
-   "stars": 430,
-   "forks": 12,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-12T07:00:26Z",
-   "created_at": "2025-06-03T04:41:27Z",
-   "description": "EvaLearn is a pioneering benchmark designed to evaluate large language models (LLMs) on their learning capability and efficiency in challenging tasks.",
-   "topics": [
-    "dynamic-evaluation",
-    "evaluation",
-    "llms"
-   ],
-   "category": "Benchmarks",
    "momentum": 56,
    "rank": 115
+  },
+  {
+   "name": "RouterArena",
+   "full_name": "RouteWorks/RouterArena",
+   "slug": "routeworks-routerarena",
+   "url": "https://github.com/RouteWorks/RouterArena",
+   "owner": "RouteWorks",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/235972115?v=4",
+   "stars": 100,
+   "forks": 30,
+   "open_issues": 13,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-23T18:09:29Z",
+   "created_at": "2025-10-05T18:38:19Z",
+   "description": "RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an automated framework, and a live leaderboard.",
+   "topics": [
+    "arena",
+    "llm",
+    "llm-router",
+    "llm-routing",
+    "multi-agent",
+    "multi-agent-systems",
+    "router-benchmark",
+    "router-evaluation",
+    "router-leaderboard",
+    "routing"
+   ],
+   "category": "Agent Eval",
+   "momentum": 56,
+   "rank": 116
+  },
+  {
+   "name": "tribunal",
+   "full_name": "georgeguimaraes/tribunal",
+   "slug": "georgeguimaraes-tribunal",
+   "url": "https://github.com/georgeguimaraes/tribunal",
+   "owner": "georgeguimaraes",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/2929?v=4",
+   "stars": 94,
+   "forks": 3,
+   "open_issues": 9,
+   "language": "Elixir",
+   "license": "MIT",
+   "pushed_at": "2026-06-24T00:05:13Z",
+   "created_at": "2026-01-12T11:42:30Z",
+   "description": "LLM evaluation framework for Elixir: evaluate and test LLM outputs, detect hallucinations, measure response quality",
+   "topics": [],
+   "category": "Eval Frameworks",
+   "momentum": 56,
+   "rank": 117
+  },
+  {
+   "name": "crucible",
+   "full_name": "crucible-security/crucible",
+   "slug": "crucible-security-crucible",
+   "url": "https://github.com/crucible-security/crucible",
+   "owner": "crucible-security",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/277894632?v=4",
+   "stars": 44,
+   "forks": 32,
+   "open_issues": 17,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-16T06:32:56Z",
+   "created_at": "2026-04-20T21:54:13Z",
+   "description": "pytest for AI agents - Autonomous red-teaming, behavioral monitoring & security testing for LLM agents",
+   "topics": [
+    "ai-agents",
+    "ai-security",
+    "llm",
+    "owasp",
+    "prompt-injection",
+    "python",
+    "red-teaming",
+    "security-testing"
+   ],
+   "category": "Observability",
+   "momentum": 56,
+   "rank": 118
   },
   {
    "name": "EnterpriseRAG-Bench",
@@ -3619,7 +3699,7 @@
    "url": "https://github.com/onyx-dot-app/EnterpriseRAG-Bench",
    "owner": "onyx-dot-app",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131946000?v=4",
-   "stars": 423,
+   "stars": 424,
    "forks": 42,
    "open_issues": 7,
    "language": "",
@@ -3649,125 +3729,8 @@
     "synthetic-data-generation"
    ],
    "category": "RAG Eval",
-   "momentum": 56,
-   "rank": 116
-  },
-  {
-   "name": "RouterArena",
-   "full_name": "RouteWorks/RouterArena",
-   "slug": "routeworks-routerarena",
-   "url": "https://github.com/RouteWorks/RouterArena",
-   "owner": "RouteWorks",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/235972115?v=4",
-   "stars": 97,
-   "forks": 30,
-   "open_issues": 13,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-23T18:09:29Z",
-   "created_at": "2025-10-05T18:38:19Z",
-   "description": "RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an automated framework, and a live leaderboard.",
-   "topics": [
-    "arena",
-    "llm",
-    "llm-router",
-    "llm-routing",
-    "multi-agent",
-    "multi-agent-systems",
-    "router-benchmark",
-    "router-evaluation",
-    "router-leaderboard",
-    "routing"
-   ],
-   "category": "Agent Eval",
-   "momentum": 56,
-   "rank": 117
-  },
-  {
-   "name": "tribunal",
-   "full_name": "georgeguimaraes/tribunal",
-   "slug": "georgeguimaraes-tribunal",
-   "url": "https://github.com/georgeguimaraes/tribunal",
-   "owner": "georgeguimaraes",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/2929?v=4",
-   "stars": 94,
-   "forks": 3,
-   "open_issues": 9,
-   "language": "Elixir",
-   "license": "MIT",
-   "pushed_at": "2026-06-24T00:05:13Z",
-   "created_at": "2026-01-12T11:42:30Z",
-   "description": "LLM evaluation framework for Elixir: evaluate and test LLM outputs, detect hallucinations, measure response quality",
-   "topics": [],
-   "category": "Eval Frameworks",
-   "momentum": 56,
-   "rank": 118
-  },
-  {
-   "name": "crucible",
-   "full_name": "crucible-security/crucible",
-   "slug": "crucible-security-crucible",
-   "url": "https://github.com/crucible-security/crucible",
-   "owner": "crucible-security",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/277894632?v=4",
-   "stars": 43,
-   "forks": 32,
-   "open_issues": 17,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-16T06:32:56Z",
-   "created_at": "2026-04-20T21:54:13Z",
-   "description": "pytest for AI agents - Autonomous red-teaming, behavioral monitoring & security testing for LLM agents",
-   "topics": [
-    "ai-agents",
-    "ai-security",
-    "llm",
-    "owasp",
-    "prompt-injection",
-    "python",
-    "red-teaming",
-    "security-testing"
-   ],
-   "category": "Observability",
-   "momentum": 56,
+   "momentum": 55,
    "rank": 119
-  },
-  {
-   "name": "hermes-katana",
-   "full_name": "claudlos/hermes-katana",
-   "slug": "claudlos-hermes-katana",
-   "url": "https://github.com/claudlos/hermes-katana",
-   "owner": "claudlos",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/258678933?v=4",
-   "stars": 42,
-   "forks": 2,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-23T13:57:22Z",
-   "created_at": "2026-04-05T02:57:13Z",
-   "description": "Defense-in-depth security toolkit for LLM agents — taint tracking, proxy secret guard, policy engine, and red-team benchmarking",
-   "topics": [
-    "agent-security",
-    "ai",
-    "ai-agent",
-    "ai-agents",
-    "ai-security",
-    "hermes",
-    "hermes-agent",
-    "llm",
-    "llm-security",
-    "llms",
-    "mitm-proxy",
-    "prompt-injection",
-    "python",
-    "security",
-    "security-tools",
-    "taint-tracking"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 56,
-   "rank": 120
   },
   {
    "name": "AutoRedTeam-Orchestrator",
@@ -3808,27 +3771,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 55,
-   "rank": 121
-  },
-  {
-   "name": "llm-systems-engineering-roadmap",
-   "full_name": "h9-tec/llm-systems-engineering-roadmap",
-   "slug": "h9-tec-llm-systems-engineering-roadmap",
-   "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap",
-   "owner": "h9-tec",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/61054142?v=4",
-   "stars": 165,
-   "forks": 24,
-   "open_issues": 0,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-04-25T13:28:14Z",
-   "created_at": "2026-04-25T13:18:12Z",
-   "description": "A practical roadmap for mastering LLM internals, training, inference, RAG, agents, evaluation, and production architecture.",
-   "topics": [],
-   "category": "RAG Eval",
-   "momentum": 55,
-   "rank": 122
+   "rank": 120
   },
   {
    "name": "traccia-py",
@@ -3856,7 +3799,7 @@
    ],
    "category": "Observability",
    "momentum": 55,
-   "rank": 123
+   "rank": 121
   },
   {
    "name": "promptfoo-action",
@@ -3870,7 +3813,7 @@
    "open_issues": 6,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-25T08:31:16Z",
+   "pushed_at": "2026-06-26T19:04:01Z",
    "created_at": "2023-06-21T03:10:38Z",
    "description": "The GitHub Action for Promptfoo.  Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
    "topics": [
@@ -3882,66 +3825,64 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 55,
-   "rank": 124
+   "rank": 122
   },
   {
-   "name": "redthread",
-   "full_name": "matheusht/redthread",
-   "slug": "matheusht-redthread",
-   "url": "https://github.com/matheusht/redthread",
-   "owner": "matheusht",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/96798246?v=4",
-   "stars": 36,
-   "forks": 3,
-   "open_issues": 2,
+   "name": "hermes-katana",
+   "full_name": "claudlos/hermes-katana",
+   "slug": "claudlos-hermes-katana",
+   "url": "https://github.com/claudlos/hermes-katana",
+   "owner": "claudlos",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/258678933?v=4",
+   "stars": 42,
+   "forks": 2,
+   "open_issues": 0,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-06-24T14:06:20Z",
-   "created_at": "2026-03-31T17:20:12Z",
-   "description": "An autonomous red-teaming engine for LLMs. RedThread manages the full security lifecycle: generating adversarial attacks, executing precision evaluations, and synthesizing validated guardrails for safe self-improvement.",
-   "topics": [],
+   "pushed_at": "2026-06-23T13:57:22Z",
+   "created_at": "2026-04-05T02:57:13Z",
+   "description": "Defense-in-depth security toolkit for LLM agents — taint tracking, proxy secret guard, policy engine, and red-team benchmarking",
+   "topics": [
+    "agent-security",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-security",
+    "hermes",
+    "hermes-agent",
+    "llm",
+    "llm-security",
+    "llms",
+    "mitm-proxy",
+    "prompt-injection",
+    "python",
+    "security",
+    "security-tools",
+    "taint-tracking"
+   ],
    "category": "Red Teaming & Safety",
    "momentum": 55,
-   "rank": 125
+   "rank": 123
   },
   {
-   "name": "AgenticGoKit",
-   "full_name": "AgenticGoKit/AgenticGoKit",
-   "slug": "agenticgokit-agenticgokit",
-   "url": "https://github.com/AgenticGoKit/AgenticGoKit",
-   "owner": "AgenticGoKit",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/240036989?v=4",
-   "stars": 161,
-   "forks": 35,
-   "open_issues": 14,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-26T14:25:24Z",
-   "created_at": "2025-05-02T07:58:47Z",
-   "description": "Open-source Agentic AI framework in Go for building, orchestrating, and deploying intelligent agents. LLM-agnostic, event-driven, with multi-agent workflows, MCP tool discovery, and production-grade observability.",
-   "topics": [
-    "agentic-ai",
-    "agentic-ai-development",
-    "agentic-coding",
-    "agentic-framework",
-    "agentic-rag",
-    "agentic-workflow",
-    "agentic-workflows",
-    "agents",
-    "ai",
-    "ai-agents",
-    "ai-framework",
-    "aiframework",
-    "developer-tools",
-    "framework",
-    "golang",
-    "mcp",
-    "multi-agent",
-    "multi-agent-systems"
-   ],
-   "category": "Observability",
+   "name": "llm-systems-engineering-roadmap",
+   "full_name": "h9-tec/llm-systems-engineering-roadmap",
+   "slug": "h9-tec-llm-systems-engineering-roadmap",
+   "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap",
+   "owner": "h9-tec",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/61054142?v=4",
+   "stars": 165,
+   "forks": 24,
+   "open_issues": 0,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-04-25T13:28:14Z",
+   "created_at": "2026-04-25T13:18:12Z",
+   "description": "A practical roadmap for mastering LLM internals, training, inference, RAG, agents, evaluation, and production architecture.",
+   "topics": [],
+   "category": "RAG Eval",
    "momentum": 54,
-   "rank": 126
+   "rank": 124
   },
   {
    "name": "ai_for_the_win",
@@ -3982,7 +3923,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 54,
-   "rank": 127
+   "rank": 125
   },
   {
    "name": "leva",
@@ -4006,7 +3947,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 54,
-   "rank": 128
+   "rank": 126
   },
   {
    "name": "llm-observability",
@@ -4026,7 +3967,7 @@
    "topics": [],
    "category": "Observability",
    "momentum": 54,
-   "rank": 129
+   "rank": 127
   },
   {
    "name": "ares",
@@ -4046,7 +3987,7 @@
    "topics": [],
    "category": "Agent Eval",
    "momentum": 54,
-   "rank": 130
+   "rank": 128
   },
   {
    "name": "nitro-imessage-agent-template",
@@ -4076,34 +4017,27 @@
    ],
    "category": "Observability",
    "momentum": 54,
-   "rank": 131
+   "rank": 129
   },
   {
-   "name": "KernelBench",
-   "full_name": "ScalingIntelligence/KernelBench",
-   "slug": "scalingintelligence-kernelbench",
-   "url": "https://github.com/ScalingIntelligence/KernelBench",
-   "owner": "ScalingIntelligence",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/171742855?v=4",
-   "stars": 1084,
-   "forks": 174,
-   "open_issues": 40,
-   "language": "Jupyter Notebook",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-03-24T04:29:13Z",
-   "created_at": "2024-10-25T00:08:19Z",
-   "description": "KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs)",
-   "topics": [
-    "benchmark",
-    "codegen",
-    "evaluation",
-    "gpu",
-    "rl-environment",
-    "tooling"
-   ],
-   "category": "Benchmarks",
-   "momentum": 53,
-   "rank": 132
+   "name": "redthread",
+   "full_name": "matheusht/redthread",
+   "slug": "matheusht-redthread",
+   "url": "https://github.com/matheusht/redthread",
+   "owner": "matheusht",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/96798246?v=4",
+   "stars": 36,
+   "forks": 3,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-24T14:06:20Z",
+   "created_at": "2026-03-31T17:20:12Z",
+   "description": "An autonomous red-teaming engine for LLMs. RedThread manages the full security lifecycle: generating adversarial attacks, executing precision evaluations, and synthesizing validated guardrails for safe self-improvement.",
+   "topics": [],
+   "category": "Red Teaming & Safety",
+   "momentum": 54,
+   "rank": 130
   },
   {
    "name": "ai-llm-red-team-handbook",
@@ -4123,7 +4057,46 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 53,
-   "rank": 133
+   "rank": 131
+  },
+  {
+   "name": "AgenticGoKit",
+   "full_name": "AgenticGoKit/AgenticGoKit",
+   "slug": "agenticgokit-agenticgokit",
+   "url": "https://github.com/AgenticGoKit/AgenticGoKit",
+   "owner": "AgenticGoKit",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/240036989?v=4",
+   "stars": 161,
+   "forks": 35,
+   "open_issues": 14,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-26T14:25:24Z",
+   "created_at": "2025-05-02T07:58:47Z",
+   "description": "Open-source Agentic AI framework in Go for building, orchestrating, and deploying intelligent agents. LLM-agnostic, event-driven, with multi-agent workflows, MCP tool discovery, and production-grade observability.",
+   "topics": [
+    "agentic-ai",
+    "agentic-ai-development",
+    "agentic-coding",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-workflow",
+    "agentic-workflows",
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-framework",
+    "aiframework",
+    "developer-tools",
+    "framework",
+    "golang",
+    "mcp",
+    "multi-agent",
+    "multi-agent-systems"
+   ],
+   "category": "Observability",
+   "momentum": 53,
+   "rank": 132
   },
   {
    "name": "llmtrace",
@@ -4134,10 +4107,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/282556246?v=4",
    "stars": 54,
    "forks": 1,
-   "open_issues": 92,
+   "open_issues": 94,
    "language": "Rust",
    "license": "MIT",
-   "pushed_at": "2026-06-26T07:07:26Z",
+   "pushed_at": "2026-06-27T06:43:07Z",
    "created_at": "2026-01-31T21:44:13Z",
    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for OpenAI-compatible APIs. Built in Rust.",
    "topics": [
@@ -4163,6 +4136,33 @@
    ],
    "category": "Observability",
    "momentum": 53,
+   "rank": 133
+  },
+  {
+   "name": "KernelBench",
+   "full_name": "ScalingIntelligence/KernelBench",
+   "slug": "scalingintelligence-kernelbench",
+   "url": "https://github.com/ScalingIntelligence/KernelBench",
+   "owner": "ScalingIntelligence",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/171742855?v=4",
+   "stars": 1087,
+   "forks": 174,
+   "open_issues": 38,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-03-24T04:29:13Z",
+   "created_at": "2024-10-25T00:08:19Z",
+   "description": "KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs)",
+   "topics": [
+    "benchmark",
+    "codegen",
+    "evaluation",
+    "gpu",
+    "rl-environment",
+    "tooling"
+   ],
+   "category": "Benchmarks",
+   "momentum": 52,
    "rank": 134
   },
   {
@@ -4172,8 +4172,8 @@
    "url": "https://github.com/aws-samples/sample-getting-started-with-strands-agents-course",
    "owner": "aws-samples",
    "owner_avatar": "https://avatars.githubusercontent.com/u/8931462?v=4",
-   "stars": 91,
-   "forks": 36,
+   "stars": 92,
+   "forks": 37,
    "open_issues": 3,
    "language": "Jupyter Notebook",
    "license": "MIT-0",
@@ -4267,8 +4267,8 @@
    "url": "https://github.com/THUDM/AgentBench",
    "owner": "THUDM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
-   "stars": 3519,
-   "forks": 262,
+   "stars": 3524,
+   "forks": 263,
    "open_issues": 74,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4286,42 +4286,13 @@
    "rank": 138
   },
   {
-   "name": "awesome-red-teaming-llms",
-   "full_name": "dapurv5/awesome-red-teaming-llms",
-   "slug": "dapurv5-awesome-red-teaming-llms",
-   "url": "https://github.com/dapurv5/awesome-red-teaming-llms",
-   "owner": "dapurv5",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/654346?v=4",
-   "stars": 44,
-   "forks": 11,
-   "open_issues": 0,
-   "language": "",
-   "license": "CC-BY-4.0",
-   "pushed_at": "2026-06-17T04:45:44Z",
-   "created_at": "2024-04-27T01:29:47Z",
-   "description": "Papers from our SoK on Red-Teaming (Accepted at TMLR)",
-   "topics": [
-    "adversarial-attacks",
-    "ai-safety",
-    "ai-security",
-    "awesome",
-    "awesome-list",
-    "llm-safety",
-    "llm-security",
-    "red-teaming"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 51,
-   "rank": 139
-  },
-  {
    "name": "skill-optimizer",
    "full_name": "fastxyz/skill-optimizer",
    "slug": "fastxyz-skill-optimizer",
    "url": "https://github.com/fastxyz/skill-optimizer",
    "owner": "fastxyz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/153221483?v=4",
-   "stars": 66,
+   "stars": 67,
    "forks": 11,
    "open_issues": 14,
    "language": "TypeScript",
@@ -4351,7 +4322,61 @@
    ],
    "category": "Agent Eval",
    "momentum": 50,
+   "rank": 139
+  },
+  {
+   "name": "awesome-red-teaming-llms",
+   "full_name": "dapurv5/awesome-red-teaming-llms",
+   "slug": "dapurv5-awesome-red-teaming-llms",
+   "url": "https://github.com/dapurv5/awesome-red-teaming-llms",
+   "owner": "dapurv5",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/654346?v=4",
+   "stars": 44,
+   "forks": 11,
+   "open_issues": 0,
+   "language": "",
+   "license": "CC-BY-4.0",
+   "pushed_at": "2026-06-17T04:45:44Z",
+   "created_at": "2024-04-27T01:29:47Z",
+   "description": "Papers from our SoK on Red-Teaming (Accepted at TMLR)",
+   "topics": [
+    "adversarial-attacks",
+    "ai-safety",
+    "ai-security",
+    "awesome",
+    "awesome-list",
+    "llm-safety",
+    "llm-security",
+    "red-teaming"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 50,
    "rank": 140
+  },
+  {
+   "name": "promptly",
+   "full_name": "equinor/promptly",
+   "slug": "equinor-promptly",
+   "url": "https://github.com/equinor/promptly",
+   "owner": "equinor",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/525862?v=4",
+   "stars": 27,
+   "forks": 2,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "CC-BY-4.0",
+   "pushed_at": "2026-06-26T14:58:05Z",
+   "created_at": "2024-02-12T08:08:15Z",
+   "description": "A prompt collection for testing and evaluation of LLMs.",
+   "topics": [
+    "chatgpt",
+    "llm-evaluation",
+    "prompt-engineering",
+    "prompts"
+   ],
+   "category": "Eval Frameworks",
+   "momentum": 50,
+   "rank": 141
   },
   {
    "name": "apo",
@@ -4381,7 +4406,7 @@
    ],
    "category": "Observability",
    "momentum": 47,
-   "rank": 141
+   "rank": 142
   },
   {
    "name": "repoagentbench",
@@ -4413,7 +4438,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 47,
-   "rank": 142
+   "rank": 143
   },
   {
    "name": "terminal-bench",
@@ -4422,9 +4447,9 @@
    "url": "https://github.com/harbor-framework/terminal-bench",
    "owner": "harbor-framework",
    "owner_avatar": "https://avatars.githubusercontent.com/u/256467836?v=4",
-   "stars": 2384,
+   "stars": 2387,
    "forks": 548,
-   "open_issues": 308,
+   "open_issues": 309,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-01-22T05:27:03Z",
@@ -4433,7 +4458,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 46,
-   "rank": 143
+   "rank": 144
   },
   {
    "name": "FuzzyAI",
@@ -4442,7 +4467,7 @@
    "url": "https://github.com/cyberark/FuzzyAI",
    "owner": "cyberark",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30869256?v=4",
-   "stars": 1496,
+   "stars": 1497,
    "forks": 207,
    "open_issues": 6,
    "language": "Jupyter Notebook",
@@ -4464,7 +4489,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 46,
-   "rank": 144
+   "rank": 145
   },
   {
    "name": "web-eval-agent",
@@ -4494,7 +4519,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 46,
-   "rank": 145
+   "rank": 146
   },
   {
    "name": "TextWorld",
@@ -4518,7 +4543,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 45,
-   "rank": 146
+   "rank": 147
   },
   {
    "name": "pyllms",
@@ -4538,7 +4563,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 45,
-   "rank": 147
+   "rank": 148
   },
   {
    "name": "Static-to-Dynamic-LLMEval",
@@ -4565,47 +4590,6 @@
     "testing"
    ],
    "category": "Benchmarks",
-   "momentum": 45,
-   "rank": 148
-  },
-  {
-   "name": "nasde-toolkit",
-   "full_name": "NoesisVision/nasde-toolkit",
-   "slug": "noesisvision-nasde-toolkit",
-   "url": "https://github.com/NoesisVision/nasde-toolkit",
-   "owner": "NoesisVision",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/128144584?v=4",
-   "stars": 10,
-   "forks": 0,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-25T16:42:31Z",
-   "created_at": "2026-03-13T20:01:06Z",
-   "description": "CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini individual subscriptions or API keys.",
-   "topics": [
-    "agent-benchmark",
-    "agent-evaluation",
-    "ai-coding-agents",
-    "ai-evaluation",
-    "claude-code",
-    "claude-skills",
-    "cli-tool",
-    "codex",
-    "evals",
-    "gemini-cli",
-    "harbor",
-    "llm-as-a-judge",
-    "llm-eval",
-    "llm-evaluation",
-    "mcp",
-    "model-context-protocol",
-    "opik",
-    "python",
-    "sandbox",
-    "sdlc"
-   ],
-   "category": "Agent Eval",
    "momentum": 45,
    "rank": 149
   },
@@ -4650,26 +4634,41 @@
    "rank": 151
   },
   {
-   "name": "OpenSkillEval",
-   "full_name": "ALEX-nlp/OpenSkillEval",
-   "slug": "alex-nlp-openskilleval",
-   "url": "https://github.com/ALEX-nlp/OpenSkillEval",
-   "owner": "ALEX-nlp",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/206792812?v=4",
-   "stars": 12,
+   "name": "nasde-toolkit",
+   "full_name": "NoesisVision/nasde-toolkit",
+   "slug": "noesisvision-nasde-toolkit",
+   "url": "https://github.com/NoesisVision/nasde-toolkit",
+   "owner": "NoesisVision",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/128144584?v=4",
+   "stars": 10,
    "forks": 0,
    "open_issues": 0,
    "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-15T02:14:09Z",
-   "created_at": "2026-05-29T03:06:01Z",
-   "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+   "license": "MIT",
+   "pushed_at": "2026-06-25T16:42:31Z",
+   "created_at": "2026-03-13T20:01:06Z",
+   "description": "CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini individual subscriptions or API keys.",
    "topics": [
+    "agent-benchmark",
     "agent-evaluation",
-    "ai-agents",
-    "benchmark",
+    "ai-coding-agents",
+    "ai-evaluation",
+    "claude-code",
+    "claude-skills",
+    "cli-tool",
+    "codex",
+    "evals",
+    "gemini-cli",
+    "harbor",
+    "llm-as-a-judge",
     "llm-eval",
-    "skill-evaluation"
+    "llm-evaluation",
+    "mcp",
+    "model-context-protocol",
+    "opik",
+    "python",
+    "sandbox",
+    "sdlc"
    ],
    "category": "Agent Eval",
    "momentum": 44,
@@ -4729,40 +4728,6 @@
    "rank": 154
   },
   {
-   "name": "LLMSecurityGuide",
-   "full_name": "requie/LLMSecurityGuide",
-   "slug": "requie-llmsecurityguide",
-   "url": "https://github.com/requie/LLMSecurityGuide",
-   "owner": "requie",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/8768293?v=4",
-   "stars": 118,
-   "forks": 12,
-   "open_issues": 1,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-04-03T12:51:21Z",
-   "created_at": "2025-10-07T23:18:36Z",
-   "description": "A comprehensive reference for securing Large Language Models (LLMs). Covers OWASP GenAI Top-10 risks, prompt injection, adversarial attacks, real-world incidents, and practical defenses. Includes catalogs of red-teaming tools, guardrails, and mitigation strategies to help developers, researchers, and security teams deploy AI responsibly.",
-   "topics": [
-    "ai-safety",
-    "ai-security",
-    "ai-security-tool",
-    "generative-ai-security",
-    "generative-ai-security-assurance",
-    "llm-security",
-    "llm-security-compliance-prompt-injection",
-    "llm-vulnerabilities",
-    "offensive-security",
-    "prompt-injection",
-    "prompt-injection-defense",
-    "prompt-injection-llm-security",
-    "red-teaming"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 43,
-   "rank": 155
-  },
-  {
    "name": "Eval",
    "full_name": "ai-twinkle/Eval",
    "slug": "ai-twinkle-eval",
@@ -4784,7 +4749,7 @@
    ],
    "category": "Reasoning",
    "momentum": 43,
-   "rank": 156
+   "rank": 155
   },
   {
    "name": "AIGoat",
@@ -4793,9 +4758,9 @@
    "url": "https://github.com/AISecurityConsortium/AIGoat",
    "owner": "AISecurityConsortium",
    "owner_avatar": "https://avatars.githubusercontent.com/u/229268502?v=4",
-   "stars": 66,
-   "forks": 28,
-   "open_issues": 1,
+   "stars": 67,
+   "forks": 29,
+   "open_issues": 2,
    "language": "JavaScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-04-24T10:40:12Z",
@@ -4819,7 +4784,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 43,
-   "rank": 157
+   "rank": 156
   },
   {
    "name": "RedTeam-Agent",
@@ -4859,6 +4824,32 @@
     "windows-security"
    ],
    "category": "Red Teaming & Safety",
+   "momentum": 43,
+   "rank": 157
+  },
+  {
+   "name": "OpenSkillEval",
+   "full_name": "ALEX-nlp/OpenSkillEval",
+   "slug": "alex-nlp-openskilleval",
+   "url": "https://github.com/ALEX-nlp/OpenSkillEval",
+   "owner": "ALEX-nlp",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/206792812?v=4",
+   "stars": 12,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-15T02:14:09Z",
+   "created_at": "2026-05-29T03:06:01Z",
+   "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+   "topics": [
+    "agent-evaluation",
+    "ai-agents",
+    "benchmark",
+    "llm-eval",
+    "skill-evaluation"
+   ],
+   "category": "Agent Eval",
    "momentum": 43,
    "rank": 158
   },
@@ -4902,6 +4893,40 @@
    "rank": 159
   },
   {
+   "name": "LLMSecurityGuide",
+   "full_name": "requie/LLMSecurityGuide",
+   "slug": "requie-llmsecurityguide",
+   "url": "https://github.com/requie/LLMSecurityGuide",
+   "owner": "requie",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8768293?v=4",
+   "stars": 119,
+   "forks": 12,
+   "open_issues": 1,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-04-03T12:51:21Z",
+   "created_at": "2025-10-07T23:18:36Z",
+   "description": "A comprehensive reference for securing Large Language Models (LLMs). Covers OWASP GenAI Top-10 risks, prompt injection, adversarial attacks, real-world incidents, and practical defenses. Includes catalogs of red-teaming tools, guardrails, and mitigation strategies to help developers, researchers, and security teams deploy AI responsibly.",
+   "topics": [
+    "ai-safety",
+    "ai-security",
+    "ai-security-tool",
+    "generative-ai-security",
+    "generative-ai-security-assurance",
+    "llm-security",
+    "llm-security-compliance-prompt-injection",
+    "llm-vulnerabilities",
+    "offensive-security",
+    "prompt-injection",
+    "prompt-injection-defense",
+    "prompt-injection-llm-security",
+    "red-teaming"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 42,
+   "rank": 160
+  },
+  {
    "name": "acceptance-bench",
    "full_name": "ellydee/acceptance-bench",
    "slug": "ellydee-acceptance-bench",
@@ -4919,7 +4944,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 42,
-   "rank": 160
+   "rank": 161
   },
   {
    "name": "uptrain",
@@ -4954,7 +4979,7 @@
    ],
    "category": "Observability",
    "momentum": 41,
-   "rank": 161
+   "rank": 162
   },
   {
    "name": "graph-rag-agent",
@@ -4963,7 +4988,7 @@
    "url": "https://github.com/1517005260/graph-rag-agent",
    "owner": "1517005260",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113491113?v=4",
-   "stars": 2250,
+   "stars": 2248,
    "forks": 316,
    "open_issues": 36,
    "language": "Python",
@@ -4986,7 +5011,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 41,
-   "rank": 162
+   "rank": 163
   },
   {
    "name": "evaluation-guidebook",
@@ -5014,7 +5039,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 41,
-   "rank": 163
+   "rank": 164
   },
   {
    "name": "ragrank",
@@ -5043,7 +5068,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 41,
-   "rank": 164
+   "rank": 165
   },
   {
    "name": "GPU-Benchmarks-on-LLM-Inference",
@@ -5063,7 +5088,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 40,
-   "rank": 165
+   "rank": 166
   },
   {
    "name": "ruby_llm-tribunal",
@@ -5083,7 +5108,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 40,
-   "rank": 166
+   "rank": 167
   },
   {
    "name": "Video-ChatGPT",
@@ -5115,7 +5140,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 39,
-   "rank": 167
+   "rank": 168
   },
   {
    "name": "llm-colosseum",
@@ -5140,7 +5165,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 39,
-   "rank": 168
+   "rank": 169
   },
   {
    "name": "SWELancer-Benchmark",
@@ -5160,7 +5185,7 @@
    "topics": [],
    "category": "Coding Eval",
    "momentum": 39,
-   "rank": 169
+   "rank": 170
   },
   {
    "name": "AI-penetration-testing",
@@ -5189,7 +5214,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 39,
-   "rank": 170
+   "rank": 171
   },
   {
    "name": "llm_intent_entity",
@@ -5209,7 +5234,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 39,
-   "rank": 171
+   "rank": 172
   },
   {
    "name": "text-to-lora",
@@ -5218,8 +5243,8 @@
    "url": "https://github.com/SakanaAI/text-to-lora",
    "owner": "SakanaAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140988036?v=4",
-   "stars": 1288,
-   "forks": 88,
+   "stars": 1289,
+   "forks": 87,
    "open_issues": 2,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5235,7 +5260,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 38,
-   "rank": 172
+   "rank": 173
   },
   {
    "name": "langtrace",
@@ -5270,7 +5295,7 @@
    ],
    "category": "Observability",
    "momentum": 38,
-   "rank": 173
+   "rank": 174
   },
   {
    "name": "burn0",
@@ -5303,7 +5328,7 @@
    ],
    "category": "Observability",
    "momentum": 38,
-   "rank": 174
+   "rank": 175
   },
   {
    "name": "llmperf",
@@ -5323,7 +5348,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 37,
-   "rank": 175
+   "rank": 176
   },
   {
    "name": "prometheus-eval",
@@ -5353,7 +5378,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 37,
-   "rank": 176
+   "rank": 177
   },
   {
    "name": "yet-another-applied-llm-benchmark",
@@ -5373,7 +5398,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 37,
-   "rank": 177
+   "rank": 178
   },
   {
    "name": "arena-hard-auto",
@@ -5393,7 +5418,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 37,
-   "rank": 178
+   "rank": 179
   },
   {
    "name": "Mind2Web",
@@ -5413,7 +5438,7 @@
    "topics": [],
    "category": "Agent Eval",
    "momentum": 37,
-   "rank": 179
+   "rank": 180
   },
   {
    "name": "langkit",
@@ -5441,7 +5466,7 @@
    ],
    "category": "Observability",
    "momentum": 37,
-   "rank": 180
+   "rank": 181
   },
   {
    "name": "ATLAS",
@@ -5450,7 +5475,7 @@
    "url": "https://github.com/VILA-Lab/ATLAS",
    "owner": "VILA-Lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/101944607?v=4",
-   "stars": 989,
+   "stars": 990,
    "forks": 107,
    "open_issues": 7,
    "language": "Python",
@@ -5461,7 +5486,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 37,
-   "rank": 181
+   "rank": 182
   },
   {
    "name": "PIXIU",
@@ -5470,7 +5495,7 @@
    "url": "https://github.com/The-FinAI/PIXIU",
    "owner": "The-FinAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26429143?v=4",
-   "stars": 871,
+   "stars": 873,
    "forks": 117,
    "open_issues": 12,
    "language": "Jupyter Notebook",
@@ -5497,7 +5522,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 36,
-   "rank": 182
+   "rank": 183
   },
   {
    "name": "Video-MME",
@@ -5524,7 +5549,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 36,
-   "rank": 183
+   "rank": 184
   },
   {
    "name": "python-sdk",
@@ -5554,7 +5579,32 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 36,
-   "rank": 184
+   "rank": 185
+  },
+  {
+   "name": "rag-in-action",
+   "full_name": "huangjia2019/rag-in-action",
+   "slug": "huangjia2019-rag-in-action",
+   "url": "https://github.com/huangjia2019/rag-in-action",
+   "owner": "huangjia2019",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48795276?v=4",
+   "stars": 764,
+   "forks": 307,
+   "open_issues": 3,
+   "language": "Jupyter Notebook",
+   "license": "",
+   "pushed_at": "2025-07-16T11:30:52Z",
+   "created_at": "2025-03-06T07:42:09Z",
+   "description": "End-to-end RAG system design, evaluation, and optimization. 极客时间RAG训练营，RAG 10大组件全面拆解，4个实操项目吃透 RAG 全流程。RAG的落地，往往是面向业务做RAG，而不是反过来面向RAG做业务。这就是为什么我们需要针对不同场景、不同问题做针对性的调整、优化和定制化。魔鬼全在细节中，我们深入进去探究。",
+   "topics": [
+    "agent",
+    "ai",
+    "llm",
+    "rag"
+   ],
+   "category": "RAG Eval",
+   "momentum": 35,
+   "rank": 186
   },
   {
    "name": "contoso-chat",
@@ -5588,32 +5638,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 35,
-   "rank": 185
-  },
-  {
-   "name": "rag-in-action",
-   "full_name": "huangjia2019/rag-in-action",
-   "slug": "huangjia2019-rag-in-action",
-   "url": "https://github.com/huangjia2019/rag-in-action",
-   "owner": "huangjia2019",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/48795276?v=4",
-   "stars": 763,
-   "forks": 307,
-   "open_issues": 3,
-   "language": "Jupyter Notebook",
-   "license": "",
-   "pushed_at": "2025-07-16T11:30:52Z",
-   "created_at": "2025-03-06T07:42:09Z",
-   "description": "End-to-end RAG system design, evaluation, and optimization. 极客时间RAG训练营，RAG 10大组件全面拆解，4个实操项目吃透 RAG 全流程。RAG的落地，往往是面向业务做RAG，而不是反过来面向RAG做业务。这就是为什么我们需要针对不同场景、不同问题做针对性的调整、优化和定制化。魔鬼全在细节中，我们深入进去探究。",
-   "topics": [
-    "agent",
-    "ai",
-    "llm",
-    "rag"
-   ],
-   "category": "RAG Eval",
-   "momentum": 35,
-   "rank": 186
+   "rank": 187
   },
   {
    "name": "ARES",
@@ -5633,7 +5658,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 35,
-   "rank": 187
+   "rank": 188
   },
   {
    "name": "codefuse-devops-eval",
@@ -5653,7 +5678,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 35,
-   "rank": 188
+   "rank": 189
   },
   {
    "name": "Awesome-LLM-Eval",
@@ -5693,7 +5718,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 35,
-   "rank": 189
+   "rank": 190
   },
   {
    "name": "BinaryAudit",
@@ -5720,7 +5745,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 35,
-   "rank": 190
+   "rank": 191
   },
   {
    "name": "circle-guard-bench",
@@ -5756,7 +5781,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 35,
-   "rank": 191
+   "rank": 192
   },
   {
    "name": "TrustLLM",
@@ -5789,7 +5814,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 34,
-   "rank": 192
+   "rank": 193
   },
   {
    "name": "RAG-Driven-Generative-AI",
@@ -5829,7 +5854,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 34,
-   "rank": 193
+   "rank": 194
   },
   {
    "name": "Long-Context",
@@ -5838,7 +5863,7 @@
    "url": "https://github.com/abacusai/Long-Context",
    "owner": "abacusai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/68347282?v=4",
-   "stars": 602,
+   "stars": 601,
    "forks": 46,
    "open_issues": 7,
    "language": "Python",
@@ -5849,7 +5874,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 34,
-   "rank": 194
+   "rank": 195
   },
   {
    "name": "llm-eval-simple",
@@ -5873,7 +5898,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 34,
-   "rank": 195
+   "rank": 196
   },
   {
    "name": "typescript-sdk",
@@ -5910,7 +5935,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 34,
-   "rank": 196
+   "rank": 197
   },
   {
    "name": "continuous-eval",
@@ -5938,7 +5963,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 33,
-   "rank": 197
+   "rank": 198
   },
   {
    "name": "llemonstack",
@@ -5958,7 +5983,7 @@
    "topics": [],
    "category": "Observability",
    "momentum": 33,
-   "rank": 198
+   "rank": 199
   },
   {
    "name": "prompt-optimizer-skill",
@@ -5967,7 +5992,7 @@
    "url": "https://github.com/geq1fan/prompt-optimizer-skill",
    "owner": "geq1fan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/29982379?v=4",
-   "stars": 12,
+   "stars": 13,
    "forks": 1,
    "open_issues": 7,
    "language": "JavaScript",
@@ -5986,8 +6011,8 @@
     "prompt-optimization"
    ],
    "category": "Red Teaming & Safety",
-   "momentum": 32,
-   "rank": 199
+   "momentum": 33,
+   "rank": 200
   },
   {
    "name": "llm-leaderboard",
@@ -6013,7 +6038,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 31,
-   "rank": 200
+   "rank": 201
   },
   {
    "name": "palico-ai",
@@ -6053,7 +6078,7 @@
    ],
    "category": "Observability",
    "momentum": 31,
-   "rank": 201
+   "rank": 202
   },
   {
    "name": "HackSynth",
@@ -6062,7 +6087,7 @@
    "url": "https://github.com/aielte-research/HackSynth",
    "owner": "aielte-research",
    "owner_avatar": "https://avatars.githubusercontent.com/u/61852660?v=4",
-   "stars": 311,
+   "stars": 310,
    "forks": 51,
    "open_issues": 0,
    "language": "Python",
@@ -6081,7 +6106,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 31,
-   "rank": 202
+   "rank": 203
   },
   {
    "name": "sparse-frontier",
@@ -6101,7 +6126,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 31,
-   "rank": 203
+   "rank": 204
   },
   {
    "name": "mcp-gateway",
@@ -6135,7 +6160,7 @@
    ],
    "category": "Observability",
    "momentum": 31,
-   "rank": 204
+   "rank": 205
   },
   {
    "name": "athina-evals",
@@ -6164,7 +6189,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 30,
-   "rank": 205
+   "rank": 206
   },
   {
    "name": "RAGTune",
@@ -6184,7 +6209,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 30,
-   "rank": 206
+   "rank": 207
   },
   {
    "name": "chatgpt-web-sea",
@@ -6204,7 +6229,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 30,
-   "rank": 207
+   "rank": 208
   },
   {
    "name": "example-rag-app",
@@ -6228,7 +6253,7 @@
    ],
    "category": "Observability",
    "momentum": 30,
-   "rank": 208
+   "rank": 209
   },
   {
    "name": "llm-bulls-and-cows-benchmark",
@@ -6257,7 +6282,7 @@
    ],
    "category": "Reasoning",
    "momentum": 29,
-   "rank": 209
+   "rank": 210
   },
   {
    "name": "rag-arena",
@@ -6285,26 +6310,6 @@
     "retrieval"
    ],
    "category": "RAG Eval",
-   "momentum": 29,
-   "rank": 210
-  },
-  {
-   "name": "DMind-Benchmark",
-   "full_name": "DMindAI/DMind-Benchmark",
-   "slug": "dmindai-dmind-benchmark",
-   "url": "https://github.com/DMindAI/DMind-Benchmark",
-   "owner": "DMindAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/203539032?v=4",
-   "stars": 52,
-   "forks": 3,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-02-08T12:03:46Z",
-   "created_at": "2025-04-25T02:52:51Z",
-   "description": "A comprehensive framework for evaluating large language models (LLMs) on blockchain, cryptocurrency, and Web3 knowledge across multiple domains.",
-   "topics": [],
-   "category": "Benchmarks",
    "momentum": 29,
    "rank": 211
   },
@@ -6436,6 +6441,101 @@
    "rank": 216
   },
   {
+   "name": "DMind-Benchmark",
+   "full_name": "DMindAI/DMind-Benchmark",
+   "slug": "dmindai-dmind-benchmark",
+   "url": "https://github.com/DMindAI/DMind-Benchmark",
+   "owner": "DMindAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/203539032?v=4",
+   "stars": 52,
+   "forks": 3,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-02-08T12:03:46Z",
+   "created_at": "2025-04-25T02:52:51Z",
+   "description": "A comprehensive framework for evaluating large language models (LLMs) on blockchain, cryptocurrency, and Web3 knowledge across multiple domains.",
+   "topics": [],
+   "category": "Benchmarks",
+   "momentum": 28,
+   "rank": 217
+  },
+  {
+   "name": "artkit",
+   "full_name": "BCG-X-Official/artkit",
+   "slug": "bcg-x-official-artkit",
+   "url": "https://github.com/BCG-X-Official/artkit",
+   "owner": "BCG-X-Official",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/70293226?v=4",
+   "stars": 169,
+   "forks": 38,
+   "open_issues": 10,
+   "language": "Jupyter Notebook",
+   "license": "Apache-2.0",
+   "pushed_at": "2025-03-06T18:33:04Z",
+   "created_at": "2024-06-09T15:15:39Z",
+   "description": "Automated prompt-based testing and evaluation of Gen AI applications",
+   "topics": [
+    "asyncio",
+    "data-science",
+    "gen-ai",
+    "genai",
+    "python",
+    "red-teaming",
+    "test-automation"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 27,
+   "rank": 218
+  },
+  {
+   "name": "OpenRedTeaming",
+   "full_name": "Libr-AI/OpenRedTeaming",
+   "slug": "libr-ai-openredteaming",
+   "url": "https://github.com/Libr-AI/OpenRedTeaming",
+   "owner": "Libr-AI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/133515165?v=4",
+   "stars": 168,
+   "forks": 14,
+   "open_issues": 3,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2025-05-28T18:38:37Z",
+   "created_at": "2024-02-05T07:16:00Z",
+   "description": "Papers about red teaming LLMs and Multimodal models.",
+   "topics": [
+    "awesome-list",
+    "language-model",
+    "llm-safety",
+    "papers",
+    "redteaming",
+    "safety"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 27,
+   "rank": 219
+  },
+  {
+   "name": "-L-",
+   "full_name": "jettbrains/-L-",
+   "slug": "jettbrains-l",
+   "url": "https://github.com/jettbrains/-L-",
+   "owner": "jettbrains",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/57115262?v=4",
+   "stars": 144,
+   "forks": 46,
+   "open_issues": 15,
+   "language": "",
+   "license": "GPL-3.0",
+   "pushed_at": "2021-08-18T13:41:54Z",
+   "created_at": "2019-10-28T21:50:26Z",
+   "description": "W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the previous edition, see the April 2019 W3C Strategic Highlights. For future editions of this report, please consult the latest version.  A Chinese translation is available.  ☰ Contents  Introduction Future Web Standards Meeting Industry Needs Web Payments Digital Publishing Media and Entertainment Web & Telecommunications Real-Time Communications (WebRTC) Web & Networks Automotive Web of Things Strengthening the Core of the Web HTML CSS Fonts SVG Audio Performance Web Performance WebAssembly Testing Browser Testing and Tools WebPlatform Tests Web of Data Web for All Security, Privacy, Identity Internationalization (i18n) Web Accessibility Outreach to the world W3C Developer Relations W3C Training Translations W3C Liaisons Introduction  This report highlights recent work of enhancement of the existing landscape of the Web platform and innovation for the growth and strength of the Web.  33 working groups and a dozen interest groups enable W3C to pursue its mission through the creation of Web standards, guidelines, and supporting materials. We track the tremendous work done across the Consortium through homogeneous work-spaces in Github which enables better monitoring and management.  We are in the middle of a period where we are chartering numerous working groups which demonstrate the rapid degree of change for the Web platform:  After 4 years, we are nearly ready to publish a Payment Request API Proposed Recommendation and we need to soon charter follow-on work. In the last year we chartered the Web Payment Security Interest Group. In the last year we chartered the Web Media Working Group with 7 specifications for next generation Media support on the Web. We have Accessibility Guidelines under W3C Member review which includes Silver, a new approach. We have just launched the Decentralized Identifier Working Group which has tremendous potential because Decentralized Identifier (DID) is an identifier that is globally unique, resolveable with high availability, and cryptographically verifiable. We have Privacy IG (PING) under W3C Member review which strengthens our focus on the tradeoff between privacy and function. We have a new CSS charter under W3C Member review which maps the group's work for the next three years. In this period, W3C and the WHATWG have succesfully completed the negotiation of a Memorandum of Understanding rooted in the mutual belief that that having two distinct specifications claiming to be normative is generally harmful for the Web community. The MOU, signed last May, describes how the two organizations are to collaborate on the development of a single authoritative version of the HTML and DOM specifications. W3C subsequently rechartered the HTML Working Group to assist the W3C community in raising issues and proposing solutions for the HTML and DOM specifications, and for the production of W3C Recommendations from WHATWG Review Drafts.  As the Web evolves continuously, some groups are looking for ways for specifications to do so as well. So-called \"evergreen recommendations\" or \"living standards\" aim to track continuous development (and maintenance) of features, on a feature-by-feature basis, while getting review and patent commitments.  We see the maturation and further development of an incredible number of new technologies coming to the Web. Continued progress in many areas demonstrates the vitality of the W3C and the Web community, as the rest of the report illustrates.  Future Web Standards W3C has a variety of mechanisms for listening to what the community thinks could become good future Web standards. These include discussions with the Membership, discussions with other standards bodies, the activities of thousands of participants in over 300 community groups, and W3C Workshops. There are lots of good ideas. The W3C strategy team has been identifying promising topics and invites public participation.   Future, recent and under consideration Workshops include:  Inclusive XR (5-6 November 2019, Seattle, WA, USA) to explore existing and future approaches on making Virtual and Augmented Reality experiences more inclusive, including to people with disabilities; W3C Workshop on Data Models for Transportation (12-13 September 2019, Palo Alto, CA, USA) W3C Workshop on Web Games (27-28 June 2019, Redmond, WA, USA), view report Second W3C Workshop on the Web of Things (3-5 June 2019, Munich, Germany) W3C Workshop on Web Standardization for Graph Data; Creating Bridges: RDF, Property Graph and SQL (4-6 March 2019, Berlin, Germany), view report Web & Machine Learning. The Strategy Funnel documents the staff's exploration of potential new work at various phases: Exploration and Investigation, Incubation and Evaluation, and eventually to the chartering of a new standards group. The Funnel view is a GitHub Project where new area are issues represented by “cards” which move through the columns, usually from left to right. Most cards start in Exploration and move towards Chartering, or move out of the funnel.  Public input is welcome at any stage but particularly once Incubation has begun. This helps W3C identify work that is sufficiently incubated to warrant standardization, to review the ecosystem around the work and indicate interest in participating in its standardization, and then to draft a charter that reflects an appropriate scope. Ongoing feedback can speed up the overall standardization process.  Since the previous highlights document, W3C has chartered a number of groups, and started discussion on many more:  Newly Chartered or Rechartered  Web Application Security WG (03-Apr) Web Payment Security IG (17-Apr) Patent and Standards IG (24-Apr) Web Applications WG (14-May) Web & Networks IG (16-May) Media WG (23-May) Media and Entertainment IG (06-Jun) HTML WG (06-Jun) Decentralized Identifier WG (05-Sep) Extended  Privacy IG (PING) (30-Sep) Verifiable Claims WG (30-Sep) Service Workers WG (31-Dec) Dataset Exchange WG (31-Dec) Web of Things Working Group (31-Dec) Web Audio Working Group (31-Dec) Proposed charters / Advance Notice  Accessibility Guidelines WG Privacy IG (PING) RDF Literal Direction WG Timed Text WG CSS WG Web Authentication WG Closed  Internationalization Tag Set IG Meeting Industry Needs Web Payments   All Web Payments specifications  W3C's payments standards enable a streamlined checkout experience, enabling a consistent user experience across the Web with lower front end development costs for merchants. Users can store and reuse information and more quickly and accurately complete online transactions.  The Web Payments Working Group has republished Payment Request API as a Candidate Recommendation, aiming to publish a Proposed Recommendation in the Fall 2019, and is discussing use cases and features for Payment Request after publication of the 1.0 Recommendation. Browser vendors have been finalizing implementation of features added in the past year (view the implementation report).  As work continues on the Payment Handler API and its implementation (currently in Chrome and Edge Canary), one focus in 2019 is to increase adoption in other browsers. Recently, Mastercard demonstrated the use of Payment Request API to carry out EMVCo's Secure Remote Commerce (SRC) protocol whose payment method definition is being developed with active participation by Visa, Mastercard, American Express, and Discover. Payment method availability is a key factor in merchant considerations about adopting Payment Request API. The ability to get uniform adoption of a new payment method such as Secure Remote Commerce (SRC) also depends on the availability of the Payment Handler API in browsers, or of proprietary alternatives.  Web Monetization, which the Web Payments Working Group will discuss again at its face-to-face meeting in September, can be used to enable micropayments as an alternative revenue stream to advertising.  Since the beginning of 2019, Amazon, Brave Software, JCB, Certus Cybersecurity Solutions and Netflix have joined the Web Payments Working Group.  In April, W3C launched the Web Payment Security Group to enable W3C, EMVCo, and the FIDO Alliance to collaborate on a vision for Web payment security and interoperability. Participants will define areas of collaboration and identify gaps between existing technical specifications in order to increase compatibility among different technologies, such as:  How do SRC, FIDO, and Payment Request relate? The Payment Services Directive 2 (PSD2) regulations in Europe are scheduled to take effect in September 2019. What is the role of EMVCo, W3C, and FIDO technologies, and what is the current state of readiness for the deadline? How can we improve privacy on the Web at the same time as we meet industry requirements regarding user identity? Digital Publishing   All Digital Publishing specifications, Publication milestones  The Web is the universal publishing platform. Publishing is increasingly impacted by the Web, and the Web increasingly impacts Publishing.  Topic of particular interest to Publishing@W3C include typography and layout, accessibility, usability, portability, distribution, archiving, offline access, print on demand, and reliable cross referencing. And the diverse publishing community represented in the groups consist of the traditional \"trade\" publishers, ebook reading system manufacturers, but also publishers of audio book, scholarly journals or educational materials, library scientists or browser developers.  The Publishing Working Group currently concentrates on Audiobooks which lack a comprehensive standard, thus incurring extra costs and time to publish in this booming market. Active development is ongoing on the future standard:  Publication Manifest Audiobook profile for Web Publications Lightweight Packaging Format The BD Comics Manga Community Group, the Synchronized Multimedia for Publications Community Group, the Publishing Community Group and a future group on archival, are companions to the working group where specific work is developed and incubated.  The Publishing Community Group is a recently launched incubation channel for Publishing@W3C. The goal of the group is to propose, document, and prototype features broadly related to:  publications on the Web reading modes and systems and the user experience of publications The EPUB 3 Community Group has successfully completed the revision of EPUB 3.2.  The Publishing Business Group fosters ongoing participation by members of the publishing industry and the overall ecosystem in the development of Web infrastructure to better support the needs of the industry. The Business Group serves as an additional conduit to the Publishing Working Group and several Community Groups for feedback between the publishing ecosystem and W3C. The Publishing BG has played a vital role in fostering and advancing the adoption and continued development of EPUB 3. In particular the BG provided critical support to the update of EPUBCheck to validate EPUB content to the new EPUB 3.2 specification. This resulted in the development, in conjunction with the EPUB3 Community Group, of a new generation of EPUBCheck, i.e., EPUBCheck 4.2 production-ready release.  Media and Entertainment   All Media specifications  The Media and Entertainment vertical tracks media-related topics and features that create immersive experiences for end users. HTML5 brought standard audio and video elements to the Web. Standardization activities since then have aimed at turning the Web into a professional platform fully suitable for the delivery of media content and associated materials, enabling missing features to stream video content on the Web such as adaptive streaming and content protection. Together with Microsoft, Comcast, Netflix and Google, W3C received an Technology & Engineering Emmy Award in April 2019 for standardization of a full TV experience on the Web. Current goals are to:  Reinforce core media technologies: Creation of the Media Working Group, to develop media-related specifications incubated in the WICG (e.g. Media Capabilities, Picture-in-picture, Media Session) and maintain maintain/evolve Media Source Extensions (MSE) and Encrypted Media Extensions (EME). Improve support for Media Timed Events: data cues incubation. Enhance color support (HDR, wide gamut), in scope of the CSS WG and in the Color on the Web CG. Reduce fragmentation: Continue annual releases of a common and testable baseline media devices, in scope of the Web Media APIs CG and in collaboration with the CTA WAVE Project. Maintain the Road-map of Media Technologies for the Web which highlights Web technologies that can be used to build media applications and services, as well as known gaps to enable additional use cases. Create the future: Discuss perspectives for Media and Entertainment for the Web. Bring the power of GPUs to the Web (graphics, machine learning, heavy processing), under incubation in the GPU for the Web CG. Transition to a Working Group is under discussion. Determine next steps after the successful W3C Workshop on Web Games of June 2019. View the report. Timed Text  The Timed Text Working Group develops and maintains formats used for the representation of text synchronized with other timed media, like audio and video, and notably works on TTML, profiles of TTML, and WebVTT. Recent progress includes:  A robust WebVTT implementation report poises the specification for publication as a proposed recommendation. Discussions around re-chartering, notably to add a TTML Profile for Audio Description deliverable to the scope of the group, and clarify that rendering of captions within XR content is also in scope. Immersive Web  Hardware that enables Virtual Reality (VR) and Augmented Reality (AR) applications are now broadly available to consumers, offering an immersive computing platform with both new opportunities and challenges. The ability to interact directly with immersive hardware is critical to ensuring that the web is well equipped to operate as a first-class citizen in this environment.  The Immersive Web Working Group has been stabilizing the WebXR Device API while the companion Immersive Web Community Group incubates the next series of features identified as key for the future of the Immersive Web.  W3C plans a workshop focused on the needs and benefits at the intersection of VR & Accessibility (Inclusive XR), on 5-6 November 2019 in Seattle, WA, USA, to explore existing and future approaches on making Virtual and Augmented Reality experiences more inclusive.  Web & Telecommunications  The Web is the Open Platform for Mobile. Telecommunication service providers and network equipment providers have long been critical actors in the deployment of Web technologies. As the Web platform matures, it brings richer and richer capabilities to extend existing services to new users and devices, and propose new and innovative services.  Real-Time Communications (WebRTC)   All Real-Time Communications specifications  WebRTC has reshaped the whole communication landscape by making any connected device a potential communication end-point, bringing audio and video communications anywhere, on any network, vastly expanding the ability of operators to reach their customers. WebRTC serves as the corner-stone of many online communication and collaboration services.  The WebRTC Working Group aims to bringing WebRTC 1.0 (and companion specification Media Capture and Streams) to Recommendation by the end of 2019. Intense efforts are focused on testing (supported by a dedicated hackathon at IETF 104) and interoperability. The group is considering pushing features that have not gotten enough traction to separate modules or to a later minor revision of the spec.  Beyond WebRTC 1.0, the WebRTC Working Group will focus its efforts on WebRTC NV which the group has started documenting by identifying use cases.  Web & Networks  Recently launched, in the wake of the May 2018 Web5G workshop, the Web & Networks Interest Group is chaired by representatives from AT&T, China Mobile and Intel, with a goal to explore solutions for web applications to achieve better performance and resource allocation, both on the device and network. The group's first efforts are around use cases, privacy & security requirements and liaisons.  Automotive   All Automotive specifications  To create a rich application ecosystem for vehicles and other devices allowed to connect to the vehicle, the W3C Automotive Working Group is delivering a service specification to expose all common vehicle signals (engine temperature, fuel/charge level, range, tire pressure, speed, etc.)  The Vehicle Information Service Specification (VISS), which is a Candidate Recommendation, is seeing more implementations across the industry. It provides the access method to a common data model for all the vehicle signals –presently encapsulating a thousand or so different data elements– and will be growing to accommodate the advances in automotive such as autonomous and driver assist technologies and electrification.  The group is already working on a successor to VISS, leveraging the underlying data model and the VIWI submission from Volkswagen, for a more robust means of accessing vehicle signals information and the same paradigm for other automotive needs including location-based services, media, notifications and caching content.  The Automotive and Web Platform Business Group acts as an incubator for prospective standards work. One of its task forces is using W3C VISS in performing data sampling and off-boarding the information to the cloud. Access to the wealth of information that W3C's auto signals standard exposes is of interest to regulators, urban planners, insurance companies, auto manufacturers, fleet managers and owners, service providers and others. In addition to components needed for data sampling and edge computing, capturing user and owner consent, information collection methods and handling of data are in scope.  The upcoming W3C Workshop on Data Models for Transportation (September 2019) is expected to focus on the need of additional ontologies around transportation space.  Web of Things   All Web of Things specifications  W3C's Web of Things work is designed to bridge disparate technology stacks to allow devices to work together and achieve scale, thus enabling the potential of the Internet of Things by eliminating fragmentation and fostering interoperability.  Thing descriptions expressed in JSON-LD cover the behavior, interaction affordances, data schema, security configuration, and protocol bindings. The Web of Things complements existing IoT ecosystems to reduce the cost and risk for suppliers and consumers of applications that create value by combining multiple devices and information services. There are many sectors that will benefit, e.g. smart homes, smart cities, smart industry, smart agriculture, smart healthcare and many more.  The Web of Things Working Group is finishing the initial Web of Things standards, with support from the Web of Things Interest Group:  Web of Things Architecture Thing Descriptions Strengthening the Core of the Web HTML   The HTML Working Group was chartered early June to assist the W3C community in raising issues and proposing solutions for the HTML and DOM specifications, and to produce W3C Recommendations from WHATWG Review Drafts.  A few days before, W3C and the WHATWG signed a Memorandum of Understanding outlining the agreement to collaborate on the development of a single version of the HTML and DOM specifications.  Issues and proposed solutions for HTML and DOM done via the newly rechartered HTML Working Group in the WHATWG repositories  The HTML Working Group is targetting November 2019 to bring HTML and DOM to Candidate Recommendations.  CSS  All CSS specifications  CSS is a critical part of the Open Web Platform. The CSS Working Group gathers requirements from two large groups of CSS users: the publishing industry and application developers. Within W3C, those groups are exemplified by the Publishing groups and the Web Platform Working Group. The former requires things like better pagination support and advanced font handling, the latter needs intelligent (and fast!) scrolling and animations.  What we know as CSS is actually a collection of almost a hundred specifications, referred to as ‘modules’. The current state of CSS is defined by a snapshot, updated once a year. The group also publishes an index defining every term defined by CSS specifications.  Fonts   All Fonts specifications  The Web Fonts Working Group develops specifications that allow the interoperable deployment of downloadable fonts on the Web, with a focus on Progressive Font Enrichment as well as maintenance of WOFF Recommendations.  Recent and ongoing work includes:  Early API experiments by Adobe and Monotype have demonstrated the feasibility of a font enrichment API, where a server delivers a font with minimal glyph repertoire and the client can query the full repertoire and request additional subsets on-the-fly. In other experiments, the Brotli compression used in WOFF 2 was extended to support shared dictionaries and patch update. Metrics to quantify improvement are a current hot discussion topic. The group will meet at ATypi 2019 in Japan, to gather requirements from the international typography community. The group will first produce a report summarizing the strengths and weaknesses of each prototype solution by Q2 2020. SVG   All SVG specifications  SVG is an important and widely-used part of the Open Web Platform. The SVG Working Group focuses on aligning the SVG 2.0 specification with browser implementations, having split the specification into a currently-implemented 2.0 and a forward-looking 2.1. Current activity is on stabilization, increased integration with the Open Web Platform, and test coverage analysis.  The Working Group was rechartered in March 2019. A new work item concerns native (non-Web-browser) uses of SVG as a non-interactive, vector graphics format.  Audio  The Web Audio Working Group was extended to finish its work on the Web Audio API, expecting to publish it as a Recommendation by year end. The specification enables synthesizing audio in the browser. Audio operations are performed with audio nodes, which are linked together to form a modular audio routing graph. Multiple sources — with different types of channel layout — are supported. This modular design provides the flexibility to create complex audio functions with dynamic effects.  The first version of Web Audio API is now feature complete and is implemented in all modern browsers. Work has started on the next version, and new features are being incubated in the Audio Community Group.  Performance   Web Performance  All Web Performance specifications  There are currently 18 specifications in development in the Web Performance Working Group aiming to provide methods to observe and improve aspects of application performance of user agent features and APIs. The W3C team is looking at related work incubated in the W3C GPU for the Web (WebGPU) Community Group which is poised to transition to a W3C Working Group. A preliminary draft charter is available.  WebAssembly  All WebAssembly specifications  WebAssembly improves Web performance and power by being a virtual machine and execution environment enabling loaded pages to run native (compiled) code. It is deployed in Firefox, Edge, Safari and Chrome. The specification will soon reach Candidate Recommendation.  WebAssembly enables near-native performance, optimized load time, and perhaps most importantly, a compilation target for existing code bases. While it has a small number of native types, much of the performance increase relative to Javascript derives from its use of consistent typing. WebAssembly leverages decades of optimization for compiled languages and the byte code is optimized for compactness and streaming (the web page starts executing while the rest of the code downloads). Network and API access all occurs through accompanying Javascript libraries -- the security model is identical to that of Javascript.  Requirements gathering and language development occur in the Community Group while the Working Group manages test development, community review and progression of specifications on the Recommendation Track.  Testing  Browser testing plays a critical role in the growth of the Web by:  Improving the reliability of Web technology definitions; Improving the quality of implementations of these technologies by helping vendors to detect bugs in their products; Improving the data available to Web developers on known bugs and deficiencies of Web technologies by publishing results of these tests. Browser Testing and Tools  The Browser Testing and Tools Working Group is developing WebDriver version 2, having published last year the W3C Recommendation of WebDriver. WebDriver acts as a remote control interface that enables introspection and control of user agents, provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of Web, and emulates the actions of a real person using the browser.  WebPlatform Tests   The WebPlatform Tests project now provides a mechanism which allows to fully automate tests that previously needed to be run manually: TestDriver.  TestDriver enables sending trusted key and mouse events, sending complex series of trusted pointer and key interactions for things like in-content drag-and-drop or pinch zoom, and even file upload.  Since 2014 W3C began work on this coordinated open-source effort to build a cross-browser test suite for the Web Platform, which WHATWG, and all major browsers adopted.  Web of Data   All Data specifications  There have been several great success stories around the standardization of data on the web over the past year.  Verifiable Claims seems to have significant uptake. It is also significant that the Distributed Identifier WG charter has received numerous favorable reviews, and was just recently launched. JSON-LD has been a major success with the large deployment on Web sites via schema.org.  JSON-LD 1.1 completed technical work, about to transition to CR More than 25% of websites today include schema.org data in JSON-LD The Web of Things description is in CR since May, making use of JSON-LD Verifiable Credentials data model is in CR since July, also making use of JSON-LD Continued strong interest in decentralized identifiers Engagement from the TAG with reframing core documents, such as Ethical Web Principles, to include data on the web within their scope Data is increasingly important for all organizations, especially with the rise of IoT and Big Data. W3C has a mature and extensive suite of standards relating to data that were developed over two decades of experience, with plans for further work on making it easier for developers to work with graph data and knowledge graphs.  Linked Data is about the use of URIs as names for things, the ability to dereference these URIs to get further information and to include links to other data. There are ever-increasing sources of open Linked Data on the Web, as well as data services that are restricted to the suppliers and consumers of those services.  The digital transformation of industry is seeking to exploit advanced digital technologies. This will facilitate businesses to integrate horizontally along the supply and value chains, and vertically from the factory floor to the office floor. W3C is seeking to make it easier to support enterprise-wide data management and governance, reflecting the strategic importance of data to modern businesses.  Traditional approaches to data have focused on tabular databases (SQL/RDBMS), Comma Separated Value (CSV) files, and data embedded in PDF documents and spreadsheets. We're now in midst of a major shift to graph data with nodes and labeled directed links between them. Graph data is:  Faster than using SQL and associated JOIN operations More favorable to integrating data from heterogeneous sources Better suited to situations where the data model is evolving In the wake of the recent W3C Workshop on Graph Data we are in the process of launching a Graph Standardization Business Group to provide a business perspective with use cases and requirements, to coordinate technical standards work and liaisons with external organizations.  Web for All Security, Privacy, Identity  All Security specifications, all Privacy specifications  Authentication on the Web   As the WebAuthn Level 1 W3C Recommendation published last March is seeing wide implementation and adoption of strong cryptographic authentication, work is proceeding on Level 2.  The open standard Web API gives native authentication technology built into native platforms, browsers, operating systems (including mobile) and hardware, offering protection against hacking, credential theft, phishing attacks, thus aiming to end the era of passwords as a security construct. You may read more in our March press release.  Privacy  An increasing number of W3C specifications are benefitting from Privacy and Security review; there are security and privacy aspects to every specification. Early review is essential. Working with the TAG, the Privacy Interest Group has updated the Self-Review Questionnaire: Security and Privacy.  Other recent work of the group includes public blogging further to the exploration of anti-patterns in standards and permission prompts.  Security  The Web Application Security Working Group adopted Feature Policy, aiming to allow developers to selectively enable, disable, or modify the behavior of some of these browser features and APIs within their application; and Fetch Metadata, aiming to provide servers with enough information to make a priori decisions about whether or not to service a request based on the way it was made, and the context in which it will be used.  The Web Payment Security Interest Group, launched last April, convenes members from W3C, EMVCo, and the FIDO Alliance to discuss cooperative work to enhance the security and interoperability of Web payments (read more about payments).  Internationalization (i18n)   All Internationalization specifications, educational articles related to Internationalization, spec developers checklist  Only a quarter or so current Web users use English online and that proportion will continue to decrease as the Web reaches more and more communities of limited English proficiency. If the Web is to live up to the \"World Wide\" portion of its name, and for the Web to truly work for stakeholders all around the world engaging with content in various languages, it must support the needs of worldwide users as they engage with content in the various languages. The growth of epublishing also brings requirements for new features and improved typography on the Web. It is important to ensure the needs of local communities are captured.  The W3C Internationalization Initiative was set up to increase in-house resources dedicated to accelerating progress in making the World Wide Web \"worldwide\" by gathering user requirements, supporting developers, and education & outreach.  For an overview of current projects see the i18n radar. W3C's Internationalization efforts progressed on a number of fronts recently:  Requirements: New African and European language groups will work on the gap analysis, errata and layout requirements. Gap analysis: Japanese, Devanagari, Bengali, Tamil, Lao, Khmer, Javanese, and Ethiopic updated in the gap-analysis documents. Layout requirements document: notable progress tracked in the Southeast Asian Task Force while work continues on Chinese layout requirements. Developer support: Spec reviews: the i18n WG continues active review of specifications of the WHATWG and other W3C Working Groups. Short review checklist: easy way to begin a self-review to help spec developers understand what aspects of their spec are likely to need attention for internationalization, and points them to more detailed checklists for the relevant topics. It also helps those reviewing specs for i18n issues. Strings on the Web: Language and Direction Metadata lays out issues and discusses potential solutions for passing information about language and direction with strings in JSON or other data formats. The document was rewritten for clarity, and expanded. The group is collaborating with the JSON-LD and Web Publishing groups to develop a plan for updating RDF, JSON-LD and related specifications to handle metadata for base direction of text (bidi). User-friendly test format: a new format was developed for Internationalization Test Suite tests, which displays helpful information about how the test works. This particularly useful because those tests are pointed to by educational materials and gap-analysis documents. Web Platform Tests: a large number of tests in the i18n test suite have been ported to the WPT repository, including: css-counter-styles, css-ruby, css-syntax, css-test, css-text-decor, css-writing-modes, and css-pseudo. Education & outreach: (for all educational materials, see the HTML & CSS Authoring Techniques) Web Accessibility   All Accessibility specifications, WAI resources  The Web Accessibility Initiative supports W3C's Web for All mission. Recent achievements include:  Education and training: Inaccessibility of CAPTCHA updated to bring our analysis and recommendations up to date with CAPTCHA practice today, concluding two years of extensive work and invaluable input from the public (read more on the W3C Blog Learn why your web content and applications should be accessible. The Education and Outreach Working Group has completed revision and updating of the Business Case for Digital Accessibility. Accessibility guidelines: The Accessibility Guidelines Working Group has continued to update WCAG Techniques and Understanding WCAG 2.1; and published a Candidate Recommendation of Accessibility Conformance Testing Rules Format 1.0 to improve inter-rater reliability when evaluating conformance of web content to WCAG An updated charter is being developed to host work on \"Silver\", the next generation accessibility guidelines (WCAG 2.2) There are accessibility aspects to most specifications. Check your work with the FAST checklist.  Outreach to the world W3C Developer Relations   To foster the excellent feedback loop between Web Standards development and Web developers, and to grow participation from that diverse community, recent W3C Developer Relations activities include:  @w3cdevs tracks the enormous amount of work happening across W3C W3C Track during the Web Conference 2019 in San Francisco Tech videos: W3C published the 2019 Web Games Workshop videos The 16 September 2019 Developer Meetup in Fukuoka, Japan, is open to all and will combine a set of technical demos prepared by W3C groups, and a series of talks on a selected set of W3C technologies and projects W3C is involved with Mozilla, Google, Samsung, Microsoft and Bocoup in the organization of ViewSource 2019 in Amsterdam (read more on the W3C Blog) W3C Training   In partnership with EdX, W3C's MOOC training program, W3Cx offers a complete \"Front-End Web Developer\" (FEWD) professional certificate program that consists of a suite of five courses on the foundational languages that power the Web: HTML5, CSS and JavaScript. We count nearly 900K students from all over the world.  Translations  Many Web users rely on translations of documents developed at W3C whose official language is English. W3C is extremely grateful to the continuous efforts of its community in ensuring our various deliverables in general, and in our specifications in particular, are made available in other languages, for free, ensuring their exposure to a much more diverse set of readers.  Last Spring we developed a more robust system, a new listing of translations of W3C specifications and updated the instructions on how to contribute to our translation efforts.  W3C Liaisons   Liaisons and coordination with numerous organizations and Standards Development Organizations (SDOs) is crucial for W3C to:  make sure standards are interoperable coordinate our respective agenda in Internet governance: W3C participates in ICANN, GIPO, IGF, the I* organizations (ICANN, IETF, ISOC, IAB). ensure at the government liaison level that our standards work is officially recognized when important to our membership so that products based on them (often done by our members) are part of procurement orders. W3C has ARO/PAS status with ISO. W3C participates in the EU MSP and Rolling Plan on Standardization ensure the global set of Web and Internet standards form a compatible stack of technologies, at the technical and policy level (patent regime, fragmentation, use in policy making) promote Standards adoption equally by the industry, the public sector, and the public at large Coralie Mercier, Editor, W3C Marketing & Communications $Id: Overview.html,v 1.60 2019/10/15 12:05:52 coralie Exp $ Copyright © 2019 W3C ® (MIT, ERCIM, Keio, Beihang) Usage policies apply.",
+   "topics": [],
+   "category": "Observability",
+   "momentum": 27,
+   "rank": 220
+  },
+  {
    "name": "valor",
    "full_name": "Striveworks/valor",
    "slug": "striveworks-valor",
@@ -6464,106 +6564,6 @@
     "text-generation"
    ],
    "category": "Eval Frameworks",
-   "momentum": 28,
-   "rank": 217
-  },
-  {
-   "name": "promptly",
-   "full_name": "equinor/promptly",
-   "slug": "equinor-promptly",
-   "url": "https://github.com/equinor/promptly",
-   "owner": "equinor",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/525862?v=4",
-   "stars": 27,
-   "forks": 2,
-   "open_issues": 0,
-   "language": "Jupyter Notebook",
-   "license": "CC-BY-4.0",
-   "pushed_at": "2026-02-24T15:13:04Z",
-   "created_at": "2024-02-12T08:08:15Z",
-   "description": "A prompt collection for testing and evaluation of LLMs.",
-   "topics": [
-    "chatgpt",
-    "llm-evaluation",
-    "prompt-engineering",
-    "prompts"
-   ],
-   "category": "Eval Frameworks",
-   "momentum": 28,
-   "rank": 218
-  },
-  {
-   "name": "artkit",
-   "full_name": "BCG-X-Official/artkit",
-   "slug": "bcg-x-official-artkit",
-   "url": "https://github.com/BCG-X-Official/artkit",
-   "owner": "BCG-X-Official",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/70293226?v=4",
-   "stars": 169,
-   "forks": 38,
-   "open_issues": 10,
-   "language": "Jupyter Notebook",
-   "license": "Apache-2.0",
-   "pushed_at": "2025-03-06T18:33:04Z",
-   "created_at": "2024-06-09T15:15:39Z",
-   "description": "Automated prompt-based testing and evaluation of Gen AI applications",
-   "topics": [
-    "asyncio",
-    "data-science",
-    "gen-ai",
-    "genai",
-    "python",
-    "red-teaming",
-    "test-automation"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 27,
-   "rank": 219
-  },
-  {
-   "name": "OpenRedTeaming",
-   "full_name": "Libr-AI/OpenRedTeaming",
-   "slug": "libr-ai-openredteaming",
-   "url": "https://github.com/Libr-AI/OpenRedTeaming",
-   "owner": "Libr-AI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/133515165?v=4",
-   "stars": 168,
-   "forks": 14,
-   "open_issues": 3,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2025-05-28T18:38:37Z",
-   "created_at": "2024-02-05T07:16:00Z",
-   "description": "Papers about red teaming LLMs and Multimodal models.",
-   "topics": [
-    "awesome-list",
-    "language-model",
-    "llm-safety",
-    "papers",
-    "redteaming",
-    "safety"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 27,
-   "rank": 220
-  },
-  {
-   "name": "-L-",
-   "full_name": "jettbrains/-L-",
-   "slug": "jettbrains-l",
-   "url": "https://github.com/jettbrains/-L-",
-   "owner": "jettbrains",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/57115262?v=4",
-   "stars": 144,
-   "forks": 46,
-   "open_issues": 15,
-   "language": "",
-   "license": "GPL-3.0",
-   "pushed_at": "2021-08-18T13:41:54Z",
-   "created_at": "2019-10-28T21:50:26Z",
-   "description": "W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the previous edition, see the April 2019 W3C Strategic Highlights. For future editions of this report, please consult the latest version.  A Chinese translation is available.  ☰ Contents  Introduction Future Web Standards Meeting Industry Needs Web Payments Digital Publishing Media and Entertainment Web & Telecommunications Real-Time Communications (WebRTC) Web & Networks Automotive Web of Things Strengthening the Core of the Web HTML CSS Fonts SVG Audio Performance Web Performance WebAssembly Testing Browser Testing and Tools WebPlatform Tests Web of Data Web for All Security, Privacy, Identity Internationalization (i18n) Web Accessibility Outreach to the world W3C Developer Relations W3C Training Translations W3C Liaisons Introduction  This report highlights recent work of enhancement of the existing landscape of the Web platform and innovation for the growth and strength of the Web.  33 working groups and a dozen interest groups enable W3C to pursue its mission through the creation of Web standards, guidelines, and supporting materials. We track the tremendous work done across the Consortium through homogeneous work-spaces in Github which enables better monitoring and management.  We are in the middle of a period where we are chartering numerous working groups which demonstrate the rapid degree of change for the Web platform:  After 4 years, we are nearly ready to publish a Payment Request API Proposed Recommendation and we need to soon charter follow-on work. In the last year we chartered the Web Payment Security Interest Group. In the last year we chartered the Web Media Working Group with 7 specifications for next generation Media support on the Web. We have Accessibility Guidelines under W3C Member review which includes Silver, a new approach. We have just launched the Decentralized Identifier Working Group which has tremendous potential because Decentralized Identifier (DID) is an identifier that is globally unique, resolveable with high availability, and cryptographically verifiable. We have Privacy IG (PING) under W3C Member review which strengthens our focus on the tradeoff between privacy and function. We have a new CSS charter under W3C Member review which maps the group's work for the next three years. In this period, W3C and the WHATWG have succesfully completed the negotiation of a Memorandum of Understanding rooted in the mutual belief that that having two distinct specifications claiming to be normative is generally harmful for the Web community. The MOU, signed last May, describes how the two organizations are to collaborate on the development of a single authoritative version of the HTML and DOM specifications. W3C subsequently rechartered the HTML Working Group to assist the W3C community in raising issues and proposing solutions for the HTML and DOM specifications, and for the production of W3C Recommendations from WHATWG Review Drafts.  As the Web evolves continuously, some groups are looking for ways for specifications to do so as well. So-called \"evergreen recommendations\" or \"living standards\" aim to track continuous development (and maintenance) of features, on a feature-by-feature basis, while getting review and patent commitments.  We see the maturation and further development of an incredible number of new technologies coming to the Web. Continued progress in many areas demonstrates the vitality of the W3C and the Web community, as the rest of the report illustrates.  Future Web Standards W3C has a variety of mechanisms for listening to what the community thinks could become good future Web standards. These include discussions with the Membership, discussions with other standards bodies, the activities of thousands of participants in over 300 community groups, and W3C Workshops. There are lots of good ideas. The W3C strategy team has been identifying promising topics and invites public participation.   Future, recent and under consideration Workshops include:  Inclusive XR (5-6 November 2019, Seattle, WA, USA) to explore existing and future approaches on making Virtual and Augmented Reality experiences more inclusive, including to people with disabilities; W3C Workshop on Data Models for Transportation (12-13 September 2019, Palo Alto, CA, USA) W3C Workshop on Web Games (27-28 June 2019, Redmond, WA, USA), view report Second W3C Workshop on the Web of Things (3-5 June 2019, Munich, Germany) W3C Workshop on Web Standardization for Graph Data; Creating Bridges: RDF, Property Graph and SQL (4-6 March 2019, Berlin, Germany), view report Web & Machine Learning. The Strategy Funnel documents the staff's exploration of potential new work at various phases: Exploration and Investigation, Incubation and Evaluation, and eventually to the chartering of a new standards group. The Funnel view is a GitHub Project where new area are issues represented by “cards” which move through the columns, usually from left to right. Most cards start in Exploration and move towards Chartering, or move out of the funnel.  Public input is welcome at any stage but particularly once Incubation has begun. This helps W3C identify work that is sufficiently incubated to warrant standardization, to review the ecosystem around the work and indicate interest in participating in its standardization, and then to draft a charter that reflects an appropriate scope. Ongoing feedback can speed up the overall standardization process.  Since the previous highlights document, W3C has chartered a number of groups, and started discussion on many more:  Newly Chartered or Rechartered  Web Application Security WG (03-Apr) Web Payment Security IG (17-Apr) Patent and Standards IG (24-Apr) Web Applications WG (14-May) Web & Networks IG (16-May) Media WG (23-May) Media and Entertainment IG (06-Jun) HTML WG (06-Jun) Decentralized Identifier WG (05-Sep) Extended  Privacy IG (PING) (30-Sep) Verifiable Claims WG (30-Sep) Service Workers WG (31-Dec) Dataset Exchange WG (31-Dec) Web of Things Working Group (31-Dec) Web Audio Working Group (31-Dec) Proposed charters / Advance Notice  Accessibility Guidelines WG Privacy IG (PING) RDF Literal Direction WG Timed Text WG CSS WG Web Authentication WG Closed  Internationalization Tag Set IG Meeting Industry Needs Web Payments   All Web Payments specifications  W3C's payments standards enable a streamlined checkout experience, enabling a consistent user experience across the Web with lower front end development costs for merchants. Users can store and reuse information and more quickly and accurately complete online transactions.  The Web Payments Working Group has republished Payment Request API as a Candidate Recommendation, aiming to publish a Proposed Recommendation in the Fall 2019, and is discussing use cases and features for Payment Request after publication of the 1.0 Recommendation. Browser vendors have been finalizing implementation of features added in the past year (view the implementation report).  As work continues on the Payment Handler API and its implementation (currently in Chrome and Edge Canary), one focus in 2019 is to increase adoption in other browsers. Recently, Mastercard demonstrated the use of Payment Request API to carry out EMVCo's Secure Remote Commerce (SRC) protocol whose payment method definition is being developed with active participation by Visa, Mastercard, American Express, and Discover. Payment method availability is a key factor in merchant considerations about adopting Payment Request API. The ability to get uniform adoption of a new payment method such as Secure Remote Commerce (SRC) also depends on the availability of the Payment Handler API in browsers, or of proprietary alternatives.  Web Monetization, which the Web Payments Working Group will discuss again at its face-to-face meeting in September, can be used to enable micropayments as an alternative revenue stream to advertising.  Since the beginning of 2019, Amazon, Brave Software, JCB, Certus Cybersecurity Solutions and Netflix have joined the Web Payments Working Group.  In April, W3C launched the Web Payment Security Group to enable W3C, EMVCo, and the FIDO Alliance to collaborate on a vision for Web payment security and interoperability. Participants will define areas of collaboration and identify gaps between existing technical specifications in order to increase compatibility among different technologies, such as:  How do SRC, FIDO, and Payment Request relate? The Payment Services Directive 2 (PSD2) regulations in Europe are scheduled to take effect in September 2019. What is the role of EMVCo, W3C, and FIDO technologies, and what is the current state of readiness for the deadline? How can we improve privacy on the Web at the same time as we meet industry requirements regarding user identity? Digital Publishing   All Digital Publishing specifications, Publication milestones  The Web is the universal publishing platform. Publishing is increasingly impacted by the Web, and the Web increasingly impacts Publishing.  Topic of particular interest to Publishing@W3C include typography and layout, accessibility, usability, portability, distribution, archiving, offline access, print on demand, and reliable cross referencing. And the diverse publishing community represented in the groups consist of the traditional \"trade\" publishers, ebook reading system manufacturers, but also publishers of audio book, scholarly journals or educational materials, library scientists or browser developers.  The Publishing Working Group currently concentrates on Audiobooks which lack a comprehensive standard, thus incurring extra costs and time to publish in this booming market. Active development is ongoing on the future standard:  Publication Manifest Audiobook profile for Web Publications Lightweight Packaging Format The BD Comics Manga Community Group, the Synchronized Multimedia for Publications Community Group, the Publishing Community Group and a future group on archival, are companions to the working group where specific work is developed and incubated.  The Publishing Community Group is a recently launched incubation channel for Publishing@W3C. The goal of the group is to propose, document, and prototype features broadly related to:  publications on the Web reading modes and systems and the user experience of publications The EPUB 3 Community Group has successfully completed the revision of EPUB 3.2.  The Publishing Business Group fosters ongoing participation by members of the publishing industry and the overall ecosystem in the development of Web infrastructure to better support the needs of the industry. The Business Group serves as an additional conduit to the Publishing Working Group and several Community Groups for feedback between the publishing ecosystem and W3C. The Publishing BG has played a vital role in fostering and advancing the adoption and continued development of EPUB 3. In particular the BG provided critical support to the update of EPUBCheck to validate EPUB content to the new EPUB 3.2 specification. This resulted in the development, in conjunction with the EPUB3 Community Group, of a new generation of EPUBCheck, i.e., EPUBCheck 4.2 production-ready release.  Media and Entertainment   All Media specifications  The Media and Entertainment vertical tracks media-related topics and features that create immersive experiences for end users. HTML5 brought standard audio and video elements to the Web. Standardization activities since then have aimed at turning the Web into a professional platform fully suitable for the delivery of media content and associated materials, enabling missing features to stream video content on the Web such as adaptive streaming and content protection. Together with Microsoft, Comcast, Netflix and Google, W3C received an Technology & Engineering Emmy Award in April 2019 for standardization of a full TV experience on the Web. Current goals are to:  Reinforce core media technologies: Creation of the Media Working Group, to develop media-related specifications incubated in the WICG (e.g. Media Capabilities, Picture-in-picture, Media Session) and maintain maintain/evolve Media Source Extensions (MSE) and Encrypted Media Extensions (EME). Improve support for Media Timed Events: data cues incubation. Enhance color support (HDR, wide gamut), in scope of the CSS WG and in the Color on the Web CG. Reduce fragmentation: Continue annual releases of a common and testable baseline media devices, in scope of the Web Media APIs CG and in collaboration with the CTA WAVE Project. Maintain the Road-map of Media Technologies for the Web which highlights Web technologies that can be used to build media applications and services, as well as known gaps to enable additional use cases. Create the future: Discuss perspectives for Media and Entertainment for the Web. Bring the power of GPUs to the Web (graphics, machine learning, heavy processing), under incubation in the GPU for the Web CG. Transition to a Working Group is under discussion. Determine next steps after the successful W3C Workshop on Web Games of June 2019. View the report. Timed Text  The Timed Text Working Group develops and maintains formats used for the representation of text synchronized with other timed media, like audio and video, and notably works on TTML, profiles of TTML, and WebVTT. Recent progress includes:  A robust WebVTT implementation report poises the specification for publication as a proposed recommendation. Discussions around re-chartering, notably to add a TTML Profile for Audio Description deliverable to the scope of the group, and clarify that rendering of captions within XR content is also in scope. Immersive Web  Hardware that enables Virtual Reality (VR) and Augmented Reality (AR) applications are now broadly available to consumers, offering an immersive computing platform with both new opportunities and challenges. The ability to interact directly with immersive hardware is critical to ensuring that the web is well equipped to operate as a first-class citizen in this environment.  The Immersive Web Working Group has been stabilizing the WebXR Device API while the companion Immersive Web Community Group incubates the next series of features identified as key for the future of the Immersive Web.  W3C plans a workshop focused on the needs and benefits at the intersection of VR & Accessibility (Inclusive XR), on 5-6 November 2019 in Seattle, WA, USA, to explore existing and future approaches on making Virtual and Augmented Reality experiences more inclusive.  Web & Telecommunications  The Web is the Open Platform for Mobile. Telecommunication service providers and network equipment providers have long been critical actors in the deployment of Web technologies. As the Web platform matures, it brings richer and richer capabilities to extend existing services to new users and devices, and propose new and innovative services.  Real-Time Communications (WebRTC)   All Real-Time Communications specifications  WebRTC has reshaped the whole communication landscape by making any connected device a potential communication end-point, bringing audio and video communications anywhere, on any network, vastly expanding the ability of operators to reach their customers. WebRTC serves as the corner-stone of many online communication and collaboration services.  The WebRTC Working Group aims to bringing WebRTC 1.0 (and companion specification Media Capture and Streams) to Recommendation by the end of 2019. Intense efforts are focused on testing (supported by a dedicated hackathon at IETF 104) and interoperability. The group is considering pushing features that have not gotten enough traction to separate modules or to a later minor revision of the spec.  Beyond WebRTC 1.0, the WebRTC Working Group will focus its efforts on WebRTC NV which the group has started documenting by identifying use cases.  Web & Networks  Recently launched, in the wake of the May 2018 Web5G workshop, the Web & Networks Interest Group is chaired by representatives from AT&T, China Mobile and Intel, with a goal to explore solutions for web applications to achieve better performance and resource allocation, both on the device and network. The group's first efforts are around use cases, privacy & security requirements and liaisons.  Automotive   All Automotive specifications  To create a rich application ecosystem for vehicles and other devices allowed to connect to the vehicle, the W3C Automotive Working Group is delivering a service specification to expose all common vehicle signals (engine temperature, fuel/charge level, range, tire pressure, speed, etc.)  The Vehicle Information Service Specification (VISS), which is a Candidate Recommendation, is seeing more implementations across the industry. It provides the access method to a common data model for all the vehicle signals –presently encapsulating a thousand or so different data elements– and will be growing to accommodate the advances in automotive such as autonomous and driver assist technologies and electrification.  The group is already working on a successor to VISS, leveraging the underlying data model and the VIWI submission from Volkswagen, for a more robust means of accessing vehicle signals information and the same paradigm for other automotive needs including location-based services, media, notifications and caching content.  The Automotive and Web Platform Business Group acts as an incubator for prospective standards work. One of its task forces is using W3C VISS in performing data sampling and off-boarding the information to the cloud. Access to the wealth of information that W3C's auto signals standard exposes is of interest to regulators, urban planners, insurance companies, auto manufacturers, fleet managers and owners, service providers and others. In addition to components needed for data sampling and edge computing, capturing user and owner consent, information collection methods and handling of data are in scope.  The upcoming W3C Workshop on Data Models for Transportation (September 2019) is expected to focus on the need of additional ontologies around transportation space.  Web of Things   All Web of Things specifications  W3C's Web of Things work is designed to bridge disparate technology stacks to allow devices to work together and achieve scale, thus enabling the potential of the Internet of Things by eliminating fragmentation and fostering interoperability.  Thing descriptions expressed in JSON-LD cover the behavior, interaction affordances, data schema, security configuration, and protocol bindings. The Web of Things complements existing IoT ecosystems to reduce the cost and risk for suppliers and consumers of applications that create value by combining multiple devices and information services. There are many sectors that will benefit, e.g. smart homes, smart cities, smart industry, smart agriculture, smart healthcare and many more.  The Web of Things Working Group is finishing the initial Web of Things standards, with support from the Web of Things Interest Group:  Web of Things Architecture Thing Descriptions Strengthening the Core of the Web HTML   The HTML Working Group was chartered early June to assist the W3C community in raising issues and proposing solutions for the HTML and DOM specifications, and to produce W3C Recommendations from WHATWG Review Drafts.  A few days before, W3C and the WHATWG signed a Memorandum of Understanding outlining the agreement to collaborate on the development of a single version of the HTML and DOM specifications.  Issues and proposed solutions for HTML and DOM done via the newly rechartered HTML Working Group in the WHATWG repositories  The HTML Working Group is targetting November 2019 to bring HTML and DOM to Candidate Recommendations.  CSS  All CSS specifications  CSS is a critical part of the Open Web Platform. The CSS Working Group gathers requirements from two large groups of CSS users: the publishing industry and application developers. Within W3C, those groups are exemplified by the Publishing groups and the Web Platform Working Group. The former requires things like better pagination support and advanced font handling, the latter needs intelligent (and fast!) scrolling and animations.  What we know as CSS is actually a collection of almost a hundred specifications, referred to as ‘modules’. The current state of CSS is defined by a snapshot, updated once a year. The group also publishes an index defining every term defined by CSS specifications.  Fonts   All Fonts specifications  The Web Fonts Working Group develops specifications that allow the interoperable deployment of downloadable fonts on the Web, with a focus on Progressive Font Enrichment as well as maintenance of WOFF Recommendations.  Recent and ongoing work includes:  Early API experiments by Adobe and Monotype have demonstrated the feasibility of a font enrichment API, where a server delivers a font with minimal glyph repertoire and the client can query the full repertoire and request additional subsets on-the-fly. In other experiments, the Brotli compression used in WOFF 2 was extended to support shared dictionaries and patch update. Metrics to quantify improvement are a current hot discussion topic. The group will meet at ATypi 2019 in Japan, to gather requirements from the international typography community. The group will first produce a report summarizing the strengths and weaknesses of each prototype solution by Q2 2020. SVG   All SVG specifications  SVG is an important and widely-used part of the Open Web Platform. The SVG Working Group focuses on aligning the SVG 2.0 specification with browser implementations, having split the specification into a currently-implemented 2.0 and a forward-looking 2.1. Current activity is on stabilization, increased integration with the Open Web Platform, and test coverage analysis.  The Working Group was rechartered in March 2019. A new work item concerns native (non-Web-browser) uses of SVG as a non-interactive, vector graphics format.  Audio  The Web Audio Working Group was extended to finish its work on the Web Audio API, expecting to publish it as a Recommendation by year end. The specification enables synthesizing audio in the browser. Audio operations are performed with audio nodes, which are linked together to form a modular audio routing graph. Multiple sources — with different types of channel layout — are supported. This modular design provides the flexibility to create complex audio functions with dynamic effects.  The first version of Web Audio API is now feature complete and is implemented in all modern browsers. Work has started on the next version, and new features are being incubated in the Audio Community Group.  Performance   Web Performance  All Web Performance specifications  There are currently 18 specifications in development in the Web Performance Working Group aiming to provide methods to observe and improve aspects of application performance of user agent features and APIs. The W3C team is looking at related work incubated in the W3C GPU for the Web (WebGPU) Community Group which is poised to transition to a W3C Working Group. A preliminary draft charter is available.  WebAssembly  All WebAssembly specifications  WebAssembly improves Web performance and power by being a virtual machine and execution environment enabling loaded pages to run native (compiled) code. It is deployed in Firefox, Edge, Safari and Chrome. The specification will soon reach Candidate Recommendation.  WebAssembly enables near-native performance, optimized load time, and perhaps most importantly, a compilation target for existing code bases. While it has a small number of native types, much of the performance increase relative to Javascript derives from its use of consistent typing. WebAssembly leverages decades of optimization for compiled languages and the byte code is optimized for compactness and streaming (the web page starts executing while the rest of the code downloads). Network and API access all occurs through accompanying Javascript libraries -- the security model is identical to that of Javascript.  Requirements gathering and language development occur in the Community Group while the Working Group manages test development, community review and progression of specifications on the Recommendation Track.  Testing  Browser testing plays a critical role in the growth of the Web by:  Improving the reliability of Web technology definitions; Improving the quality of implementations of these technologies by helping vendors to detect bugs in their products; Improving the data available to Web developers on known bugs and deficiencies of Web technologies by publishing results of these tests. Browser Testing and Tools  The Browser Testing and Tools Working Group is developing WebDriver version 2, having published last year the W3C Recommendation of WebDriver. WebDriver acts as a remote control interface that enables introspection and control of user agents, provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of Web, and emulates the actions of a real person using the browser.  WebPlatform Tests   The WebPlatform Tests project now provides a mechanism which allows to fully automate tests that previously needed to be run manually: TestDriver.  TestDriver enables sending trusted key and mouse events, sending complex series of trusted pointer and key interactions for things like in-content drag-and-drop or pinch zoom, and even file upload.  Since 2014 W3C began work on this coordinated open-source effort to build a cross-browser test suite for the Web Platform, which WHATWG, and all major browsers adopted.  Web of Data   All Data specifications  There have been several great success stories around the standardization of data on the web over the past year.  Verifiable Claims seems to have significant uptake. It is also significant that the Distributed Identifier WG charter has received numerous favorable reviews, and was just recently launched. JSON-LD has been a major success with the large deployment on Web sites via schema.org.  JSON-LD 1.1 completed technical work, about to transition to CR More than 25% of websites today include schema.org data in JSON-LD The Web of Things description is in CR since May, making use of JSON-LD Verifiable Credentials data model is in CR since July, also making use of JSON-LD Continued strong interest in decentralized identifiers Engagement from the TAG with reframing core documents, such as Ethical Web Principles, to include data on the web within their scope Data is increasingly important for all organizations, especially with the rise of IoT and Big Data. W3C has a mature and extensive suite of standards relating to data that were developed over two decades of experience, with plans for further work on making it easier for developers to work with graph data and knowledge graphs.  Linked Data is about the use of URIs as names for things, the ability to dereference these URIs to get further information and to include links to other data. There are ever-increasing sources of open Linked Data on the Web, as well as data services that are restricted to the suppliers and consumers of those services.  The digital transformation of industry is seeking to exploit advanced digital technologies. This will facilitate businesses to integrate horizontally along the supply and value chains, and vertically from the factory floor to the office floor. W3C is seeking to make it easier to support enterprise-wide data management and governance, reflecting the strategic importance of data to modern businesses.  Traditional approaches to data have focused on tabular databases (SQL/RDBMS), Comma Separated Value (CSV) files, and data embedded in PDF documents and spreadsheets. We're now in midst of a major shift to graph data with nodes and labeled directed links between them. Graph data is:  Faster than using SQL and associated JOIN operations More favorable to integrating data from heterogeneous sources Better suited to situations where the data model is evolving In the wake of the recent W3C Workshop on Graph Data we are in the process of launching a Graph Standardization Business Group to provide a business perspective with use cases and requirements, to coordinate technical standards work and liaisons with external organizations.  Web for All Security, Privacy, Identity  All Security specifications, all Privacy specifications  Authentication on the Web   As the WebAuthn Level 1 W3C Recommendation published last March is seeing wide implementation and adoption of strong cryptographic authentication, work is proceeding on Level 2.  The open standard Web API gives native authentication technology built into native platforms, browsers, operating systems (including mobile) and hardware, offering protection against hacking, credential theft, phishing attacks, thus aiming to end the era of passwords as a security construct. You may read more in our March press release.  Privacy  An increasing number of W3C specifications are benefitting from Privacy and Security review; there are security and privacy aspects to every specification. Early review is essential. Working with the TAG, the Privacy Interest Group has updated the Self-Review Questionnaire: Security and Privacy.  Other recent work of the group includes public blogging further to the exploration of anti-patterns in standards and permission prompts.  Security  The Web Application Security Working Group adopted Feature Policy, aiming to allow developers to selectively enable, disable, or modify the behavior of some of these browser features and APIs within their application; and Fetch Metadata, aiming to provide servers with enough information to make a priori decisions about whether or not to service a request based on the way it was made, and the context in which it will be used.  The Web Payment Security Interest Group, launched last April, convenes members from W3C, EMVCo, and the FIDO Alliance to discuss cooperative work to enhance the security and interoperability of Web payments (read more about payments).  Internationalization (i18n)   All Internationalization specifications, educational articles related to Internationalization, spec developers checklist  Only a quarter or so current Web users use English online and that proportion will continue to decrease as the Web reaches more and more communities of limited English proficiency. If the Web is to live up to the \"World Wide\" portion of its name, and for the Web to truly work for stakeholders all around the world engaging with content in various languages, it must support the needs of worldwide users as they engage with content in the various languages. The growth of epublishing also brings requirements for new features and improved typography on the Web. It is important to ensure the needs of local communities are captured.  The W3C Internationalization Initiative was set up to increase in-house resources dedicated to accelerating progress in making the World Wide Web \"worldwide\" by gathering user requirements, supporting developers, and education & outreach.  For an overview of current projects see the i18n radar. W3C's Internationalization efforts progressed on a number of fronts recently:  Requirements: New African and European language groups will work on the gap analysis, errata and layout requirements. Gap analysis: Japanese, Devanagari, Bengali, Tamil, Lao, Khmer, Javanese, and Ethiopic updated in the gap-analysis documents. Layout requirements document: notable progress tracked in the Southeast Asian Task Force while work continues on Chinese layout requirements. Developer support: Spec reviews: the i18n WG continues active review of specifications of the WHATWG and other W3C Working Groups. Short review checklist: easy way to begin a self-review to help spec developers understand what aspects of their spec are likely to need attention for internationalization, and points them to more detailed checklists for the relevant topics. It also helps those reviewing specs for i18n issues. Strings on the Web: Language and Direction Metadata lays out issues and discusses potential solutions for passing information about language and direction with strings in JSON or other data formats. The document was rewritten for clarity, and expanded. The group is collaborating with the JSON-LD and Web Publishing groups to develop a plan for updating RDF, JSON-LD and related specifications to handle metadata for base direction of text (bidi). User-friendly test format: a new format was developed for Internationalization Test Suite tests, which displays helpful information about how the test works. This particularly useful because those tests are pointed to by educational materials and gap-analysis documents. Web Platform Tests: a large number of tests in the i18n test suite have been ported to the WPT repository, including: css-counter-styles, css-ruby, css-syntax, css-test, css-text-decor, css-writing-modes, and css-pseudo. Education & outreach: (for all educational materials, see the HTML & CSS Authoring Techniques) Web Accessibility   All Accessibility specifications, WAI resources  The Web Accessibility Initiative supports W3C's Web for All mission. Recent achievements include:  Education and training: Inaccessibility of CAPTCHA updated to bring our analysis and recommendations up to date with CAPTCHA practice today, concluding two years of extensive work and invaluable input from the public (read more on the W3C Blog Learn why your web content and applications should be accessible. The Education and Outreach Working Group has completed revision and updating of the Business Case for Digital Accessibility. Accessibility guidelines: The Accessibility Guidelines Working Group has continued to update WCAG Techniques and Understanding WCAG 2.1; and published a Candidate Recommendation of Accessibility Conformance Testing Rules Format 1.0 to improve inter-rater reliability when evaluating conformance of web content to WCAG An updated charter is being developed to host work on \"Silver\", the next generation accessibility guidelines (WCAG 2.2) There are accessibility aspects to most specifications. Check your work with the FAST checklist.  Outreach to the world W3C Developer Relations   To foster the excellent feedback loop between Web Standards development and Web developers, and to grow participation from that diverse community, recent W3C Developer Relations activities include:  @w3cdevs tracks the enormous amount of work happening across W3C W3C Track during the Web Conference 2019 in San Francisco Tech videos: W3C published the 2019 Web Games Workshop videos The 16 September 2019 Developer Meetup in Fukuoka, Japan, is open to all and will combine a set of technical demos prepared by W3C groups, and a series of talks on a selected set of W3C technologies and projects W3C is involved with Mozilla, Google, Samsung, Microsoft and Bocoup in the organization of ViewSource 2019 in Amsterdam (read more on the W3C Blog) W3C Training   In partnership with EdX, W3C's MOOC training program, W3Cx offers a complete \"Front-End Web Developer\" (FEWD) professional certificate program that consists of a suite of five courses on the foundational languages that power the Web: HTML5, CSS and JavaScript. We count nearly 900K students from all over the world.  Translations  Many Web users rely on translations of documents developed at W3C whose official language is English. W3C is extremely grateful to the continuous efforts of its community in ensuring our various deliverables in general, and in our specifications in particular, are made available in other languages, for free, ensuring their exposure to a much more diverse set of readers.  Last Spring we developed a more robust system, a new listing of translations of W3C specifications and updated the instructions on how to contribute to our translation efforts.  W3C Liaisons   Liaisons and coordination with numerous organizations and Standards Development Organizations (SDOs) is crucial for W3C to:  make sure standards are interoperable coordinate our respective agenda in Internet governance: W3C participates in ICANN, GIPO, IGF, the I* organizations (ICANN, IETF, ISOC, IAB). ensure at the government liaison level that our standards work is officially recognized when important to our membership so that products based on them (often done by our members) are part of procurement orders. W3C has ARO/PAS status with ISO. W3C participates in the EU MSP and Rolling Plan on Standardization ensure the global set of Web and Internet standards form a compatible stack of technologies, at the technical and policy level (patent regime, fragmentation, use in policy making) promote Standards adoption equally by the industry, the public sector, and the public at large Coralie Mercier, Editor, W3C Marketing & Communications $Id: Overview.html,v 1.60 2019/10/15 12:05:52 coralie Exp $ Copyright © 2019 W3C ® (MIT, ERCIM, Keio, Beihang) Usage policies apply.",
-   "topics": [],
-   "category": "Observability",
    "momentum": 27,
    "rank": 221
   },
@@ -6708,7 +6708,7 @@
    "url": "https://github.com/user1342/Awesome-LLM-Red-Teaming",
    "owner": "user1342",
    "owner_avatar": "https://avatars.githubusercontent.com/u/28961606?v=4",
-   "stars": 111,
+   "stars": 112,
    "forks": 20,
    "open_issues": 6,
    "language": "",
@@ -7376,6 +7376,26 @@
    "rank": 251
   },
   {
+   "name": "UDora",
+   "full_name": "AI-secure/UDora",
+   "slug": "ai-secure-udora",
+   "url": "https://github.com/AI-secure/UDora",
+   "owner": "AI-secure",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/61308241?v=4",
+   "stars": 37,
+   "forks": 7,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2025-06-24T01:53:56Z",
+   "created_at": "2025-06-05T08:19:27Z",
+   "description": "[ICML 2025] UDora: A Unified Red Teaming Framework against LLM Agents",
+   "topics": [],
+   "category": "Red Teaming & Safety",
+   "momentum": 19,
+   "rank": 252
+  },
+  {
    "name": "llm-comparison-backend",
    "full_name": "Supahands/llm-comparison-backend",
    "slug": "supahands-llm-comparison-backend",
@@ -7399,26 +7419,6 @@
     "llm-eval"
    ],
    "category": "Eval Frameworks",
-   "momentum": 20,
-   "rank": 252
-  },
-  {
-   "name": "UDora",
-   "full_name": "AI-secure/UDora",
-   "slug": "ai-secure-udora",
-   "url": "https://github.com/AI-secure/UDora",
-   "owner": "AI-secure",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/61308241?v=4",
-   "stars": 37,
-   "forks": 7,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2025-06-24T01:53:56Z",
-   "created_at": "2025-06-05T08:19:27Z",
-   "description": "[ICML 2025] UDora: A Unified Red Teaming Framework against LLM Agents",
-   "topics": [],
-   "category": "Red Teaming & Safety",
    "momentum": 19,
    "rank": 253
   },
@@ -7640,7 +7640,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/4857092?v=4",
    "stars": 23,
    "forks": 6,
-   "open_issues": 0,
+   "open_issues": 1,
    "language": "Jupyter Notebook",
    "license": "MIT",
    "pushed_at": "2024-04-08T17:55:37Z",
