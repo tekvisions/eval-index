@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T10:52:00.152769+00:00",
+ "generated_at": "2026-07-22T10:53:46.279596+00:00",
  "count": 274,
  "categories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "name": "RAG Eval",
-   "count": 41
+   "count": 40
   },
   {
    "name": "Agent Eval",
-   "count": 38
+   "count": 39
   },
   {
    "name": "Benchmarks",
@@ -43,12 +43,12 @@
    "url": "https://github.com/langfuse/langfuse",
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 31562,
-   "forks": 3331,
-   "open_issues": 713,
+   "stars": 31639,
+   "forks": 3339,
+   "open_issues": 712,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T10:44:37Z",
+   "pushed_at": "2026-07-22T10:48:50Z",
    "created_at": "2023-05-18T17:47:09Z",
    "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
    "topics": [
@@ -83,12 +83,12 @@
    "url": "https://github.com/mlflow/mlflow",
    "owner": "mlflow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39938107?v=4",
-   "stars": 27134,
-   "forks": 6033,
-   "open_issues": 2069,
+   "stars": 27154,
+   "forks": 6038,
+   "open_issues": 2078,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T09:34:48Z",
+   "pushed_at": "2026-07-22T10:16:52Z",
    "created_at": "2018-06-05T16:05:58Z",
    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
    "topics": [
@@ -122,12 +122,12 @@
    "url": "https://github.com/promptfoo/promptfoo",
    "owner": "promptfoo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137907881?v=4",
-   "stars": 23456,
-   "forks": 2103,
-   "open_issues": 437,
+   "stars": 23490,
+   "forks": 2107,
+   "open_issues": 438,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-21T05:26:40Z",
+   "pushed_at": "2026-07-22T06:39:26Z",
    "created_at": "2023-04-28T15:48:49Z",
    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
    "topics": [
@@ -161,12 +161,12 @@
    "url": "https://github.com/comet-ml/opik",
    "owner": "comet-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
-   "stars": 20743,
-   "forks": 1621,
-   "open_issues": 166,
+   "stars": 20765,
+   "forks": 1625,
+   "open_issues": 152,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:47:24Z",
+   "pushed_at": "2026-07-22T10:48:59Z",
    "created_at": "2023-05-10T12:57:13Z",
    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
    "topics": [
@@ -195,12 +195,12 @@
    "url": "https://github.com/openobserve/openobserve",
    "owner": "openobserve",
    "owner_avatar": "https://avatars.githubusercontent.com/u/95867656?v=4",
-   "stars": 20321,
-   "forks": 952,
-   "open_issues": 596,
+   "stars": 20338,
+   "forks": 953,
+   "open_issues": 600,
    "language": "TypeScript",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-21T10:51:47Z",
+   "pushed_at": "2026-07-22T10:52:17Z",
    "created_at": "2023-02-02T03:29:51Z",
    "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
    "topics": [
@@ -236,12 +236,12 @@
    "url": "https://github.com/Tencent/WeKnora",
    "owner": "Tencent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-   "stars": 18668,
-   "forks": 2601,
-   "open_issues": 429,
+   "stars": 18723,
+   "forks": 2610,
+   "open_issues": 438,
    "language": "Go",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T09:44:52Z",
+   "pushed_at": "2026-07-22T09:58:17Z",
    "created_at": "2025-07-22T08:01:23Z",
    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
    "topics": [
@@ -277,12 +277,12 @@
    "url": "https://github.com/confident-ai/deepeval",
    "owner": "confident-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130858411?v=4",
-   "stars": 16996,
-   "forks": 1688,
-   "open_issues": 384,
+   "stars": 17037,
+   "forks": 1692,
+   "open_issues": 379,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:34:02Z",
+   "pushed_at": "2026-07-22T10:45:08Z",
    "created_at": "2023-08-10T05:35:04Z",
    "description": "The LLM Evaluation Framework",
    "topics": [
@@ -304,12 +304,12 @@
    "url": "https://github.com/dataelement/bisheng",
    "owner": "dataelement",
    "owner_avatar": "https://avatars.githubusercontent.com/u/103249391?v=4",
-   "stars": 11725,
-   "forks": 1910,
-   "open_issues": 113,
+   "stars": 11734,
+   "forks": 1911,
+   "open_issues": 115,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:31:29Z",
+   "pushed_at": "2026-07-22T10:53:22Z",
    "created_at": "2023-08-28T10:00:24Z",
    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
    "topics": [
@@ -345,9 +345,9 @@
    "url": "https://github.com/Sahir619/fable-method",
    "owner": "Sahir619",
    "owner_avatar": "https://avatars.githubusercontent.com/u/94783820?v=4",
-   "stars": 1765,
-   "forks": 250,
-   "open_issues": 1,
+   "stars": 1778,
+   "forks": 253,
+   "open_issues": 2,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-07-15T15:11:12Z",
@@ -375,12 +375,12 @@
    "url": "https://github.com/Arize-ai/phoenix",
    "owner": "Arize-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59858760?v=4",
-   "stars": 10650,
-   "forks": 998,
-   "open_issues": 771,
+   "stars": 10671,
+   "forks": 1003,
+   "open_issues": 780,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T07:15:28Z",
+   "pushed_at": "2026-07-22T08:17:52Z",
    "created_at": "2022-11-09T23:44:35Z",
    "description": "AI Observability & Evaluation",
    "topics": [
@@ -414,10 +414,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/167452922?v=4",
    "stars": 9363,
    "forks": 783,
-   "open_issues": 22,
+   "open_issues": 25,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-20T23:21:22Z",
+   "pushed_at": "2026-07-22T06:03:26Z",
    "created_at": "2024-05-07T17:45:15Z",
    "description": "Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!",
    "topics": [
@@ -435,7 +435,7 @@
     "vlms"
    ],
    "category": "Eval Frameworks",
-   "momentum": 80,
+   "momentum": 81,
    "rank": 11
   },
   {
@@ -445,12 +445,12 @@
    "url": "https://github.com/NVIDIA/garak",
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
-   "stars": 8516,
-   "forks": 1105,
+   "stars": 8527,
+   "forks": 1109,
    "open_issues": 380,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-14T20:29:03Z",
+   "pushed_at": "2026-07-21T20:15:03Z",
    "created_at": "2023-05-10T18:52:16Z",
    "description": "the LLM vulnerability scanner",
    "topics": [
@@ -461,7 +461,7 @@
     "vulnerability-assessment"
    ],
    "category": "Eval Frameworks",
-   "momentum": 79,
+   "momentum": 80,
    "rank": 12
   },
   {
@@ -471,12 +471,12 @@
    "url": "https://github.com/open-compass/opencompass",
    "owner": "open-compass",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143521324?v=4",
-   "stars": 7219,
-   "forks": 814,
-   "open_issues": 390,
+   "stars": 7225,
+   "forks": 815,
+   "open_issues": 383,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-20T08:45:01Z",
+   "pushed_at": "2026-07-22T06:10:01Z",
    "created_at": "2023-06-15T12:42:58Z",
    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
    "topics": [
@@ -500,12 +500,12 @@
    "url": "https://github.com/katanemo/plano",
    "owner": "katanemo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/112724757?v=4",
-   "stars": 6882,
-   "forks": 470,
-   "open_issues": 134,
+   "stars": 6887,
+   "forks": 469,
+   "open_issues": 136,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T01:03:09Z",
+   "pushed_at": "2026-07-22T08:48:42Z",
    "created_at": "2024-07-09T20:25:56Z",
    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
    "topics": [
@@ -532,15 +532,44 @@
    "rank": 14
   },
   {
+   "name": "agent-starter-pack",
+   "full_name": "GoogleCloudPlatform/agent-starter-pack",
+   "slug": "googlecloudplatform-agent-starter-pack",
+   "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+   "owner": "GoogleCloudPlatform",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/2810941?v=4",
+   "stars": 6520,
+   "forks": 1496,
+   "open_issues": 49,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-21T23:42:40Z",
+   "created_at": "2025-01-31T16:03:06Z",
+   "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+   "topics": [
+    "agents",
+    "gcp",
+    "gemini",
+    "genai-agents",
+    "generative-ai",
+    "llmops",
+    "mlops",
+    "observability"
+   ],
+   "category": "Observability",
+   "momentum": 79,
+   "rank": 15
+  },
+  {
    "name": "openllmetry",
    "full_name": "traceloop/openllmetry",
    "slug": "traceloop-openllmetry",
    "url": "https://github.com/traceloop/openllmetry",
    "owner": "traceloop",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
-   "stars": 7316,
+   "stars": 7318,
    "forks": 1025,
-   "open_issues": 602,
+   "open_issues": 601,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-13T20:16:38Z",
@@ -568,7 +597,7 @@
    ],
    "category": "Observability",
    "momentum": 78,
-   "rank": 15
+   "rank": 16
   },
   {
    "name": "chinese-llm-benchmark",
@@ -577,8 +606,8 @@
    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
    "owner": "jeinlee1991",
    "owner_avatar": "https://avatars.githubusercontent.com/u/46815718?v=4",
-   "stars": 6301,
-   "forks": 259,
+   "stars": 6303,
+   "forks": 260,
    "open_issues": 16,
    "language": "",
    "license": "",
@@ -593,7 +622,47 @@
    ],
    "category": "Agent Eval",
    "momentum": 78,
-   "rank": 16
+   "rank": 17
+  },
+  {
+   "name": "helicone",
+   "full_name": "Helicone/helicone",
+   "slug": "helicone-helicone",
+   "url": "https://github.com/Helicone/helicone",
+   "owner": "Helicone",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/114524975?v=4",
+   "stars": 5981,
+   "forks": 632,
+   "open_issues": 132,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-21T12:35:41Z",
+   "created_at": "2023-01-31T22:34:44Z",
+   "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+   "topics": [
+    "agent-monitoring",
+    "analytics",
+    "evaluation",
+    "gpt",
+    "langchain",
+    "large-language-models",
+    "llama-index",
+    "llm",
+    "llm-cost",
+    "llm-evaluation",
+    "llm-observability",
+    "llmops",
+    "monitoring",
+    "open-source",
+    "openai",
+    "playground",
+    "prompt-engineering",
+    "prompt-management",
+    "ycombinator"
+   ],
+   "category": "Observability",
+   "momentum": 78,
+   "rank": 18
   },
   {
    "name": "giskard-oss",
@@ -602,9 +671,9 @@
    "url": "https://github.com/Giskard-AI/giskard-oss",
    "owner": "Giskard-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/71782571?v=4",
-   "stars": 5662,
-   "forks": 498,
-   "open_issues": 84,
+   "stars": 5700,
+   "forks": 503,
+   "open_issues": 86,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-21T09:18:23Z",
@@ -631,7 +700,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 78,
-   "rank": 17
+   "rank": 19
   },
   {
    "name": "coze-loop",
@@ -640,12 +709,12 @@
    "url": "https://github.com/coze-dev/coze-loop",
    "owner": "coze-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/157483752?v=4",
-   "stars": 5628,
-   "forks": 777,
+   "stars": 5633,
+   "forks": 776,
    "open_issues": 67,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T09:44:59Z",
+   "pushed_at": "2026-07-22T08:14:50Z",
    "created_at": "2025-06-24T00:26:28Z",
    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.",
    "topics": [
@@ -669,36 +738,27 @@
    ],
    "category": "Observability",
    "momentum": 78,
-   "rank": 18
+   "rank": 20
   },
   {
-   "name": "agent-starter-pack",
-   "full_name": "GoogleCloudPlatform/agent-starter-pack",
-   "slug": "googlecloudplatform-agent-starter-pack",
-   "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
-   "owner": "GoogleCloudPlatform",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/2810941?v=4",
-   "stars": 6520,
-   "forks": 1496,
-   "open_issues": 48,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-10T23:22:14Z",
-   "created_at": "2025-01-31T16:03:06Z",
-   "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
-   "topics": [
-    "agents",
-    "gcp",
-    "gemini",
-    "genai-agents",
-    "generative-ai",
-    "llmops",
-    "mlops",
-    "observability"
-   ],
-   "category": "Observability",
-   "momentum": 77,
-   "rank": 19
+   "name": "smallcode",
+   "full_name": "Doorman11991/smallcode",
+   "slug": "doorman11991-smallcode",
+   "url": "https://github.com/Doorman11991/smallcode",
+   "owner": "Doorman11991",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/283874042?v=4",
+   "stars": 1995,
+   "forks": 153,
+   "open_issues": 19,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-22T04:42:36Z",
+   "created_at": "2026-05-18T06:19:44Z",
+   "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+   "topics": [],
+   "category": "Agent Eval",
+   "momentum": 78,
+   "rank": 21
   },
   {
    "name": "Kiln",
@@ -707,12 +767,12 @@
    "url": "https://github.com/Kiln-AI/Kiln",
    "owner": "Kiln-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/178670964?v=4",
-   "stars": 4968,
+   "stars": 4971,
    "forks": 374,
-   "open_issues": 71,
+   "open_issues": 65,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-20T21:28:55Z",
+   "pushed_at": "2026-07-22T04:13:01Z",
    "created_at": "2024-07-23T23:10:13Z",
    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
    "topics": [
@@ -739,7 +799,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 77,
-   "rank": 20
+   "rank": 22
   },
   {
    "name": "AutoRAG",
@@ -749,11 +809,11 @@
    "owner": "Marker-Inc-Korea",
    "owner_avatar": "https://avatars.githubusercontent.com/u/74290595?v=4",
    "stars": 4934,
-   "forks": 414,
-   "open_issues": 165,
+   "forks": 416,
+   "open_issues": 156,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-20T19:10:19Z",
+   "pushed_at": "2026-07-21T18:42:38Z",
    "created_at": "2024-01-10T12:25:00Z",
    "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
    "topics": [
@@ -778,7 +838,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 77,
-   "rank": 21
+   "rank": 23
   },
   {
    "name": "whichllm",
@@ -787,9 +847,9 @@
    "url": "https://github.com/Andyyyy64/whichllm",
    "owner": "Andyyyy64",
    "owner_avatar": "https://avatars.githubusercontent.com/u/105579829?v=4",
-   "stars": 5916,
-   "forks": 315,
-   "open_issues": 18,
+   "stars": 5950,
+   "forks": 316,
+   "open_issues": 20,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-07-08T16:27:01Z",
@@ -813,7 +873,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 76,
-   "rank": 22
+   "rank": 24
   },
   {
    "name": "logfire",
@@ -822,12 +882,12 @@
    "url": "https://github.com/pydantic/logfire",
    "owner": "pydantic",
    "owner_avatar": "https://avatars.githubusercontent.com/u/110818415?v=4",
-   "stars": 4381,
+   "stars": 4382,
    "forks": 264,
-   "open_issues": 248,
+   "open_issues": 251,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-21T05:58:38Z",
+   "pushed_at": "2026-07-22T08:31:52Z",
    "created_at": "2024-04-23T11:50:23Z",
    "description": "AI observability platform for production LLM and agent systems.",
    "topics": [
@@ -850,7 +910,39 @@
    ],
    "category": "Observability",
    "momentum": 76,
-   "rank": 23
+   "rank": 25
+  },
+  {
+   "name": "lmms-eval",
+   "full_name": "EvolvingLMMs-Lab/lmms-eval",
+   "slug": "evolvinglmms-lab-lmms-eval",
+   "url": "https://github.com/EvolvingLMMs-Lab/lmms-eval",
+   "owner": "EvolvingLMMs-Lab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/154951679?v=4",
+   "stars": 4330,
+   "forks": 625,
+   "open_issues": 42,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-21T11:44:44Z",
+   "created_at": "2024-03-07T12:09:25Z",
+   "description": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks",
+   "topics": [
+    "agi",
+    "audio-evaluation",
+    "benchmark",
+    "evaluation",
+    "large-language-models",
+    "llm-evaluation",
+    "multimodal",
+    "multimodal-evaluation",
+    "video-understanding",
+    "vision-language-model",
+    "vlm"
+   ],
+   "category": "Benchmarks",
+   "momentum": 76,
+   "rank": 26
   },
   {
    "name": "agenta",
@@ -859,12 +951,12 @@
    "url": "https://github.com/Agenta-AI/agenta",
    "owner": "Agenta-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127993667?v=4",
-   "stars": 4319,
-   "forks": 575,
-   "open_issues": 229,
+   "stars": 4324,
+   "forks": 578,
+   "open_issues": 220,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T10:42:05Z",
+   "pushed_at": "2026-07-22T10:53:10Z",
    "created_at": "2023-04-26T09:54:28Z",
    "description": "The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.",
    "topics": [
@@ -890,7 +982,7 @@
    ],
    "category": "Observability",
    "momentum": 76,
-   "rank": 24
+   "rank": 27
   },
   {
    "name": "VLMEvalKit",
@@ -899,12 +991,12 @@
    "url": "https://github.com/open-compass/VLMEvalKit",
    "owner": "open-compass",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143521324?v=4",
-   "stars": 4294,
+   "stars": 4295,
    "forks": 736,
-   "open_issues": 267,
+   "open_issues": 268,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-16T10:07:43Z",
+   "pushed_at": "2026-07-22T08:32:45Z",
    "created_at": "2023-12-01T08:18:11Z",
    "description": "Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks",
    "topics": [
@@ -930,7 +1022,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 76,
-   "rank": 25
+   "rank": 28
   },
   {
    "name": "AI-Infra-Guard",
@@ -939,12 +1031,12 @@
    "url": "https://github.com/Tencent/AI-Infra-Guard",
    "owner": "Tencent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-   "stars": 4163,
+   "stars": 4171,
    "forks": 399,
-   "open_issues": 13,
+   "open_issues": 12,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:15:50Z",
+   "pushed_at": "2026-07-22T04:25:53Z",
    "created_at": "2024-12-25T06:39:30Z",
    "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
    "topics": [
@@ -970,7 +1062,166 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 76,
-   "rank": 26
+   "rank": 29
+  },
+  {
+   "name": "trulens",
+   "full_name": "truera/trulens",
+   "slug": "truera-trulens",
+   "url": "https://github.com/truera/trulens",
+   "owner": "truera",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/51224128?v=4",
+   "stars": 3451,
+   "forks": 312,
+   "open_issues": 88,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-21T20:59:47Z",
+   "created_at": "2020-11-02T21:56:45Z",
+   "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+   "topics": [
+    "agent-evaluation",
+    "agentops",
+    "ai-agents",
+    "ai-monitoring",
+    "ai-observability",
+    "evals",
+    "explainable-ml",
+    "llm-eval",
+    "llm-evaluation",
+    "llmops",
+    "llms",
+    "machine-learning",
+    "neural-networks"
+   ],
+   "category": "Observability",
+   "momentum": 75,
+   "rank": 30
+  },
+  {
+   "name": "langwatch",
+   "full_name": "langwatch/langwatch",
+   "slug": "langwatch-langwatch",
+   "url": "https://github.com/langwatch/langwatch",
+   "owner": "langwatch",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/146763322?v=4",
+   "stars": 3411,
+   "forks": 337,
+   "open_issues": 696,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-22T10:51:47Z",
+   "created_at": "2023-09-09T11:33:18Z",
+   "description": "The platform for LLM evaluations and AI agent testing",
+   "topics": [
+    "ai",
+    "analytics",
+    "datasets",
+    "dspy",
+    "evaluation",
+    "gpt",
+    "llm",
+    "llm-ops",
+    "llmops",
+    "low-code",
+    "observability",
+    "openai",
+    "prompt-engineering"
+   ],
+   "category": "Observability",
+   "momentum": 75,
+   "rank": 31
+  },
+  {
+   "name": "harbor",
+   "full_name": "harbor-framework/harbor",
+   "slug": "harbor-framework-harbor",
+   "url": "https://github.com/harbor-framework/harbor",
+   "owner": "harbor-framework",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/256467836?v=4",
+   "stars": 3366,
+   "forks": 1354,
+   "open_issues": 543,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-21T23:45:16Z",
+   "created_at": "2025-08-04T23:28:26Z",
+   "description": "Framework for evaluating and improving agents",
+   "topics": [
+    "evals",
+    "rl-environments",
+    "terminal-bench"
+   ],
+   "category": "Agent Eval",
+   "momentum": 75,
+   "rank": 32
+  },
+  {
+   "name": "evalscope",
+   "full_name": "modelscope/evalscope",
+   "slug": "modelscope-evalscope",
+   "url": "https://github.com/modelscope/evalscope",
+   "owner": "modelscope",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/109945100?v=4",
+   "stars": 3122,
+   "forks": 429,
+   "open_issues": 29,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-22T09:44:08Z",
+   "created_at": "2023-12-07T06:10:49Z",
+   "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+   "topics": [
+    "evaluation",
+    "llm",
+    "performance",
+    "rag",
+    "vlm"
+   ],
+   "category": "RAG Eval",
+   "momentum": 75,
+   "rank": 33
+  },
+  {
+   "name": "lmnr",
+   "full_name": "lmnr-ai/lmnr",
+   "slug": "lmnr-ai-lmnr",
+   "url": "https://github.com/lmnr-ai/lmnr",
+   "owner": "lmnr-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/161496104?v=4",
+   "stars": 3104,
+   "forks": 219,
+   "open_issues": 96,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-22T10:51:02Z",
+   "created_at": "2024-08-29T03:45:28Z",
+   "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+   "topics": [
+    "agent-observability",
+    "agents",
+    "ai",
+    "ai-observability",
+    "aiops",
+    "analytics",
+    "developer-tools",
+    "evals",
+    "evaluation",
+    "llm-evaluation",
+    "llm-observability",
+    "llmops",
+    "monitoring",
+    "observability",
+    "open-source",
+    "rust",
+    "rust-lang",
+    "self-hosted",
+    "ts",
+    "typescript"
+   ],
+   "category": "Observability",
+   "momentum": 75,
+   "rank": 34
   },
   {
    "name": "tensorzero",
@@ -1010,239 +1261,8 @@
     "rust"
    ],
    "category": "Observability",
-   "momentum": 75,
-   "rank": 27
-  },
-  {
-   "name": "helicone",
-   "full_name": "Helicone/helicone",
-   "slug": "helicone-helicone",
-   "url": "https://github.com/Helicone/helicone",
-   "owner": "Helicone",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/114524975?v=4",
-   "stars": 5975,
-   "forks": 632,
-   "open_issues": 132,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-05T05:55:34Z",
-   "created_at": "2023-01-31T22:34:44Z",
-   "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
-   "topics": [
-    "agent-monitoring",
-    "analytics",
-    "evaluation",
-    "gpt",
-    "langchain",
-    "large-language-models",
-    "llama-index",
-    "llm",
-    "llm-cost",
-    "llm-evaluation",
-    "llm-observability",
-    "llmops",
-    "monitoring",
-    "open-source",
-    "openai",
-    "playground",
-    "prompt-engineering",
-    "prompt-management",
-    "ycombinator"
-   ],
-   "category": "Observability",
-   "momentum": 75,
-   "rank": 28
-  },
-  {
-   "name": "lmms-eval",
-   "full_name": "EvolvingLMMs-Lab/lmms-eval",
-   "slug": "evolvinglmms-lab-lmms-eval",
-   "url": "https://github.com/EvolvingLMMs-Lab/lmms-eval",
-   "owner": "EvolvingLMMs-Lab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/154951679?v=4",
-   "stars": 4324,
-   "forks": 624,
-   "open_issues": 43,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-15T08:05:19Z",
-   "created_at": "2024-03-07T12:09:25Z",
-   "description": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks",
-   "topics": [
-    "agi",
-    "audio-evaluation",
-    "benchmark",
-    "evaluation",
-    "large-language-models",
-    "llm-evaluation",
-    "multimodal",
-    "multimodal-evaluation",
-    "video-understanding",
-    "vision-language-model",
-    "vlm"
-   ],
-   "category": "Benchmarks",
-   "momentum": 75,
-   "rank": 29
-  },
-  {
-   "name": "trulens",
-   "full_name": "truera/trulens",
-   "slug": "truera-trulens",
-   "url": "https://github.com/truera/trulens",
-   "owner": "truera",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/51224128?v=4",
-   "stars": 3450,
-   "forks": 311,
-   "open_issues": 97,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-20T21:31:07Z",
-   "created_at": "2020-11-02T21:56:45Z",
-   "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-   "topics": [
-    "agent-evaluation",
-    "agentops",
-    "ai-agents",
-    "ai-monitoring",
-    "ai-observability",
-    "evals",
-    "explainable-ml",
-    "llm-eval",
-    "llm-evaluation",
-    "llmops",
-    "llms",
-    "machine-learning",
-    "neural-networks"
-   ],
-   "category": "Observability",
-   "momentum": 75,
-   "rank": 30
-  },
-  {
-   "name": "langwatch",
-   "full_name": "langwatch/langwatch",
-   "slug": "langwatch-langwatch",
-   "url": "https://github.com/langwatch/langwatch",
-   "owner": "langwatch",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/146763322?v=4",
-   "stars": 3411,
-   "forks": 337,
-   "open_issues": 702,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:49:50Z",
-   "created_at": "2023-09-09T11:33:18Z",
-   "description": "The platform for LLM evaluations and AI agent testing",
-   "topics": [
-    "ai",
-    "analytics",
-    "datasets",
-    "dspy",
-    "evaluation",
-    "gpt",
-    "llm",
-    "llm-ops",
-    "llmops",
-    "low-code",
-    "observability",
-    "openai",
-    "prompt-engineering"
-   ],
-   "category": "Observability",
-   "momentum": 75,
-   "rank": 31
-  },
-  {
-   "name": "harbor",
-   "full_name": "harbor-framework/harbor",
-   "slug": "harbor-framework-harbor",
-   "url": "https://github.com/harbor-framework/harbor",
-   "owner": "harbor-framework",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/256467836?v=4",
-   "stars": 3342,
-   "forks": 1346,
-   "open_issues": 536,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T05:40:56Z",
-   "created_at": "2025-08-04T23:28:26Z",
-   "description": "Framework for evaluating and improving agents",
-   "topics": [
-    "evals",
-    "rl-environments",
-    "terminal-bench"
-   ],
-   "category": "Agent Eval",
-   "momentum": 75,
-   "rank": 32
-  },
-  {
-   "name": "evalscope",
-   "full_name": "modelscope/evalscope",
-   "slug": "modelscope-evalscope",
-   "url": "https://github.com/modelscope/evalscope",
-   "owner": "modelscope",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/109945100?v=4",
-   "stars": 3115,
-   "forks": 428,
-   "open_issues": 27,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:38:05Z",
-   "created_at": "2023-12-07T06:10:49Z",
-   "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
-   "topics": [
-    "evaluation",
-    "llm",
-    "performance",
-    "rag",
-    "vlm"
-   ],
-   "category": "RAG Eval",
-   "momentum": 75,
-   "rank": 33
-  },
-  {
-   "name": "lmnr",
-   "full_name": "lmnr-ai/lmnr",
-   "slug": "lmnr-ai-lmnr",
-   "url": "https://github.com/lmnr-ai/lmnr",
-   "owner": "lmnr-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/161496104?v=4",
-   "stars": 3103,
-   "forks": 219,
-   "open_issues": 98,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:22:28Z",
-   "created_at": "2024-08-29T03:45:28Z",
-   "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-   "topics": [
-    "agent-observability",
-    "agents",
-    "ai",
-    "ai-observability",
-    "aiops",
-    "analytics",
-    "developer-tools",
-    "evals",
-    "evaluation",
-    "llm-evaluation",
-    "llm-observability",
-    "llmops",
-    "monitoring",
-    "observability",
-    "open-source",
-    "rust",
-    "rust-lang",
-    "self-hosted",
-    "ts",
-    "typescript"
-   ],
-   "category": "Observability",
-   "momentum": 75,
-   "rank": 34
+   "momentum": 74,
+   "rank": 35
   },
   {
    "name": "Awesome-AI4Med",
@@ -1251,7 +1271,7 @@
    "url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
    "owner": "FreedomIntelligence",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127706844?v=4",
-   "stars": 2841,
+   "stars": 2842,
    "forks": 494,
    "open_issues": 2,
    "language": "",
@@ -1271,7 +1291,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 74,
-   "rank": 35
+   "rank": 36
   },
   {
    "name": "openlit",
@@ -1280,12 +1300,12 @@
    "url": "https://github.com/openlit/openlit",
    "owner": "openlit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/149867240?v=4",
-   "stars": 2628,
+   "stars": 2631,
    "forks": 332,
-   "open_issues": 59,
+   "open_issues": 32,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T02:03:15Z",
+   "pushed_at": "2026-07-21T21:05:43Z",
    "created_at": "2024-01-23T17:40:59Z",
    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
    "topics": [
@@ -1312,7 +1332,7 @@
    ],
    "category": "Observability",
    "momentum": 74,
-   "rank": 36
+   "rank": 37
   },
   {
    "name": "iFixAi",
@@ -1321,8 +1341,8 @@
    "url": "https://github.com/ifixai-ai/iFixAi",
    "owner": "ifixai-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/279006089?v=4",
-   "stars": 1586,
-   "forks": 206,
+   "stars": 1657,
+   "forks": 207,
    "open_issues": 1,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1353,7 +1373,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 74,
-   "rank": 37
+   "rank": 38
   },
   {
    "name": "future-agi",
@@ -1362,12 +1382,12 @@
    "url": "https://github.com/future-agi/future-agi",
    "owner": "future-agi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/147392366?v=4",
-   "stars": 1467,
-   "forks": 414,
-   "open_issues": 539,
+   "stars": 1479,
+   "forks": 417,
+   "open_issues": 547,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:30:28Z",
+   "pushed_at": "2026-07-22T10:40:24Z",
    "created_at": "2026-04-23T14:11:31Z",
    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
    "topics": [
@@ -1380,36 +1400,6 @@
    ],
    "category": "Observability",
    "momentum": 74,
-   "rank": 38
-  },
-  {
-   "name": "awesome-evals",
-   "full_name": "benchflow-ai/awesome-evals",
-   "slug": "benchflow-ai-awesome-evals",
-   "url": "https://github.com/benchflow-ai/awesome-evals",
-   "owner": "benchflow-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/190338344?v=4",
-   "stars": 743,
-   "forks": 65,
-   "open_issues": 16,
-   "language": "",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-01T22:53:19Z",
-   "created_at": "2026-06-24T08:10:33Z",
-   "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-   "topics": [
-    "agent-evaluation",
-    "ai-agents",
-    "awesome",
-    "awesome-list",
-    "benchmarks",
-    "evals",
-    "llm",
-    "llm-evaluation",
-    "rl-environments"
-   ],
-   "category": "Agent Eval",
-   "momentum": 74,
    "rank": 39
   },
   {
@@ -1419,9 +1409,9 @@
    "url": "https://github.com/AgentOps-AI/agentops",
    "owner": "AgentOps-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140554352?v=4",
-   "stars": 5719,
+   "stars": 5722,
    "forks": 612,
-   "open_issues": 174,
+   "open_issues": 171,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-06-25T08:25:03Z",
@@ -1457,7 +1447,7 @@
    "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming",
    "owner": "Goochbeater",
    "owner_avatar": "https://avatars.githubusercontent.com/u/174131698?v=4",
-   "stars": 2689,
+   "stars": 2703,
    "forks": 539,
    "open_issues": 15,
    "language": "",
@@ -1477,8 +1467,8 @@
    "url": "https://github.com/confident-ai/deepteam",
    "owner": "confident-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130858411?v=4",
-   "stars": 2274,
-   "forks": 366,
+   "stars": 2277,
+   "forks": 368,
    "open_issues": 52,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1497,15 +1487,45 @@
    "rank": 42
   },
   {
+   "name": "awesome-evals",
+   "full_name": "benchflow-ai/awesome-evals",
+   "slug": "benchflow-ai-awesome-evals",
+   "url": "https://github.com/benchflow-ai/awesome-evals",
+   "owner": "benchflow-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/190338344?v=4",
+   "stars": 745,
+   "forks": 65,
+   "open_issues": 16,
+   "language": "",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-01T22:53:19Z",
+   "created_at": "2026-06-24T08:10:33Z",
+   "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+   "topics": [
+    "agent-evaluation",
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "benchmarks",
+    "evals",
+    "llm",
+    "llm-evaluation",
+    "rl-environments"
+   ],
+   "category": "Agent Eval",
+   "momentum": 73,
+   "rank": 43
+  },
+  {
    "name": "free-coding-models",
    "full_name": "vava-nessa/free-coding-models",
    "slug": "vava-nessa-free-coding-models",
    "url": "https://github.com/vava-nessa/free-coding-models",
    "owner": "vava-nessa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5466264?v=4",
-   "stars": 2177,
+   "stars": 2176,
    "forks": 238,
-   "open_issues": 23,
+   "open_issues": 24,
    "language": "HTML",
    "license": "NOASSERTION",
    "pushed_at": "2026-07-20T04:32:15Z",
@@ -1529,8 +1549,8 @@
     "opencode"
    ],
    "category": "Coding Eval",
-   "momentum": 73,
-   "rank": 43
+   "momentum": 72,
+   "rank": 44
   },
   {
    "name": "yao-meta-skill",
@@ -1539,8 +1559,8 @@
    "url": "https://github.com/yaojingang/yao-meta-skill",
    "owner": "yaojingang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/266242792?v=4",
-   "stars": 2111,
-   "forks": 198,
+   "stars": 2116,
+   "forks": 199,
    "open_issues": 0,
    "language": "Python",
    "license": "MIT",
@@ -1558,48 +1578,8 @@
     "workflow-automation"
    ],
    "category": "Agent Eval",
-   "momentum": 73,
-   "rank": 44
-  },
-  {
-   "name": "smallcode",
-   "full_name": "Doorman11991/smallcode",
-   "slug": "doorman11991-smallcode",
-   "url": "https://github.com/Doorman11991/smallcode",
-   "owner": "Doorman11991",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/283874042?v=4",
-   "stars": 1996,
-   "forks": 153,
-   "open_issues": 18,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-06-20T04:11:30Z",
-   "created_at": "2026-05-18T06:19:44Z",
-   "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-   "topics": [],
-   "category": "Agent Eval",
-   "momentum": 73,
-   "rank": 45
-  },
-  {
-   "name": "terminal-bench",
-   "full_name": "harbor-framework/terminal-bench",
-   "slug": "harbor-framework-terminal-bench",
-   "url": "https://github.com/harbor-framework/terminal-bench",
-   "owner": "harbor-framework",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/256467836?v=4",
-   "stars": 2471,
-   "forks": 560,
-   "open_issues": 318,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-11T05:19:08Z",
-   "created_at": "2025-01-17T22:34:26Z",
-   "description": "A benchmark for LLMs on complicated tasks in the terminal",
-   "topics": [],
-   "category": "Benchmarks",
    "momentum": 72,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "AssetOpsBench",
@@ -1608,12 +1588,12 @@
    "url": "https://github.com/IBM/AssetOpsBench",
    "owner": "IBM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
-   "stars": 2057,
+   "stars": 2060,
    "forks": 293,
-   "open_issues": 47,
+   "open_issues": 46,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T02:20:28Z",
+   "pushed_at": "2026-07-21T21:06:33Z",
    "created_at": "2025-05-01T20:48:50Z",
    "description": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP.",
    "topics": [
@@ -1628,7 +1608,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 72,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "WFGY",
@@ -1637,12 +1617,12 @@
    "url": "https://github.com/onestardao/WFGY",
    "owner": "onestardao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/212544643?v=4",
-   "stars": 1770,
+   "stars": 1772,
    "forks": 162,
    "open_issues": 11,
    "language": "Jupyter Notebook",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T08:32:50Z",
+   "pushed_at": "2026-07-22T08:32:38Z",
    "created_at": "2025-06-04T13:45:14Z",
    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV Easter Egg.",
    "topics": [
@@ -1661,7 +1641,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 72,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "all-agentic-architectures",
@@ -1670,8 +1650,8 @@
    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
    "owner": "FareedKhan-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/63067900?v=4",
-   "stars": 3910,
-   "forks": 674,
+   "stars": 3913,
+   "forks": 675,
    "open_issues": 9,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -1688,27 +1668,27 @@
    ],
    "category": "Agent Eval",
    "momentum": 71,
-   "rank": 49
+   "rank": 48
   },
   {
-   "name": "helm",
-   "full_name": "stanford-crfm/helm",
-   "slug": "stanford-crfm-helm",
-   "url": "https://github.com/stanford-crfm/helm",
-   "owner": "stanford-crfm",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/75054807?v=4",
-   "stars": 2859,
-   "forks": 404,
-   "open_issues": 88,
+   "name": "terminal-bench",
+   "full_name": "harbor-framework/terminal-bench",
+   "slug": "harbor-framework-terminal-bench",
+   "url": "https://github.com/harbor-framework/terminal-bench",
+   "owner": "harbor-framework",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/256467836?v=4",
+   "stars": 2478,
+   "forks": 559,
+   "open_issues": 319,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-01T01:23:08Z",
-   "created_at": "2021-11-29T08:53:17Z",
-   "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+   "pushed_at": "2026-07-11T05:19:08Z",
+   "created_at": "2025-01-17T22:34:26Z",
+   "description": "A benchmark for LLMs on complicated tasks in the terminal",
    "topics": [],
-   "category": "Eval Frameworks",
+   "category": "Benchmarks",
    "momentum": 71,
-   "rank": 50
+   "rank": 49
   },
   {
    "name": "trpc-agent-go",
@@ -1717,12 +1697,12 @@
    "url": "https://github.com/trpc-group/trpc-agent-go",
    "owner": "trpc-group",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140800716?v=4",
-   "stars": 1573,
-   "forks": 257,
-   "open_issues": 146,
+   "stars": 1577,
+   "forks": 259,
+   "open_issues": 145,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T09:39:41Z",
+   "pushed_at": "2026-07-22T10:53:19Z",
    "created_at": "2025-05-14T13:51:35Z",
    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
    "topics": [
@@ -1747,6 +1727,38 @@
    ],
    "category": "Observability",
    "momentum": 71,
+   "rank": 50
+  },
+  {
+   "name": "Introduction-to-Quantitative-Finance",
+   "full_name": "Barca0412/Introduction-to-Quantitative-Finance",
+   "slug": "barca0412-introduction-to-quantitative-finance",
+   "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
+   "owner": "Barca0412",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/92302656?v=4",
+   "stars": 1572,
+   "forks": 167,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-21T22:19:46Z",
+   "created_at": "2023-08-04T04:10:47Z",
+   "description": "AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
+   "topics": [
+    "agent",
+    "ai4fin",
+    "finance",
+    "investment",
+    "llm",
+    "llm4fin",
+    "quant",
+    "quantitative-finance",
+    "quantitative-research",
+    "quantitative-trading",
+    "trading"
+   ],
+   "category": "Agent Eval",
+   "momentum": 71,
    "rank": 51
   },
   {
@@ -1756,12 +1768,12 @@
    "url": "https://github.com/benchflow-ai/skillsbench",
    "owner": "benchflow-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/190338344?v=4",
-   "stars": 1551,
-   "forks": 341,
+   "stars": 1558,
+   "forks": 342,
    "open_issues": 99,
    "language": "PDDL",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-18T17:02:22Z",
+   "pushed_at": "2026-07-21T17:54:19Z",
    "created_at": "2025-12-29T05:04:57Z",
    "description": "SkillsBench evaluates how well skills work and how effective agents are at using them.",
    "topics": [
@@ -1779,7 +1791,7 @@
    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
    "owner": "NirDiamant",
    "owner_avatar": "https://avatars.githubusercontent.com/u/28316913?v=4",
-   "stars": 804,
+   "stars": 805,
    "forks": 108,
    "open_issues": 1,
    "language": "Jupyter Notebook",
@@ -1814,61 +1826,24 @@
    "rank": 53
   },
   {
-   "name": "lighteval",
-   "full_name": "huggingface/lighteval",
-   "slug": "huggingface-lighteval",
-   "url": "https://github.com/huggingface/lighteval",
-   "owner": "huggingface",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 2487,
-   "forks": 513,
-   "open_issues": 364,
+   "name": "helm",
+   "full_name": "stanford-crfm/helm",
+   "slug": "stanford-crfm-helm",
+   "url": "https://github.com/stanford-crfm/helm",
+   "owner": "stanford-crfm",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/75054807?v=4",
+   "stars": 2860,
+   "forks": 406,
+   "open_issues": 88,
    "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-29T13:03:33Z",
-   "created_at": "2024-01-26T13:15:39Z",
-   "description": "Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends",
-   "topics": [
-    "evaluation",
-    "evaluation-framework",
-    "evaluation-metrics",
-    "huggingface"
-   ],
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-01T01:23:08Z",
+   "created_at": "2021-11-29T08:53:17Z",
+   "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+   "topics": [],
    "category": "Eval Frameworks",
    "momentum": 70,
    "rank": 54
-  },
-  {
-   "name": "Introduction-to-Quantitative-Finance",
-   "full_name": "Barca0412/Introduction-to-Quantitative-Finance",
-   "slug": "barca0412-introduction-to-quantitative-finance",
-   "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
-   "owner": "Barca0412",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/92302656?v=4",
-   "stars": 1573,
-   "forks": 166,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-16T22:17:12Z",
-   "created_at": "2023-08-04T04:10:47Z",
-   "description": "AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
-   "topics": [
-    "agent",
-    "ai4fin",
-    "finance",
-    "investment",
-    "llm",
-    "llm4fin",
-    "quant",
-    "quantitative-finance",
-    "quantitative-research",
-    "quantitative-trading",
-    "trading"
-   ],
-   "category": "Agent Eval",
-   "momentum": 70,
-   "rank": 55
   },
   {
    "name": "Awesome-LLM-based-Text2SQL",
@@ -1901,7 +1876,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 70,
-   "rank": 56
+   "rank": 55
   },
   {
    "name": "CyberStrike",
@@ -1910,12 +1885,12 @@
    "url": "https://github.com/CyberStrikeus/CyberStrike",
    "owner": "CyberStrikeus",
    "owner_avatar": "https://avatars.githubusercontent.com/u/257690573?v=4",
-   "stars": 1250,
-   "forks": 207,
-   "open_issues": 10,
+   "stars": 1261,
+   "forks": 209,
+   "open_issues": 12,
    "language": "TypeScript",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-20T13:50:10Z",
+   "pushed_at": "2026-07-21T13:19:13Z",
    "created_at": "2026-02-14T21:24:08Z",
    "description": "Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team.",
    "topics": [
@@ -1942,6 +1917,26 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 70,
+   "rank": 56
+  },
+  {
+   "name": "LiveBench",
+   "full_name": "LiveBench/LiveBench",
+   "slug": "livebench-livebench",
+   "url": "https://github.com/LiveBench/LiveBench",
+   "owner": "LiveBench",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/169931984?v=4",
+   "stars": 1253,
+   "forks": 113,
+   "open_issues": 170,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-22T07:13:18Z",
+   "created_at": "2024-06-12T12:13:57Z",
+   "description": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
+   "topics": [],
+   "category": "Benchmarks",
+   "momentum": 70,
    "rank": 57
   },
   {
@@ -1953,10 +1948,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
    "stars": 1232,
    "forks": 119,
-   "open_issues": 18,
+   "open_issues": 19,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-21T02:22:18Z",
+   "pushed_at": "2026-07-22T05:20:41Z",
    "created_at": "2024-04-22T16:55:53Z",
    "description": "Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers.",
    "topics": [
@@ -1977,12 +1972,12 @@
    "url": "https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection",
    "owner": "huhusmang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/77958410?v=4",
-   "stars": 1189,
-   "forks": 108,
+   "stars": 1192,
+   "forks": 107,
    "open_issues": 3,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-21T01:21:50Z",
+   "pushed_at": "2026-07-22T01:20:32Z",
    "created_at": "2024-09-02T13:49:55Z",
    "description": "The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and smart-contract detection, plus datasets, benchmarks, and surveys.",
    "topics": [
@@ -2005,9 +2000,9 @@
    "url": "https://github.com/darkrishabh/agent-skills-eval",
    "owner": "darkrishabh",
    "owner_avatar": "https://avatars.githubusercontent.com/u/812474?v=4",
-   "stars": 625,
-   "forks": 34,
-   "open_issues": 10,
+   "stars": 626,
+   "forks": 35,
+   "open_issues": 11,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-07-15T15:24:06Z",
@@ -2031,22 +2026,27 @@
    "rank": 60
   },
   {
-   "name": "LiveBench",
-   "full_name": "LiveBench/LiveBench",
-   "slug": "livebench-livebench",
-   "url": "https://github.com/LiveBench/LiveBench",
-   "owner": "LiveBench",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/169931984?v=4",
-   "stars": 1250,
-   "forks": 113,
-   "open_issues": 169,
+   "name": "lighteval",
+   "full_name": "huggingface/lighteval",
+   "slug": "huggingface-lighteval",
+   "url": "https://github.com/huggingface/lighteval",
+   "owner": "huggingface",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
+   "stars": 2492,
+   "forks": 515,
+   "open_issues": 364,
    "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-17T09:42:20Z",
-   "created_at": "2024-06-12T12:13:57Z",
-   "description": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
-   "topics": [],
-   "category": "Benchmarks",
+   "license": "MIT",
+   "pushed_at": "2026-06-29T13:03:33Z",
+   "created_at": "2024-01-26T13:15:39Z",
+   "description": "Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends",
+   "topics": [
+    "evaluation",
+    "evaluation-framework",
+    "evaluation-metrics",
+    "huggingface"
+   ],
+   "category": "Eval Frameworks",
    "momentum": 69,
    "rank": 61
   },
@@ -2057,7 +2057,7 @@
    "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system",
    "owner": "Ricky-7-Yan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/224488344?v=4",
-   "stars": 1161,
+   "stars": 1162,
    "forks": 104,
    "open_issues": 1,
    "language": "Python",
@@ -2090,12 +2090,12 @@
    "url": "https://github.com/NVIDIA-NeMo/Gym",
    "owner": "NVIDIA-NeMo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/213689629?v=4",
-   "stars": 1061,
+   "stars": 1064,
    "forks": 233,
-   "open_issues": 512,
+   "open_issues": 511,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:51:21Z",
+   "pushed_at": "2026-07-22T09:54:16Z",
    "created_at": "2025-08-25T21:37:55Z",
    "description": "Evaluate and improve models and agents using environments",
    "topics": [
@@ -2121,12 +2121,12 @@
    "url": "https://github.com/JudgmentLabs/judgeval",
    "owner": "JudgmentLabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/186249420?v=4",
-   "stars": 1041,
+   "stars": 1042,
    "forks": 94,
-   "open_issues": 23,
+   "open_issues": 25,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-20T00:45:18Z",
+   "pushed_at": "2026-07-21T23:58:29Z",
    "created_at": "2024-10-25T04:49:15Z",
    "description": "The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement and monitoring.",
    "topics": [
@@ -2157,7 +2157,7 @@
    "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
    "owner": "VoltAgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
-   "stars": 1604,
+   "stars": 1609,
    "forks": 166,
    "open_issues": 0,
    "language": "",
@@ -2178,26 +2178,6 @@
    "category": "RAG Eval",
    "momentum": 68,
    "rank": 65
-  },
-  {
-   "name": "PaperGuru-Benchmark",
-   "full_name": "AutoTrustAI/PaperGuru-Benchmark",
-   "slug": "autotrustai-paperguru-benchmark",
-   "url": "https://github.com/AutoTrustAI/PaperGuru-Benchmark",
-   "owner": "AutoTrustAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/280205353?v=4",
-   "stars": 1313,
-   "forks": 197,
-   "open_issues": 0,
-   "language": "TeX",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-08T21:14:07Z",
-   "created_at": "2026-05-08T16:01:28Z",
-   "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
-   "topics": [],
-   "category": "Agent Eval",
-   "momentum": 68,
-   "rank": 66
   },
   {
    "name": "audio-ai-hub",
@@ -2225,6 +2205,47 @@
    ],
    "category": "Benchmarks",
    "momentum": 68,
+   "rank": 66
+  },
+  {
+   "name": "coder_eval",
+   "full_name": "UiPath/coder_eval",
+   "slug": "uipath-coder-eval",
+   "url": "https://github.com/UiPath/coder_eval",
+   "owner": "UiPath",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/375663?v=4",
+   "stars": 105,
+   "forks": 1,
+   "open_issues": 12,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-22T08:56:58Z",
+   "created_at": "2026-07-09T06:46:59Z",
+   "description": "Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, Codex & Gemini, with A/B experiments and CI gates.",
+   "topics": [
+    "agent-evaluation",
+    "agent-testing",
+    "ai-agents",
+    "ai-evaluation",
+    "antigravity",
+    "benchmark",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "coding-agents",
+    "evals",
+    "evaluation-framework",
+    "gemini",
+    "llm-eval",
+    "llm-evaluation",
+    "llmops",
+    "sandbox",
+    "swe-bench"
+   ],
+   "category": "Agent Eval",
+   "momentum": 68,
    "rank": 67
   },
   {
@@ -2234,9 +2255,9 @@
    "url": "https://github.com/openai/evals",
    "owner": "openai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
-   "stars": 18960,
-   "forks": 3028,
-   "open_issues": 219,
+   "stars": 18965,
+   "forks": 3030,
+   "open_issues": 218,
    "language": "Python",
    "license": "NOASSERTION",
    "pushed_at": "2026-04-14T15:29:57Z",
@@ -2281,7 +2302,7 @@
    "url": "https://github.com/msoedov/agentic_security",
    "owner": "msoedov",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1958116?v=4",
-   "stars": 1935,
+   "stars": 1936,
    "forks": 269,
    "open_issues": 70,
    "language": "Python",
@@ -2310,20 +2331,20 @@
    "rank": 70
   },
   {
-   "name": "skill",
-   "full_name": "pinchbench/skill",
-   "slug": "pinchbench-skill",
-   "url": "https://github.com/pinchbench/skill",
-   "owner": "pinchbench",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/260781745?v=4",
-   "stars": 1287,
-   "forks": 147,
-   "open_issues": 21,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-02T01:44:55Z",
-   "created_at": "2026-02-11T01:41:39Z",
-   "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+   "name": "PaperGuru-Benchmark",
+   "full_name": "AutoTrustAI/PaperGuru-Benchmark",
+   "slug": "autotrustai-paperguru-benchmark",
+   "url": "https://github.com/AutoTrustAI/PaperGuru-Benchmark",
+   "owner": "AutoTrustAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/280205353?v=4",
+   "stars": 1314,
+   "forks": 197,
+   "open_issues": 0,
+   "language": "TeX",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-08T21:14:07Z",
+   "created_at": "2026-05-08T16:01:28Z",
+   "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
    "topics": [],
    "category": "Agent Eval",
    "momentum": 67,
@@ -2336,9 +2357,9 @@
    "url": "https://github.com/cvs-health/uqlm",
    "owner": "cvs-health",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89528242?v=4",
-   "stars": 1186,
-   "forks": 127,
-   "open_issues": 23,
+   "stars": 1187,
+   "forks": 128,
+   "open_issues": 24,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-09T17:25:47Z",
@@ -2365,38 +2386,6 @@
    "rank": 72
   },
   {
-   "name": "ParseBench",
-   "full_name": "run-llama/ParseBench",
-   "slug": "run-llama-parsebench",
-   "url": "https://github.com/run-llama/ParseBench",
-   "owner": "run-llama",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/130722866?v=4",
-   "stars": 533,
-   "forks": 74,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-17T22:56:59Z",
-   "created_at": "2026-04-10T20:46:33Z",
-   "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-   "topics": [
-    "benchmark",
-    "document-ai",
-    "document-parsing",
-    "evaluation",
-    "llamaindex",
-    "llm",
-    "machine-learning",
-    "ocr",
-    "pdf-parsing",
-    "table-extraction",
-    "vision-language-models"
-   ],
-   "category": "Agent Eval",
-   "momentum": 67,
-   "rank": 73
-  },
-  {
    "name": "EmoLLM",
    "full_name": "SmartFlowAI/EmoLLM",
    "slug": "smartflowai-emollm",
@@ -2421,30 +2410,57 @@
    ],
    "category": "RAG Eval",
    "momentum": 66,
+   "rank": 73
+  },
+  {
+   "name": "skill",
+   "full_name": "pinchbench/skill",
+   "slug": "pinchbench-skill",
+   "url": "https://github.com/pinchbench/skill",
+   "owner": "pinchbench",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/260781745?v=4",
+   "stars": 1291,
+   "forks": 147,
+   "open_issues": 21,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-02T01:44:55Z",
+   "created_at": "2026-02-11T01:41:39Z",
+   "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+   "topics": [],
+   "category": "Agent Eval",
+   "momentum": 66,
    "rank": 74
   },
   {
-   "name": "rag-in-action",
-   "full_name": "huangjia2019/rag-in-action",
-   "slug": "huangjia2019-rag-in-action",
-   "url": "https://github.com/huangjia2019/rag-in-action",
-   "owner": "huangjia2019",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/48795276?v=4",
-   "stars": 793,
-   "forks": 311,
+   "name": "ParseBench",
+   "full_name": "run-llama/ParseBench",
+   "slug": "run-llama-parsebench",
+   "url": "https://github.com/run-llama/ParseBench",
+   "owner": "run-llama",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/130722866?v=4",
+   "stars": 532,
+   "forks": 74,
    "open_issues": 3,
-   "language": "Jupyter Notebook",
-   "license": "",
-   "pushed_at": "2026-07-10T16:00:43Z",
-   "created_at": "2025-03-06T07:42:09Z",
-   "description": "End-to-end RAG system design, evaluation, and optimization. 极客时间RAG训练营，RAG 10大组件全面拆解，4个实操项目吃透 RAG 全流程。RAG的落地，往往是面向业务做RAG，而不是反过来面向RAG做业务。这就是为什么我们需要针对不同场景、不同问题做针对性的调整、优化和定制化。魔鬼全在细节中，我们深入进去探究。",
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-17T22:56:59Z",
+   "created_at": "2026-04-10T20:46:33Z",
+   "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
    "topics": [
-    "agent",
-    "ai",
+    "benchmark",
+    "document-ai",
+    "document-parsing",
+    "evaluation",
+    "llamaindex",
     "llm",
-    "rag"
+    "machine-learning",
+    "ocr",
+    "pdf-parsing",
+    "table-extraction",
+    "vision-language-models"
    ],
-   "category": "RAG Eval",
+   "category": "Agent Eval",
    "momentum": 66,
    "rank": 75
   },
@@ -2455,7 +2471,7 @@
    "url": "https://github.com/TIGER-AI-Lab/ClawBench",
    "owner": "TIGER-AI-Lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/144196744?v=4",
-   "stars": 509,
+   "stars": 513,
    "forks": 28,
    "open_issues": 41,
    "language": "Python",
@@ -2496,8 +2512,8 @@
    "url": "https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape",
    "owner": "Yeti-791",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12783061?v=4",
-   "stars": 126,
-   "forks": 19,
+   "stars": 138,
+   "forks": 22,
    "open_issues": 1,
    "language": "",
    "license": "MIT",
@@ -2536,8 +2552,8 @@
    "url": "https://github.com/evidentlyai/evidently",
    "owner": "evidentlyai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/75031056?v=4",
-   "stars": 7718,
-   "forks": 883,
+   "stars": 7731,
+   "forks": 886,
    "open_issues": 286,
    "language": "Jupyter Notebook",
    "license": "Apache-2.0",
@@ -2565,13 +2581,38 @@
    "rank": 78
   },
   {
+   "name": "rag-in-action",
+   "full_name": "huangjia2019/rag-in-action",
+   "slug": "huangjia2019-rag-in-action",
+   "url": "https://github.com/huangjia2019/rag-in-action",
+   "owner": "huangjia2019",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48795276?v=4",
+   "stars": 794,
+   "forks": 311,
+   "open_issues": 3,
+   "language": "Jupyter Notebook",
+   "license": "",
+   "pushed_at": "2026-07-10T16:00:43Z",
+   "created_at": "2025-03-06T07:42:09Z",
+   "description": "End-to-end RAG system design, evaluation, and optimization. 极客时间RAG训练营，RAG 10大组件全面拆解，4个实操项目吃透 RAG 全流程。RAG的落地，往往是面向业务做RAG，而不是反过来面向RAG做业务。这就是为什么我们需要针对不同场景、不同问题做针对性的调整、优化和定制化。魔鬼全在细节中，我们深入进去探究。",
+   "topics": [
+    "agent",
+    "ai",
+    "llm",
+    "rag"
+   ],
+   "category": "RAG Eval",
+   "momentum": 65,
+   "rank": 79
+  },
+  {
    "name": "OpenJudge",
    "full_name": "agentscope-ai/OpenJudge",
    "slug": "agentscope-ai-openjudge",
    "url": "https://github.com/agentscope-ai/OpenJudge",
    "owner": "agentscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
-   "stars": 737,
+   "stars": 740,
    "forks": 59,
    "open_issues": 12,
    "language": "Python",
@@ -2595,7 +2636,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 65,
-   "rank": 79
+   "rank": 80
   },
   {
    "name": "awesome-llm-unlearning",
@@ -2604,7 +2645,7 @@
    "url": "https://github.com/chrisliu298/awesome-llm-unlearning",
    "owner": "chrisliu298",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59010212?v=4",
-   "stars": 616,
+   "stars": 617,
    "forks": 32,
    "open_issues": 0,
    "language": "",
@@ -2636,7 +2677,41 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 65,
-   "rank": 80
+   "rank": 81
+  },
+  {
+   "name": "meta-agents-research-environments",
+   "full_name": "facebookresearch/meta-agents-research-environments",
+   "slug": "facebookresearch-meta-agents-research-environments",
+   "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+   "owner": "facebookresearch",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
+   "stars": 528,
+   "forks": 69,
+   "open_issues": 34,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-21T18:00:46Z",
+   "created_at": "2025-09-11T10:00:28Z",
+   "description": "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.",
+   "topics": [
+    "agents",
+    "ai",
+    "autonomous-agents",
+    "benchmark",
+    "evaluation",
+    "large-language-models",
+    "llm",
+    "meta",
+    "multi-agent-systems",
+    "natural-language-processing",
+    "reinforcement-learning",
+    "rl",
+    "simulation"
+   ],
+   "category": "Agent Eval",
+   "momentum": 65,
+   "rank": 82
   },
   {
    "name": "awesome-ai-security-tools",
@@ -2645,9 +2720,9 @@
    "url": "https://github.com/scadastrangelove/awesome-ai-security-tools",
    "owner": "scadastrangelove",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16428031?v=4",
-   "stars": 134,
-   "forks": 41,
-   "open_issues": 1,
+   "stars": 140,
+   "forks": 44,
+   "open_issues": 3,
    "language": "Python",
    "license": "NOASSERTION",
    "pushed_at": "2026-07-20T21:45:09Z",
@@ -2664,7 +2739,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 65,
-   "rank": 81
+   "rank": 83
   },
   {
    "name": "Jailbreaker-CE",
@@ -2673,18 +2748,18 @@
    "url": "https://github.com/SpecterOps/Jailbreaker-CE",
    "owner": "SpecterOps",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25406560?v=4",
-   "stars": 70,
+   "stars": 71,
    "forks": 3,
    "open_issues": 1,
    "language": "Python",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-07-21T00:04:11Z",
+   "pushed_at": "2026-07-21T18:58:29Z",
    "created_at": "2026-06-26T15:46:36Z",
    "description": "Jailbreaker is a local evaluation tool for testing chatbot and agent-style systems against jailbreak, prompt-injection, and related failure modes.",
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 65,
-   "rank": 82
+   "rank": 84
   },
   {
    "name": "FinSight-AI",
@@ -2715,35 +2790,7 @@
    ],
    "category": "Observability",
    "momentum": 64,
-   "rank": 83
-  },
-  {
-   "name": "ClawProBench",
-   "full_name": "suyoumo/ClawProBench",
-   "slug": "suyoumo-clawprobench",
-   "url": "https://github.com/suyoumo/ClawProBench",
-   "owner": "suyoumo",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/39437291?v=4",
-   "stars": 816,
-   "forks": 53,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-28T17:00:10Z",
-   "created_at": "2025-03-02T09:15:10Z",
-   "description": "ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.",
-   "topics": [
-    "agent",
-    "benchmark",
-    "evaluation",
-    "harness",
-    "leaderboard",
-    "llm",
-    "openclaw"
-   ],
-   "category": "Agent Eval",
-   "momentum": 64,
-   "rank": 84
+   "rank": 85
   },
   {
    "name": "langfuse-python",
@@ -2753,11 +2800,11 @@
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
    "stars": 439,
-   "forks": 312,
-   "open_issues": 77,
+   "forks": 314,
+   "open_issues": 80,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-21T05:54:24Z",
+   "pushed_at": "2026-07-22T06:47:17Z",
    "created_at": "2023-07-17T10:56:29Z",
    "description": "🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework",
    "topics": [
@@ -2769,7 +2816,7 @@
    ],
    "category": "Observability",
    "momentum": 64,
-   "rank": 85
+   "rank": 86
   },
   {
    "name": "awesome-MLSecOps",
@@ -2779,7 +2826,7 @@
    "owner": "RiccardoBiosas",
    "owner_avatar": "https://avatars.githubusercontent.com/u/65150720?v=4",
    "stars": 439,
-   "forks": 88,
+   "forks": 87,
    "open_issues": 9,
    "language": "",
    "license": "MIT",
@@ -2804,7 +2851,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 64,
-   "rank": 86
+   "rank": 87
   },
   {
    "name": "rhesis",
@@ -2815,10 +2862,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/168341335?v=4",
    "stars": 381,
    "forks": 29,
-   "open_issues": 103,
+   "open_issues": 105,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T10:44:24Z",
+   "pushed_at": "2026-07-22T09:03:31Z",
    "created_at": "2024-10-09T19:32:19Z",
    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (adversarial) conversations, and trace every failure to its root cause.",
    "topics": [
@@ -2836,7 +2883,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 64,
-   "rank": 87
+   "rank": 88
   },
   {
    "name": "MingLi-Bench",
@@ -2845,7 +2892,7 @@
    "url": "https://github.com/DestinyLinker/MingLi-Bench",
    "owner": "DestinyLinker",
    "owner_avatar": "https://avatars.githubusercontent.com/u/227604965?v=4",
-   "stars": 2217,
+   "stars": 2218,
    "forks": 324,
    "open_issues": 2,
    "language": "Python",
@@ -2856,7 +2903,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 63,
-   "rank": 88
+   "rank": 89
   },
   {
    "name": "ClawGUI",
@@ -2866,7 +2913,7 @@
    "owner": "ZJU-REAL",
    "owner_avatar": "https://avatars.githubusercontent.com/u/203928864?v=4",
    "stars": 1316,
-   "forks": 52,
+   "forks": 53,
    "open_issues": 2,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2883,7 +2930,35 @@
    ],
    "category": "Agent Eval",
    "momentum": 63,
-   "rank": 89
+   "rank": 90
+  },
+  {
+   "name": "ClawProBench",
+   "full_name": "suyoumo/ClawProBench",
+   "slug": "suyoumo-clawprobench",
+   "url": "https://github.com/suyoumo/ClawProBench",
+   "owner": "suyoumo",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/39437291?v=4",
+   "stars": 817,
+   "forks": 53,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-28T17:00:10Z",
+   "created_at": "2025-03-02T09:15:10Z",
+   "description": "ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.",
+   "topics": [
+    "agent",
+    "benchmark",
+    "evaluation",
+    "harness",
+    "leaderboard",
+    "llm",
+    "openclaw"
+   ],
+   "category": "Agent Eval",
+   "momentum": 63,
+   "rank": 91
   },
   {
    "name": "verifywise",
@@ -2894,10 +2969,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/262239808?v=4",
    "stars": 321,
    "forks": 109,
-   "open_issues": 72,
+   "open_issues": 68,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T09:11:42Z",
+   "pushed_at": "2026-07-22T10:29:41Z",
    "created_at": "2024-08-18T23:02:10Z",
    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI frameworks and regulations. Join our Discord channel: https://discord.com/invite/d3k3E4uEpR",
    "topics": [
@@ -2922,7 +2997,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 63,
-   "rank": 90
+   "rank": 92
   },
   {
    "name": "UltraEval-Audio",
@@ -2931,7 +3006,7 @@
    "url": "https://github.com/OpenBMB/UltraEval-Audio",
    "owner": "OpenBMB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
-   "stars": 308,
+   "stars": 309,
    "forks": 24,
    "open_issues": 4,
    "language": "Python",
@@ -2953,31 +3028,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 62,
-   "rank": 91
-  },
-  {
-   "name": "memorybench",
-   "full_name": "supermemoryai/memorybench",
-   "slug": "supermemoryai-memorybench",
-   "url": "https://github.com/supermemoryai/memorybench",
-   "owner": "supermemoryai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/171979587?v=4",
-   "stars": 297,
-   "forks": 73,
-   "open_issues": 13,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-17T08:12:04Z",
-   "created_at": "2025-09-17T01:07:12Z",
-   "description": "Unified benchmark for evaluating conversational memory and RAG across multiple datasets",
-   "topics": [
-    "ai",
-    "ai-memory",
-    "benchmark-framework"
-   ],
-   "category": "RAG Eval",
-   "momentum": 62,
-   "rank": 92
+   "rank": 93
   },
   {
    "name": "LLM-Engineers-Handbook",
@@ -2986,8 +3037,8 @@
    "url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
    "owner": "PacktPublishing",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10974906?v=4",
-   "stars": 5239,
-   "forks": 1257,
+   "stars": 5242,
+   "forks": 1259,
    "open_issues": 34,
    "language": "Python",
    "license": "MIT",
@@ -3007,27 +3058,31 @@
    ],
    "category": "RAG Eval",
    "momentum": 61,
-   "rank": 93
+   "rank": 94
   },
   {
-   "name": "cryptex-oss",
-   "full_name": "m4xx101/cryptex-oss",
-   "slug": "m4xx101-cryptex-oss",
-   "url": "https://github.com/m4xx101/cryptex-oss",
-   "owner": "m4xx101",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/46222738?v=4",
-   "stars": 338,
-   "forks": 65,
-   "open_issues": 0,
+   "name": "memorybench",
+   "full_name": "supermemoryai/memorybench",
+   "slug": "supermemoryai-memorybench",
+   "url": "https://github.com/supermemoryai/memorybench",
+   "owner": "supermemoryai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/171979587?v=4",
+   "stars": 297,
+   "forks": 72,
+   "open_issues": 13,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-09T19:49:30Z",
-   "created_at": "2026-05-08T23:58:48Z",
-   "description": "Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.",
-   "topics": [],
-   "category": "Red Teaming & Safety",
+   "pushed_at": "2026-07-17T08:12:04Z",
+   "created_at": "2025-09-17T01:07:12Z",
+   "description": "Unified benchmark for evaluating conversational memory and RAG across multiple datasets",
+   "topics": [
+    "ai",
+    "ai-memory",
+    "benchmark-framework"
+   ],
+   "category": "RAG Eval",
    "momentum": 61,
-   "rank": 94
+   "rank": 95
   },
   {
    "name": "AutoRedTeam-Orchestrator",
@@ -3041,7 +3096,7 @@
    "open_issues": 2,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T09:57:59Z",
+   "pushed_at": "2026-07-22T10:05:42Z",
    "created_at": "2025-11-25T11:05:27Z",
    "description": "Enterprise AI Red Team Platform | 企业级AI红队平台 | 132 MCP Tools | Pure Python Engines | SDK+CLI+MCP | Auto-Download sqlmap/nuclei/ffuf | Production C2 | LLM Enhanced | Docker Sandbox | SARIF CI/CD | 1980 Tests",
    "topics": [
@@ -3068,7 +3123,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 61,
-   "rank": 95
+   "rank": 96
   },
   {
    "name": "langfuse-docs",
@@ -3078,11 +3133,11 @@
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
    "stars": 225,
-   "forks": 263,
-   "open_issues": 153,
+   "forks": 264,
+   "open_issues": 158,
    "language": "MDX",
    "license": "MIT",
-   "pushed_at": "2026-07-21T10:36:32Z",
+   "pushed_at": "2026-07-22T10:36:11Z",
    "created_at": "2023-05-22T14:48:56Z",
    "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
    "topics": [
@@ -3099,7 +3154,7 @@
    ],
    "category": "Observability",
    "momentum": 61,
-   "rank": 96
+   "rank": 97
   },
   {
    "name": "RAG-FiT",
@@ -3128,41 +3183,27 @@
    ],
    "category": "RAG Eval",
    "momentum": 60,
-   "rank": 97
+   "rank": 98
   },
   {
-   "name": "meta-agents-research-environments",
-   "full_name": "facebookresearch/meta-agents-research-environments",
-   "slug": "facebookresearch-meta-agents-research-environments",
-   "url": "https://github.com/facebookresearch/meta-agents-research-environments",
-   "owner": "facebookresearch",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
-   "stars": 528,
-   "forks": 69,
-   "open_issues": 33,
-   "language": "Python",
+   "name": "cryptex-oss",
+   "full_name": "m4xx101/cryptex-oss",
+   "slug": "m4xx101-cryptex-oss",
+   "url": "https://github.com/m4xx101/cryptex-oss",
+   "owner": "m4xx101",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/46222738?v=4",
+   "stars": 338,
+   "forks": 65,
+   "open_issues": 0,
+   "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-20T06:35:58Z",
-   "created_at": "2025-09-11T10:00:28Z",
-   "description": "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.",
-   "topics": [
-    "agents",
-    "ai",
-    "autonomous-agents",
-    "benchmark",
-    "evaluation",
-    "large-language-models",
-    "llm",
-    "meta",
-    "multi-agent-systems",
-    "natural-language-processing",
-    "reinforcement-learning",
-    "rl",
-    "simulation"
-   ],
-   "category": "Agent Eval",
+   "pushed_at": "2026-06-09T19:49:30Z",
+   "created_at": "2026-05-08T23:58:48Z",
+   "description": "Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.",
+   "topics": [],
+   "category": "Red Teaming & Safety",
    "momentum": 60,
-   "rank": 98
+   "rank": 99
   },
   {
    "name": "ai-rag-chat-evaluator",
@@ -3171,7 +3212,7 @@
    "url": "https://github.com/Azure-Samples/ai-rag-chat-evaluator",
    "owner": "Azure-Samples",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1844662?v=4",
-   "stars": 331,
+   "stars": 332,
    "forks": 114,
    "open_issues": 21,
    "language": "Python",
@@ -3182,7 +3223,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 60,
-   "rank": 99
+   "rank": 100
   },
   {
    "name": "android-bench",
@@ -3202,7 +3243,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 60,
-   "rank": 100
+   "rank": 101
   },
   {
    "name": "hub",
@@ -3234,7 +3275,65 @@
    ],
    "category": "Observability",
    "momentum": 60,
-   "rank": 101
+   "rank": 102
+  },
+  {
+   "name": "evals",
+   "full_name": "strands-agents/evals",
+   "slug": "strands-agents-evals",
+   "url": "https://github.com/strands-agents/evals",
+   "owner": "strands-agents",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/209155962?v=4",
+   "stars": 162,
+   "forks": 47,
+   "open_issues": 63,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-21T20:29:21Z",
+   "created_at": "2025-07-31T21:53:35Z",
+   "description": "A comprehensive evaluation framework for AI agents and LLM applications.",
+   "topics": [
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "evaluation",
+    "machine-learning",
+    "python",
+    "strands-agents"
+   ],
+   "category": "Agent Eval",
+   "momentum": 59,
+   "rank": 103
+  },
+  {
+   "name": "gjc-multivendor-setup-guide",
+   "full_name": "project820/gjc-multivendor-setup-guide",
+   "slug": "project820-gjc-multivendor-setup-guide",
+   "url": "https://github.com/project820/gjc-multivendor-setup-guide",
+   "owner": "project820",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/239489026?v=4",
+   "stars": 35,
+   "forks": 4,
+   "open_issues": 0,
+   "language": "Shell",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-14T07:22:30Z",
+   "created_at": "2026-06-17T08:55:50Z",
+   "description": "GJC(Gajae Code) 5구독 멀티벤더 셋업 — 3대 리서치(Codex/LLM Council/Opus ultracode) + 엔진 ground-truth + red-team 통합 가이드",
+   "topics": [
+    "ai-coding-agent",
+    "claude",
+    "gajae-code",
+    "gemini",
+    "gjc",
+    "gpt",
+    "grok",
+    "llm",
+    "multi-model"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 59,
+   "rank": 104
   },
   {
    "name": "Awesome-LLM-in-Social-Science",
@@ -3265,92 +3364,7 @@
     "social-science"
    ],
    "category": "Agent Eval",
-   "momentum": 59,
-   "rank": 102
-  },
-  {
-   "name": "evals",
-   "full_name": "strands-agents/evals",
-   "slug": "strands-agents-evals",
-   "url": "https://github.com/strands-agents/evals",
-   "owner": "strands-agents",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/209155962?v=4",
-   "stars": 162,
-   "forks": 45,
-   "open_issues": 63,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-20T11:06:01Z",
-   "created_at": "2025-07-31T21:53:35Z",
-   "description": "A comprehensive evaluation framework for AI agents and LLM applications.",
-   "topics": [
-    "agentic",
-    "agentic-ai",
-    "ai",
-    "evaluation",
-    "machine-learning",
-    "python",
-    "strands-agents"
-   ],
-   "category": "Agent Eval",
-   "momentum": 59,
-   "rank": 103
-  },
-  {
-   "name": "langfuse-js",
-   "full_name": "langfuse/langfuse-js",
-   "slug": "langfuse-langfuse-js",
-   "url": "https://github.com/langfuse/langfuse-js",
-   "owner": "langfuse",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 150,
-   "forks": 98,
-   "open_issues": 34,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-21T08:54:50Z",
-   "created_at": "2023-07-02T21:43:44Z",
-   "description": "🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-   "topics": [
-    "javascript",
-    "langfuse",
-    "llmops",
-    "observability",
-    "sdk-js",
-    "typescript"
-   ],
-   "category": "Observability",
-   "momentum": 59,
-   "rank": 104
-  },
-  {
-   "name": "gjc-multivendor-setup-guide",
-   "full_name": "project820/gjc-multivendor-setup-guide",
-   "slug": "project820-gjc-multivendor-setup-guide",
-   "url": "https://github.com/project820/gjc-multivendor-setup-guide",
-   "owner": "project820",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/239489026?v=4",
-   "stars": 34,
-   "forks": 4,
-   "open_issues": 0,
-   "language": "Shell",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-14T07:22:30Z",
-   "created_at": "2026-06-17T08:55:50Z",
-   "description": "GJC(Gajae Code) 5구독 멀티벤더 셋업 — 3대 리서치(Codex/LLM Council/Opus ultracode) + 엔진 ground-truth + red-team 통합 가이드",
-   "topics": [
-    "ai-coding-agent",
-    "claude",
-    "gajae-code",
-    "gemini",
-    "gjc",
-    "gpt",
-    "grok",
-    "llm",
-    "multi-model"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 59,
+   "momentum": 58,
    "rank": 105
   },
   {
@@ -3361,7 +3375,7 @@
    "owner": "traceloop",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
    "stars": 407,
-   "forks": 71,
+   "forks": 72,
    "open_issues": 117,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -3436,6 +3450,33 @@
    "rank": 108
   },
   {
+   "name": "langfuse-js",
+   "full_name": "langfuse/langfuse-js",
+   "slug": "langfuse-langfuse-js",
+   "url": "https://github.com/langfuse/langfuse-js",
+   "owner": "langfuse",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
+   "stars": 150,
+   "forks": 99,
+   "open_issues": 35,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-21T14:48:40Z",
+   "created_at": "2023-07-02T21:43:44Z",
+   "description": "🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+   "topics": [
+    "javascript",
+    "langfuse",
+    "llmops",
+    "observability",
+    "sdk-js",
+    "typescript"
+   ],
+   "category": "Observability",
+   "momentum": 58,
+   "rank": 109
+  },
+  {
    "name": "AgentEval",
    "full_name": "AgentEvalHQ/AgentEval",
    "slug": "agentevalhq-agenteval",
@@ -3463,7 +3504,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 58,
-   "rank": 109
+   "rank": 110
   },
   {
    "name": "super_pe_evaluation",
@@ -3483,7 +3524,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 58,
-   "rank": 110
+   "rank": 111
   },
   {
    "name": "ragas",
@@ -3492,9 +3533,9 @@
    "url": "https://github.com/vibrantlabsai/ragas",
    "owner": "vibrantlabsai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/122604797?v=4",
-   "stars": 14930,
-   "forks": 1574,
-   "open_issues": 517,
+   "stars": 14954,
+   "forks": 1576,
+   "open_issues": 525,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-02-24T07:47:19Z",
@@ -3507,7 +3548,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 57,
-   "rank": 111
+   "rank": 112
   },
   {
    "name": "GraphRAG-Benchmark",
@@ -3535,7 +3576,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 57,
-   "rank": 112
+   "rank": 113
   },
   {
    "name": "rag-experiment-accelerator",
@@ -3571,7 +3612,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 57,
-   "rank": 113
+   "rank": 114
   },
   {
    "name": "generative-ai-project-template",
@@ -3600,7 +3641,7 @@
    ],
    "category": "Observability",
    "momentum": 57,
-   "rank": 114
+   "rank": 115
   },
   {
    "name": "tma1",
@@ -3640,7 +3681,7 @@
    ],
    "category": "Observability",
    "momentum": 57,
-   "rank": 115
+   "rank": 116
   },
   {
    "name": "aisix",
@@ -3651,10 +3692,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/61078451?v=4",
    "stars": 71,
    "forks": 9,
-   "open_issues": 84,
+   "open_issues": 83,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T10:51:32Z",
+   "pushed_at": "2026-07-22T05:27:09Z",
    "created_at": "2026-04-17T03:44:47Z",
    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock & more — routing, guardrails, caching, rate limits, observability.",
    "topics": [
@@ -3681,32 +3722,6 @@
    ],
    "category": "Observability",
    "momentum": 57,
-   "rank": 116
-  },
-  {
-   "name": "moonshot",
-   "full_name": "aiverify-foundation/moonshot",
-   "slug": "aiverify-foundation-moonshot",
-   "url": "https://github.com/aiverify-foundation/moonshot",
-   "owner": "aiverify-foundation",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/118954826?v=4",
-   "stars": 338,
-   "forks": 65,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-10T03:26:13Z",
-   "created_at": "2023-12-14T07:43:03Z",
-   "description": "Moonshot - A simple and modular tool to evaluate and red-team any LLM application.",
-   "topics": [
-    "benchmarking",
-    "evaluation-framework",
-    "llm",
-    "red-teaming",
-    "trustworthy-ai"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 56,
    "rank": 117
   },
   {
@@ -3786,7 +3801,7 @@
    "url": "https://github.com/langchain-tracer/Axon",
    "owner": "langchain-tracer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/237815469?v=4",
-   "stars": 106,
+   "stars": 110,
    "forks": 3,
    "open_issues": 14,
    "language": "TypeScript",
@@ -3818,7 +3833,7 @@
    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
    "owner": "raga-ai-hub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161833182?v=4",
-   "stars": 16143,
+   "stars": 16141,
    "forks": 3576,
    "open_issues": 34,
    "language": "Python",
@@ -3918,6 +3933,32 @@
    "rank": 124
   },
   {
+   "name": "moonshot",
+   "full_name": "aiverify-foundation/moonshot",
+   "slug": "aiverify-foundation-moonshot",
+   "url": "https://github.com/aiverify-foundation/moonshot",
+   "owner": "aiverify-foundation",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118954826?v=4",
+   "stars": 337,
+   "forks": 64,
+   "open_issues": 3,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-10T03:26:13Z",
+   "created_at": "2023-12-14T07:43:03Z",
+   "description": "Moonshot - A simple and modular tool to evaluate and red-team any LLM application.",
+   "topics": [
+    "benchmarking",
+    "evaluation-framework",
+    "llm",
+    "red-teaming",
+    "trustworthy-ai"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 55,
+   "rank": 125
+  },
+  {
    "name": "AgentPoison",
    "full_name": "AI-secure/AgentPoison",
    "slug": "ai-secure-agentpoison",
@@ -3939,7 +3980,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 55,
-   "rank": 125
+   "rank": 126
   },
   {
    "name": "BinaryAudit",
@@ -3966,7 +4007,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 55,
-   "rank": 126
+   "rank": 127
   },
   {
    "name": "traccia-py",
@@ -3994,7 +4035,7 @@
    ],
    "category": "Observability",
    "momentum": 55,
-   "rank": 127
+   "rank": 128
   },
   {
    "name": "llm-observability",
@@ -4005,16 +4046,16 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/365230?v=4",
    "stars": 79,
    "forks": 14,
-   "open_issues": 14,
+   "open_issues": 15,
    "language": "Jupyter Notebook",
    "license": "",
-   "pushed_at": "2026-07-20T19:48:36Z",
+   "pushed_at": "2026-07-22T02:06:03Z",
    "created_at": "2024-05-22T14:22:39Z",
    "description": "Learn by example how to instrument Datadog's LLM Observability product",
    "topics": [],
    "category": "Observability",
    "momentum": 55,
-   "rank": 128
+   "rank": 129
   },
   {
    "name": "crucible",
@@ -4049,7 +4090,7 @@
    ],
    "category": "Observability",
    "momentum": 55,
-   "rank": 129
+   "rank": 130
   },
   {
    "name": "LLM-eval-survey",
@@ -4075,31 +4116,6 @@
     "model-assessment"
    ],
    "category": "Benchmarks",
-   "momentum": 54,
-   "rank": 130
-  },
-  {
-   "name": "web-codegen-scorer",
-   "full_name": "angular/web-codegen-scorer",
-   "slug": "angular-web-codegen-scorer",
-   "url": "https://github.com/angular/web-codegen-scorer",
-   "owner": "angular",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/139426?v=4",
-   "stars": 756,
-   "forks": 67,
-   "open_issues": 19,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-05-05T19:03:44Z",
-   "created_at": "2025-09-04T18:57:45Z",
-   "description": "Web Codegen Scorer is a tool for evaluating the quality of web code generated by LLMs.",
-   "topics": [
-    "benchmarking",
-    "codegen",
-    "evaluation",
-    "llm-coding"
-   ],
-   "category": "Coding Eval",
    "momentum": 54,
    "rank": 131
   },
@@ -4140,7 +4156,7 @@
    "url": "https://github.com/georgeguimaraes/tribunal",
    "owner": "georgeguimaraes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2929?v=4",
-   "stars": 97,
+   "stars": 99,
    "forks": 3,
    "open_issues": 9,
    "language": "Elixir",
@@ -4188,57 +4204,16 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/350839?v=4",
    "stars": 65,
    "forks": 11,
-   "open_issues": 33,
+   "open_issues": 38,
    "language": "Rust",
    "license": "MIT",
-   "pushed_at": "2026-07-19T00:29:40Z",
+   "pushed_at": "2026-07-22T00:27:58Z",
    "created_at": "2025-12-15T17:15:07Z",
    "description": "Ares is an autonomous security operations platform where LLM-driven red and blue team agents operate against each other on live infrastructure, enabling realistic evaluation of attack and defense.",
    "topics": [],
    "category": "Agent Eval",
    "momentum": 54,
    "rank": 135
-  },
-  {
-   "name": "trench",
-   "full_name": "FrigadeHQ/trench",
-   "slug": "frigadehq-trench",
-   "url": "https://github.com/FrigadeHQ/trench",
-   "owner": "FrigadeHQ",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/117952255?v=4",
-   "stars": 1646,
-   "forks": 64,
-   "open_issues": 3,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-04-06T23:11:33Z",
-   "created_at": "2024-09-30T19:19:01Z",
-   "description": "Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.",
-   "topics": [
-    "analytics",
-    "clickhouse",
-    "clickhouse-database",
-    "clickhouse-server",
-    "dashboard",
-    "dashboards",
-    "event-replay",
-    "kafka",
-    "kafka-engine",
-    "llm",
-    "matomo",
-    "matomo-analytics",
-    "nodejs",
-    "open-source",
-    "plausible-analytics",
-    "posthog",
-    "product-analytics",
-    "rag",
-    "tracking",
-    "tracking-events"
-   ],
-   "category": "Observability",
-   "momentum": 53,
-   "rank": 136
   },
   {
    "name": "rag-fusion",
@@ -4248,7 +4223,7 @@
    "owner": "Raudaschl",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6103284?v=4",
    "stars": 946,
-   "forks": 113,
+   "forks": 114,
    "open_issues": 0,
    "language": "Python",
    "license": "MIT",
@@ -4267,6 +4242,31 @@
     "vector-search"
    ],
    "category": "RAG Eval",
+   "momentum": 53,
+   "rank": 136
+  },
+  {
+   "name": "web-codegen-scorer",
+   "full_name": "angular/web-codegen-scorer",
+   "slug": "angular-web-codegen-scorer",
+   "url": "https://github.com/angular/web-codegen-scorer",
+   "owner": "angular",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/139426?v=4",
+   "stars": 757,
+   "forks": 67,
+   "open_issues": 19,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-05-05T19:03:44Z",
+   "created_at": "2025-09-04T18:57:45Z",
+   "description": "Web Codegen Scorer is a tool for evaluating the quality of web code generated by LLMs.",
+   "topics": [
+    "benchmarking",
+    "codegen",
+    "evaluation",
+    "llm-coding"
+   ],
+   "category": "Coding Eval",
    "momentum": 53,
    "rank": 137
   },
@@ -4367,6 +4367,47 @@
    "rank": 140
   },
   {
+   "name": "trench",
+   "full_name": "FrigadeHQ/trench",
+   "slug": "frigadehq-trench",
+   "url": "https://github.com/FrigadeHQ/trench",
+   "owner": "FrigadeHQ",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/117952255?v=4",
+   "stars": 1646,
+   "forks": 64,
+   "open_issues": 3,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-04-06T23:11:33Z",
+   "created_at": "2024-09-30T19:19:01Z",
+   "description": "Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.",
+   "topics": [
+    "analytics",
+    "clickhouse",
+    "clickhouse-database",
+    "clickhouse-server",
+    "dashboard",
+    "dashboards",
+    "event-replay",
+    "kafka",
+    "kafka-engine",
+    "llm",
+    "matomo",
+    "matomo-analytics",
+    "nodejs",
+    "open-source",
+    "plausible-analytics",
+    "posthog",
+    "product-analytics",
+    "rag",
+    "tracking",
+    "tracking-events"
+   ],
+   "category": "Observability",
+   "momentum": 52,
+   "rank": 141
+  },
+  {
    "name": "llmtrace",
    "full_name": "techlab-innov/llmtrace",
    "slug": "techlab-innov-llmtrace",
@@ -4404,38 +4445,6 @@
    ],
    "category": "Observability",
    "momentum": 52,
-   "rank": 141
-  },
-  {
-   "name": "nexa-gauge",
-   "full_name": "harnexa/nexa-gauge",
-   "slug": "harnexa-nexa-gauge",
-   "url": "https://github.com/harnexa/nexa-gauge",
-   "owner": "harnexa",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/277560842?v=4",
-   "stars": 40,
-   "forks": 13,
-   "open_issues": 2,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-20T09:29:10Z",
-   "created_at": "2026-03-12T06:26:36Z",
-   "description": "An graph-eval framework for LLM's",
-   "topics": [
-    "blue-score",
-    "geval",
-    "grounding",
-    "llm",
-    "llm-eval",
-    "llm-evaluation-framework",
-    "llm-judge",
-    "ranking-algorithm",
-    "redteam",
-    "relevance-scoring",
-    "rouge-metric"
-   ],
-   "category": "Red Teaming & Safety",
-   "momentum": 52,
    "rank": 142
   },
   {
@@ -4445,8 +4454,8 @@
    "url": "https://github.com/onyx-dot-app/EnterpriseRAG-Bench",
    "owner": "onyx-dot-app",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131946000?v=4",
-   "stars": 471,
-   "forks": 49,
+   "stars": 477,
+   "forks": 51,
    "open_issues": 9,
    "language": "",
    "license": "MIT",
@@ -4477,6 +4486,38 @@
    "category": "RAG Eval",
    "momentum": 51,
    "rank": 143
+  },
+  {
+   "name": "nexa-gauge",
+   "full_name": "harnexa/nexa-gauge",
+   "slug": "harnexa-nexa-gauge",
+   "url": "https://github.com/harnexa/nexa-gauge",
+   "owner": "harnexa",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/277560842?v=4",
+   "stars": 40,
+   "forks": 13,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-20T09:29:10Z",
+   "created_at": "2026-03-12T06:26:36Z",
+   "description": "An graph-eval framework for LLM's",
+   "topics": [
+    "blue-score",
+    "geval",
+    "grounding",
+    "llm",
+    "llm-eval",
+    "llm-evaluation-framework",
+    "llm-judge",
+    "ranking-algorithm",
+    "redteam",
+    "relevance-scoring",
+    "rouge-metric"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 51,
+   "rank": 144
   },
   {
    "name": "ai_for_the_win",
@@ -4517,7 +4558,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 50,
-   "rank": 144
+   "rank": 145
   },
   {
    "name": "leva",
@@ -4541,7 +4582,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 50,
-   "rank": 145
+   "rank": 146
   },
   {
    "name": "ai-llm-red-team-handbook",
@@ -4551,7 +4592,7 @@
    "owner": "Shiva108",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13223532?v=4",
    "stars": 313,
-   "forks": 62,
+   "forks": 61,
    "open_issues": 0,
    "language": "Python",
    "license": "NOASSERTION",
@@ -4561,7 +4602,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 49,
-   "rank": 146
+   "rank": 147
   },
   {
    "name": "KernelBench",
@@ -4570,7 +4611,7 @@
    "url": "https://github.com/ScalingIntelligence/KernelBench",
    "owner": "ScalingIntelligence",
    "owner_avatar": "https://avatars.githubusercontent.com/u/171742855?v=4",
-   "stars": 1150,
+   "stars": 1151,
    "forks": 181,
    "open_issues": 42,
    "language": "Jupyter Notebook",
@@ -4588,7 +4629,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 48,
-   "rank": 147
+   "rank": 148
   },
   {
    "name": "sample-getting-started-with-strands-agents-course",
@@ -4617,31 +4658,6 @@
    ],
    "category": "Observability",
    "momentum": 48,
-   "rank": 148
-  },
-  {
-   "name": "AgentBench",
-   "full_name": "THUDM/AgentBench",
-   "slug": "thudm-agentbench",
-   "url": "https://github.com/THUDM/AgentBench",
-   "owner": "THUDM",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
-   "stars": 3585,
-   "forks": 269,
-   "open_issues": 74,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-02-08T17:01:05Z",
-   "created_at": "2023-07-28T04:32:06Z",
-   "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
-   "topics": [
-    "chatgpt",
-    "gpt-4",
-    "llm",
-    "llm-agent"
-   ],
-   "category": "Agent Eval",
-   "momentum": 47,
    "rank": 149
   },
   {
@@ -4651,7 +4667,7 @@
    "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap",
    "owner": "h9-tec",
    "owner_avatar": "https://avatars.githubusercontent.com/u/61054142?v=4",
-   "stars": 170,
+   "stars": 171,
    "forks": 24,
    "open_issues": 0,
    "language": "",
@@ -4715,6 +4731,31 @@
    "rank": 152
   },
   {
+   "name": "AgentBench",
+   "full_name": "THUDM/AgentBench",
+   "slug": "thudm-agentbench",
+   "url": "https://github.com/THUDM/AgentBench",
+   "owner": "THUDM",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
+   "stars": 3590,
+   "forks": 270,
+   "open_issues": 74,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-02-08T17:01:05Z",
+   "created_at": "2023-07-28T04:32:06Z",
+   "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+   "topics": [
+    "chatgpt",
+    "gpt-4",
+    "llm",
+    "llm-agent"
+   ],
+   "category": "Agent Eval",
+   "momentum": 46,
+   "rank": 153
+  },
+  {
    "name": "awesome-red-teaming-llms",
    "full_name": "dapurv5/awesome-red-teaming-llms",
    "slug": "dapurv5-awesome-red-teaming-llms",
@@ -4741,7 +4782,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 46,
-   "rank": 153
+   "rank": 154
   },
   {
    "name": "evalcore",
@@ -4752,10 +4793,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/306051663?v=4",
    "stars": 14,
    "forks": 3,
-   "open_issues": 11,
+   "open_issues": 12,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T01:46:45Z",
+   "pushed_at": "2026-07-22T03:04:07Z",
    "created_at": "2026-07-17T03:26:45Z",
    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
    "topics": [
@@ -4777,7 +4818,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 46,
-   "rank": 154
+   "rank": 155
   },
   {
    "name": "skill-optimizer",
@@ -4816,7 +4857,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 45,
-   "rank": 155
+   "rank": 156
   },
   {
    "name": "promptly",
@@ -4841,7 +4882,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 45,
-   "rank": 156
+   "rank": 157
   },
   {
    "name": "ollama-multirun",
@@ -4873,7 +4914,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 45,
-   "rank": 157
+   "rank": 158
   },
   {
    "name": "nasde-toolkit",
@@ -4914,7 +4955,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 45,
-   "rank": 158
+   "rank": 159
   },
   {
    "name": "LLMZoo",
@@ -4934,7 +4975,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 42,
-   "rank": 159
+   "rank": 160
   },
   {
    "name": "FuzzyAI",
@@ -4944,7 +4985,7 @@
    "owner": "cyberark",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30869256?v=4",
    "stars": 1534,
-   "forks": 213,
+   "forks": 212,
    "open_issues": 6,
    "language": "Jupyter Notebook",
    "license": "Apache-2.0",
@@ -4965,7 +5006,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 42,
-   "rank": 160
+   "rank": 161
   },
   {
    "name": "apo",
@@ -4995,7 +5036,7 @@
    ],
    "category": "Observability",
    "momentum": 42,
-   "rank": 161
+   "rank": 162
   },
   {
    "name": "multivon-eval",
@@ -5028,7 +5069,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 42,
-   "rank": 162
+   "rank": 163
   },
   {
    "name": "uptrain",
@@ -5063,7 +5104,7 @@
    ],
    "category": "Observability",
    "momentum": 41,
-   "rank": 163
+   "rank": 164
   },
   {
    "name": "graph-rag-agent",
@@ -5072,8 +5113,8 @@
    "url": "https://github.com/1517005260/graph-rag-agent",
    "owner": "1517005260",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113491113?v=4",
-   "stars": 2284,
-   "forks": 319,
+   "stars": 2286,
+   "forks": 320,
    "open_issues": 36,
    "language": "Python",
    "license": "MIT",
@@ -5095,7 +5136,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 41,
-   "rank": 164
+   "rank": 165
   },
   {
    "name": "evaluation-guidebook",
@@ -5104,7 +5145,7 @@
    "url": "https://github.com/huggingface/evaluation-guidebook",
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 2127,
+   "stars": 2128,
    "forks": 125,
    "open_issues": 5,
    "language": "Jupyter Notebook",
@@ -5123,7 +5164,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 41,
-   "rank": 165
+   "rank": 166
   },
   {
    "name": "web-eval-agent",
@@ -5152,26 +5193,6 @@
     "vibe-testing"
    ],
    "category": "Agent Eval",
-   "momentum": 41,
-   "rank": 166
-  },
-  {
-   "name": "pyllms",
-   "full_name": "kagisearch/pyllms",
-   "slug": "kagisearch-pyllms",
-   "url": "https://github.com/kagisearch/pyllms",
-   "owner": "kagisearch",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/92134518?v=4",
-   "stars": 820,
-   "forks": 55,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-02-19T05:03:31Z",
-   "created_at": "2023-04-10T01:26:04Z",
-   "description": "Minimal Python library to connect to LLMs (OpenAI, Anthropic, Google, Groq, Reka, Together, AI21, Cohere, Aleph Alpha, HuggingfaceHub), with a built-in model performance benchmark.",
-   "topics": [],
-   "category": "Benchmarks",
    "momentum": 41,
    "rank": 167
   },
@@ -5220,6 +5241,26 @@
    "rank": 169
   },
   {
+   "name": "pyllms",
+   "full_name": "kagisearch/pyllms",
+   "slug": "kagisearch-pyllms",
+   "url": "https://github.com/kagisearch/pyllms",
+   "owner": "kagisearch",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/92134518?v=4",
+   "stars": 820,
+   "forks": 55,
+   "open_issues": 3,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-02-19T05:03:31Z",
+   "created_at": "2023-04-10T01:26:04Z",
+   "description": "Minimal Python library to connect to LLMs (OpenAI, Anthropic, Google, Groq, Reka, Together, AI21, Cohere, Aleph Alpha, HuggingfaceHub), with a built-in model performance benchmark.",
+   "topics": [],
+   "category": "Benchmarks",
+   "momentum": 40,
+   "rank": 170
+  },
+  {
    "name": "Static-to-Dynamic-LLMEval",
    "full_name": "SeekingDream/Static-to-Dynamic-LLMEval",
    "slug": "seekingdream-static-to-dynamic-llmeval",
@@ -5245,59 +5286,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 40,
-   "rank": 170
-  },
-  {
-   "name": "RAGEval",
-   "full_name": "BytePioneer-AI/RAGEval",
-   "slug": "bytepioneer-ai-rageval",
-   "url": "https://github.com/BytePioneer-AI/RAGEval",
-   "owner": "BytePioneer-AI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/61337845?v=4",
-   "stars": 102,
-   "forks": 17,
-   "open_issues": 11,
-   "language": "TypeScript",
-   "license": "",
-   "pushed_at": "2026-04-16T07:40:52Z",
-   "created_at": "2025-03-15T16:37:55Z",
-   "description": "灵鉴 RAG评测系统 | RAGEval  ✨ 开箱即用的RAG系统自动化评估工具 | One-stop RAG Evaluation Solution",
-   "topics": [],
-   "category": "RAG Eval",
-   "momentum": 40,
    "rank": 171
-  },
-  {
-   "name": "repoagentbench",
-   "full_name": "HumphreySun98/repoagentbench",
-   "slug": "humphreysun98-repoagentbench",
-   "url": "https://github.com/HumphreySun98/repoagentbench",
-   "owner": "HumphreySun98",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/181440142?v=4",
-   "stars": 30,
-   "forks": 0,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-04-30T06:27:42Z",
-   "created_at": "2026-04-29T04:23:55Z",
-   "description": "SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: claude-code, aider (Opus 4.7 / GPT-5.5 / Sonnet 4.6 / Gemini 3.1 Pro).",
-   "topics": [
-    "agent-evals",
-    "ai-agents",
-    "aider",
-    "benchmark",
-    "claude-opus-4-7",
-    "coding-agents",
-    "developer-tools",
-    "gemini-3-1-pro",
-    "gpt-5-5",
-    "llm-eval",
-    "swe-bench"
-   ],
-   "category": "Agent Eval",
-   "momentum": 40,
-   "rank": 172
   },
   {
    "name": "AgenticRed",
@@ -5317,7 +5306,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 40,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "Video-ChatGPT",
@@ -5349,7 +5338,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 39,
-   "rank": 174
+   "rank": 173
   },
   {
    "name": "llm-colosseum",
@@ -5374,7 +5363,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 39,
-   "rank": 175
+   "rank": 174
   },
   {
    "name": "SWELancer-Benchmark",
@@ -5393,6 +5382,26 @@
    "description": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
    "topics": [],
    "category": "Coding Eval",
+   "momentum": 39,
+   "rank": 175
+  },
+  {
+   "name": "RAGEval",
+   "full_name": "BytePioneer-AI/RAGEval",
+   "slug": "bytepioneer-ai-rageval",
+   "url": "https://github.com/BytePioneer-AI/RAGEval",
+   "owner": "BytePioneer-AI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/61337845?v=4",
+   "stars": 103,
+   "forks": 17,
+   "open_issues": 11,
+   "language": "TypeScript",
+   "license": "",
+   "pushed_at": "2026-04-16T07:40:52Z",
+   "created_at": "2025-03-15T16:37:55Z",
+   "description": "灵鉴 RAG评测系统 | RAGEval  ✨ 开箱即用的RAG系统自动化评估工具 | One-stop RAG Evaluation Solution",
+   "topics": [],
+   "category": "RAG Eval",
    "momentum": 39,
    "rank": 176
   },
@@ -5432,43 +5441,34 @@
    "rank": 177
   },
   {
-   "name": "RedTeam-Agent",
-   "full_name": "ktol1/RedTeam-Agent",
-   "slug": "ktol1-redteam-agent",
-   "url": "https://github.com/ktol1/RedTeam-Agent",
-   "owner": "ktol1",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/94578931?v=4",
-   "stars": 65,
-   "forks": 6,
-   "open_issues": 0,
-   "language": "C",
-   "license": "",
-   "pushed_at": "2026-04-24T02:38:36Z",
-   "created_at": "2026-02-28T12:16:58Z",
-   "description": "RedTeam-Agent: AI-Powered Autonomous Red Team Framework via Model Context Protocol. AI红队与内网渗透自动化框架，支持 gogo, fscan, httpx, nuclei, impacket, playwright 等 15+ 渗透工具，让 LLM 直接化身安全审计黑客。",
+   "name": "repoagentbench",
+   "full_name": "HumphreySun98/repoagentbench",
+   "slug": "humphreysun98-repoagentbench",
+   "url": "https://github.com/HumphreySun98/repoagentbench",
+   "owner": "HumphreySun98",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/181440142?v=4",
+   "stars": 30,
+   "forks": 0,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-04-30T06:27:42Z",
+   "created_at": "2026-04-29T04:23:55Z",
+   "description": "SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: claude-code, aider (Opus 4.7 / GPT-5.5 / Sonnet 4.6 / Gemini 3.1 Pro).",
    "topics": [
-    "active-directory",
-    "ai-agent",
-    "ai-security",
-    "bloodhound",
-    "cybersecurity",
-    "ethical-hacking",
-    "fscan",
-    "impacket",
-    "lateral-movement",
-    "llm-tools",
-    "mcp",
-    "mcp-server",
-    "model-context-protocol",
-    "nuclei",
-    "offensive-security",
-    "penetration-testing",
-    "pentesting",
-    "red-team",
-    "redteam",
-    "windows-security"
+    "agent-evals",
+    "ai-agents",
+    "aider",
+    "benchmark",
+    "claude-opus-4-7",
+    "coding-agents",
+    "developer-tools",
+    "gemini-3-1-pro",
+    "gpt-5-5",
+    "llm-eval",
+    "swe-bench"
    ],
-   "category": "Red Teaming & Safety",
+   "category": "Agent Eval",
    "momentum": 39,
    "rank": 178
   },
@@ -5531,7 +5531,7 @@
    "url": "https://github.com/Scale3-Labs/langtrace",
    "owner": "Scale3-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/110545750?v=4",
-   "stars": 1216,
+   "stars": 1218,
    "forks": 124,
    "open_issues": 1,
    "language": "TypeScript",
@@ -5558,45 +5558,6 @@
    "category": "Observability",
    "momentum": 38,
    "rank": 181
-  },
-  {
-   "name": "MMMU",
-   "full_name": "MMMU-Benchmark/MMMU",
-   "slug": "mmmu-benchmark-mmmu",
-   "url": "https://github.com/MMMU-Benchmark/MMMU",
-   "owner": "MMMU-Benchmark",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/151861048?v=4",
-   "stars": 589,
-   "forks": 55,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-02-12T09:41:31Z",
-   "created_at": "2023-11-23T15:53:31Z",
-   "description": "This repo contains evaluation code for the paper \"MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI\"",
-   "topics": [
-    "computer-vision",
-    "deep-learning",
-    "deep-neural-networks",
-    "evaluation",
-    "foundation-models",
-    "large-language-models",
-    "large-multimodal-models",
-    "llm",
-    "llms",
-    "machine-learning",
-    "multimodal",
-    "multimodal-deep-learning",
-    "multimodal-learning",
-    "multimodality",
-    "natural-language-processing",
-    "question-answering",
-    "stem",
-    "visual-question-answering"
-   ],
-   "category": "Coding Eval",
-   "momentum": 38,
-   "rank": 182
   },
   {
    "name": "LLMSecurityGuide",
@@ -5630,7 +5591,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 38,
-   "rank": 183
+   "rank": 182
   },
   {
    "name": "Eval",
@@ -5653,6 +5614,47 @@
     "llm"
    ],
    "category": "Reasoning",
+   "momentum": 38,
+   "rank": 183
+  },
+  {
+   "name": "RedTeam-Agent",
+   "full_name": "ktol1/RedTeam-Agent",
+   "slug": "ktol1-redteam-agent",
+   "url": "https://github.com/ktol1/RedTeam-Agent",
+   "owner": "ktol1",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/94578931?v=4",
+   "stars": 64,
+   "forks": 6,
+   "open_issues": 0,
+   "language": "C",
+   "license": "",
+   "pushed_at": "2026-04-24T02:38:36Z",
+   "created_at": "2026-02-28T12:16:58Z",
+   "description": "RedTeam-Agent: AI-Powered Autonomous Red Team Framework via Model Context Protocol. AI红队与内网渗透自动化框架，支持 gogo, fscan, httpx, nuclei, impacket, playwright 等 15+ 渗透工具，让 LLM 直接化身安全审计黑客。",
+   "topics": [
+    "active-directory",
+    "ai-agent",
+    "ai-security",
+    "bloodhound",
+    "cybersecurity",
+    "ethical-hacking",
+    "fscan",
+    "impacket",
+    "lateral-movement",
+    "llm-tools",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "nuclei",
+    "offensive-security",
+    "penetration-testing",
+    "pentesting",
+    "red-team",
+    "redteam",
+    "windows-security"
+   ],
+   "category": "Red Teaming & Safety",
    "momentum": 38,
    "rank": 184
   },
@@ -5684,7 +5686,7 @@
    "owner": "prometheus-eval",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167460660?v=4",
    "stars": 1102,
-   "forks": 71,
+   "forks": 69,
    "open_issues": 14,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5714,7 +5716,7 @@
    "owner": "carlini",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1269300?v=4",
    "stars": 1063,
-   "forks": 78,
+   "forks": 77,
    "open_issues": 11,
    "language": "Python",
    "license": "GPL-3.0",
@@ -5815,6 +5817,45 @@
    "rank": 191
   },
   {
+   "name": "MMMU",
+   "full_name": "MMMU-Benchmark/MMMU",
+   "slug": "mmmu-benchmark-mmmu",
+   "url": "https://github.com/MMMU-Benchmark/MMMU",
+   "owner": "MMMU-Benchmark",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/151861048?v=4",
+   "stars": 589,
+   "forks": 55,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-02-12T09:41:31Z",
+   "created_at": "2023-11-23T15:53:31Z",
+   "description": "This repo contains evaluation code for the paper \"MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI\"",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "deep-neural-networks",
+    "evaluation",
+    "foundation-models",
+    "large-language-models",
+    "large-multimodal-models",
+    "llm",
+    "llms",
+    "machine-learning",
+    "multimodal",
+    "multimodal-deep-learning",
+    "multimodal-learning",
+    "multimodality",
+    "natural-language-processing",
+    "question-answering",
+    "stem",
+    "visual-question-answering"
+   ],
+   "category": "Coding Eval",
+   "momentum": 37,
+   "rank": 192
+  },
+  {
    "name": "acceptance-bench",
    "full_name": "ellydee/acceptance-bench",
    "slug": "ellydee-acceptance-bench",
@@ -5832,7 +5873,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 37,
-   "rank": 192
+   "rank": 193
   },
   {
    "name": "PIXIU",
@@ -5868,7 +5909,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 36,
-   "rank": 193
+   "rank": 194
   },
   {
    "name": "ragrank",
@@ -5897,7 +5938,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 36,
-   "rank": 194
+   "rank": 195
   },
   {
    "name": "Video-MME",
@@ -5924,7 +5965,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 35,
-   "rank": 195
+   "rank": 196
   },
   {
    "name": "contoso-chat",
@@ -5934,7 +5975,7 @@
    "owner": "Azure-Samples",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1844662?v=4",
    "stars": 765,
-   "forks": 3972,
+   "forks": 3973,
    "open_issues": 25,
    "language": "Bicep",
    "license": "MIT",
@@ -5958,7 +5999,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 35,
-   "rank": 196
+   "rank": 197
   },
   {
    "name": "ARES",
@@ -5967,7 +6008,7 @@
    "url": "https://github.com/stanford-futuredata/ARES",
    "owner": "stanford-futuredata",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16332752?v=4",
-   "stars": 725,
+   "stars": 726,
    "forks": 67,
    "open_issues": 21,
    "language": "Python",
@@ -5977,35 +6018,6 @@
    "description": "Automated Evaluation of RAG Systems",
    "topics": [],
    "category": "RAG Eval",
-   "momentum": 35,
-   "rank": 197
-  },
-  {
-   "name": "AI-penetration-testing",
-   "full_name": "Mr-Infect/AI-penetration-testing",
-   "slug": "mr-infect-ai-penetration-testing",
-   "url": "https://github.com/Mr-Infect/AI-penetration-testing",
-   "owner": "Mr-Infect",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/177466722?v=4",
-   "stars": 264,
-   "forks": 54,
-   "open_issues": 0,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-02-19T14:21:05Z",
-   "created_at": "2025-06-12T14:43:48Z",
-   "description": "AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversarial ML techniques. This repository is dedicated to offensive and defensive security for cutting-edge AI, Machine Learning (ML), and Large Language Models (LLMs) like ChatGPT, Claude, and LLaMA.",
-   "topics": [
-    "ai",
-    "aipentest",
-    "automation",
-    "cybersecurity",
-    "ethical-hacking",
-    "penetration-testing",
-    "security-tools",
-    "vulnerability-assessment"
-   ],
-   "category": "Red Teaming & Safety",
    "momentum": 35,
    "rank": 198
   },
@@ -6036,7 +6048,7 @@
    "url": "https://github.com/codefuse-ai/codefuse-devops-eval",
    "owner": "codefuse-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/143480819?v=4",
-   "stars": 656,
+   "stars": 655,
    "forks": 48,
    "open_issues": 9,
    "language": "Python",
@@ -6057,8 +6069,8 @@
    "owner": "onejune2018",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35061855?v=4",
    "stars": 652,
-   "forks": 81,
-   "open_issues": 41,
+   "forks": 82,
+   "open_issues": 42,
    "language": "",
    "license": "MIT",
    "pushed_at": "2025-11-24T01:59:12Z",
@@ -6163,6 +6175,35 @@
    "rank": 203
   },
   {
+   "name": "AI-penetration-testing",
+   "full_name": "Mr-Infect/AI-penetration-testing",
+   "slug": "mr-infect-ai-penetration-testing",
+   "url": "https://github.com/Mr-Infect/AI-penetration-testing",
+   "owner": "Mr-Infect",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/177466722?v=4",
+   "stars": 263,
+   "forks": 54,
+   "open_issues": 0,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-02-19T14:21:05Z",
+   "created_at": "2025-06-12T14:43:48Z",
+   "description": "AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversarial ML techniques. This repository is dedicated to offensive and defensive security for cutting-edge AI, Machine Learning (ML), and Large Language Models (LLMs) like ChatGPT, Claude, and LLaMA.",
+   "topics": [
+    "ai",
+    "aipentest",
+    "automation",
+    "cybersecurity",
+    "ethical-hacking",
+    "penetration-testing",
+    "security-tools",
+    "vulnerability-assessment"
+   ],
+   "category": "Red Teaming & Safety",
+   "momentum": 34,
+   "rank": 204
+  },
+  {
    "name": "llm_intent_entity",
    "full_name": "sarvamai/llm_intent_entity",
    "slug": "sarvamai-llm-intent-entity",
@@ -6180,7 +6221,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 34,
-   "rank": 204
+   "rank": 205
   },
   {
    "name": "continuous-eval",
@@ -6208,7 +6249,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 33,
-   "rank": 205
+   "rank": 206
   },
   {
    "name": "llm-leaderboard",
@@ -6234,7 +6275,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 31,
-   "rank": 206
+   "rank": 207
   },
   {
    "name": "palico-ai",
@@ -6274,7 +6315,7 @@
    ],
    "category": "Observability",
    "momentum": 31,
-   "rank": 207
+   "rank": 208
   },
   {
    "name": "python-sdk",
@@ -6304,7 +6345,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 31,
-   "rank": 208
+   "rank": 209
   },
   {
    "name": "HackSynth",
@@ -6314,7 +6355,7 @@
    "owner": "aielte-research",
    "owner_avatar": "https://avatars.githubusercontent.com/u/61852660?v=4",
    "stars": 309,
-   "forks": 51,
+   "forks": 50,
    "open_issues": 0,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -6332,7 +6373,7 @@
    ],
    "category": "Agent Eval",
    "momentum": 30,
-   "rank": 209
+   "rank": 210
   },
   {
    "name": "athina-evals",
@@ -6361,7 +6402,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 30,
-   "rank": 210
+   "rank": 211
   },
   {
    "name": "RAGTune",
@@ -6381,7 +6422,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 30,
-   "rank": 211
+   "rank": 212
   },
   {
    "name": "circle-guard-bench",
@@ -6417,7 +6458,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 30,
-   "rank": 212
+   "rank": 213
   },
   {
    "name": "chatgpt-web-sea",
@@ -6437,7 +6478,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 29,
-   "rank": 213
+   "rank": 214
   },
   {
    "name": "llm-bulls-and-cows-benchmark",
@@ -6466,7 +6507,7 @@
    ],
    "category": "Reasoning",
    "momentum": 29,
-   "rank": 214
+   "rank": 215
   },
   {
    "name": "rag-arena",
@@ -6495,7 +6536,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 29,
-   "rank": 215
+   "rank": 216
   },
   {
    "name": "llemonstack",
@@ -6515,7 +6556,7 @@
    "topics": [],
    "category": "Observability",
    "momentum": 29,
-   "rank": 216
+   "rank": 217
   },
   {
    "name": "llm-eval-simple",
@@ -6539,7 +6580,7 @@
    ],
    "category": "Benchmarks",
    "momentum": 29,
-   "rank": 217
+   "rank": 218
   },
   {
    "name": "Awesome-RAG-Evaluation",
@@ -6559,7 +6600,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 28,
-   "rank": 218
+   "rank": 219
   },
   {
    "name": "eval-dev-quality",
@@ -6585,7 +6626,7 @@
    ],
    "category": "Coding Eval",
    "momentum": 28,
-   "rank": 219
+   "rank": 220
   },
   {
    "name": "ParroT",
@@ -6616,7 +6657,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 28,
-   "rank": 220
+   "rank": 221
   },
   {
    "name": "prompt-optimizer-skill",
@@ -6645,7 +6686,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 28,
-   "rank": 221
+   "rank": 222
   },
   {
    "name": "rageval",
@@ -6669,7 +6710,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 27,
-   "rank": 222
+   "rank": 223
   },
   {
    "name": "artkit",
@@ -6697,7 +6738,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 27,
-   "rank": 223
+   "rank": 224
   },
   {
    "name": "example-rag-app",
@@ -6721,7 +6762,7 @@
    ],
    "category": "Observability",
    "momentum": 27,
-   "rank": 224
+   "rank": 225
   },
   {
    "name": "-L-",
@@ -6741,7 +6782,7 @@
    "topics": [],
    "category": "Observability",
    "momentum": 27,
-   "rank": 225
+   "rank": 226
   },
   {
    "name": "sparse-frontier",
@@ -6761,7 +6802,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 27,
-   "rank": 226
+   "rank": 227
   },
   {
    "name": "oss-llmops-stack",
@@ -6795,7 +6836,7 @@
    ],
    "category": "Observability",
    "momentum": 26,
-   "rank": 227
+   "rank": 228
   },
   {
    "name": "llmkit",
@@ -6805,7 +6846,7 @@
    "owner": "llmkit-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/204102661?v=4",
    "stars": 121,
-   "forks": 22,
+   "forks": 21,
    "open_issues": 11,
    "language": "Rust",
    "license": "MIT",
@@ -6814,8 +6855,8 @@
    "description": "A prompt management, versioning, testing, and evaluation inference server and UI toolkit. Provider agnostic and OpenAI API compatible.",
    "topics": [],
    "category": "Eval Frameworks",
-   "momentum": 26,
-   "rank": 228
+   "momentum": 25,
+   "rank": 229
   },
   {
    "name": "Awesome-LLM-Red-Teaming",
@@ -6849,7 +6890,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 25,
-   "rank": 229
+   "rank": 230
   },
   {
    "name": "gandalf-llm-pentester",
@@ -6869,7 +6910,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 25,
-   "rank": 230
+   "rank": 231
   },
   {
    "name": "raga-llm-hub",
@@ -6894,7 +6935,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 25,
-   "rank": 231
+   "rank": 232
   },
   {
    "name": "llm-jeopardy",
@@ -6914,7 +6955,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 25,
-   "rank": 232
+   "rank": 233
   },
   {
    "name": "autoarena",
@@ -6942,7 +6983,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 25,
-   "rank": 233
+   "rank": 234
   },
   {
    "name": "web2code",
@@ -6962,7 +7003,7 @@
    "topics": [],
    "category": "Coding Eval",
    "momentum": 25,
-   "rank": 234
+   "rank": 235
   },
   {
    "name": "mobius-llm-adversity",
@@ -6982,7 +7023,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 24,
-   "rank": 235
+   "rank": 236
   },
   {
    "name": "just-eval",
@@ -7009,7 +7050,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 24,
-   "rank": 236
+   "rank": 237
   },
   {
    "name": "qdrant-rag-eval",
@@ -7029,7 +7070,7 @@
    "topics": [],
    "category": "RAG Eval",
    "momentum": 24,
-   "rank": 237
+   "rank": 238
   },
   {
    "name": "auto-rag-eval",
@@ -7054,7 +7095,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 24,
-   "rank": 238
+   "rank": 239
   },
   {
    "name": "OmniEval",
@@ -7079,7 +7120,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 24,
-   "rank": 239
+   "rank": 240
   },
   {
    "name": "EvoSynth",
@@ -7105,7 +7146,7 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 24,
-   "rank": 240
+   "rank": 241
   },
   {
    "name": "DMind-Benchmark",
@@ -7125,7 +7166,7 @@
    "topics": [],
    "category": "Benchmarks",
    "momentum": 24,
-   "rank": 241
+   "rank": 242
   },
   {
    "name": "parea-sdk-py",
@@ -7158,7 +7199,7 @@
    ],
    "category": "Observability",
    "momentum": 23,
-   "rank": 242
+   "rank": 243
   },
   {
    "name": "LLM-judge-reporting",
@@ -7178,7 +7219,7 @@
    "topics": [],
    "category": "Eval Frameworks",
    "momentum": 23,
-   "rank": 243
+   "rank": 244
   },
   {
    "name": "RagView",
@@ -7219,7 +7260,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 23,
-   "rank": 244
+   "rank": 245
   },
   {
    "name": "RAG-Boilerplate",
@@ -7254,7 +7295,7 @@
    ],
    "category": "RAG Eval",
    "momentum": 23,
-   "rank": 245
+   "rank": 246
   },
   {
    "name": "valor",
@@ -7286,7 +7327,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 23,
-   "rank": 246
+   "rank": 247
   },
   {
    "name": "VisualWebBench",
@@ -7323,7 +7364,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 22,
-   "rank": 247
+   "rank": 248
   },
   {
    "name": "CATArena",
@@ -7343,7 +7384,7 @@
    "topics": [],
    "category": "Agent Eval",
    "momentum": 22,
-   "rank": 248
+   "rank": 249
   },
   {
    "name": "Jailjudge",
@@ -7363,7 +7404,7 @@
    "topics": [],
    "category": "Red Teaming & Safety",
    "momentum": 22,
-   "rank": 249
+   "rank": 250
   },
   {
    "name": "rulm-sbs2",
@@ -7386,7 +7427,7 @@
    ],
    "category": "Eval Frameworks",
    "momentum": 22,
-   "rank": 250
+   "rank": 251
   },
   {
    "name": "react-eval",
@@ -7406,7 +7447,7 @@
    "topics": [],
    "category": "Coding Eval",
    "momentum": 22,
-   "rank": 251
+   "rank": 252
   },
   {
    "name": "dbt-llm-evals",
@@ -7441,7 +7482,7 @@
    ],
    "category": "Observability",
    "momentum": 22,
-   "rank": 252
+   "rank": 253
   },
   {
    "name": "myscale-telemetry",
@@ -7467,7 +7508,7 @@
    ],
    "category": "Observability",
    "momentum": 21,
-   "rank": 253
+   "rank": 254
   },
   {
    "name": "Oversight",
@@ -7497,7 +7538,40 @@
    ],
    "category": "Red Teaming & Safety",
    "momentum": 21,
-   "rank": 254
+   "rank": 255
+  },
+  {
+   "name": "go-openllmetry",
+   "full_name": "traceloop/go-openllmetry",
+   "slug": "traceloop-go-openllmetry",
+   "url": "https://github.com/traceloop/go-openllmetry",
+   "owner": "traceloop",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
+   "stars": 46,
+   "forks": 16,
+   "open_issues": 5,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-01-17T12:13:25Z",
+   "created_at": "2024-01-11T14:53:13Z",
+   "description": "Sister project to OpenLLMetry, but in Go. Open-source observability for your LLM application, based on OpenTelemetry",
+   "topics": [
+    "datascience",
+    "generative-ai",
+    "golang",
+    "llm",
+    "llmops",
+    "metrics",
+    "ml",
+    "monitoring",
+    "observability",
+    "open-source",
+    "open-telemetry",
+    "opentelemetry"
+   ],
+   "category": "Observability",
+   "momentum": 20,
+   "rank": 256
   },
   {
    "name": "multinear",
@@ -7525,74 +7599,6 @@
     "reliability"
    ],
    "category": "Benchmarks",
-   "momentum": 20,
-   "rank": 255
-  },
-  {
-   "name": "go-openllmetry",
-   "full_name": "traceloop/go-openllmetry",
-   "slug": "traceloop-go-openllmetry",
-   "url": "https://github.com/traceloop/go-openllmetry",
-   "owner": "traceloop",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
-   "stars": 45,
-   "forks": 16,
-   "open_issues": 5,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-01-17T12:13:25Z",
-   "created_at": "2024-01-11T14:53:13Z",
-   "description": "Sister project to OpenLLMetry, but in Go. Open-source observability for your LLM application, based on OpenTelemetry",
-   "topics": [
-    "datascience",
-    "generative-ai",
-    "golang",
-    "llm",
-    "llmops",
-    "metrics",
-    "ml",
-    "monitoring",
-    "observability",
-    "open-source",
-    "open-telemetry",
-    "opentelemetry"
-   ],
-   "category": "Observability",
-   "momentum": 20,
-   "rank": 256
-  },
-  {
-   "name": "veritail",
-   "full_name": "asarnaout/veritail",
-   "slug": "asarnaout-veritail",
-   "url": "https://github.com/asarnaout/veritail",
-   "owner": "asarnaout",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/28597086?v=4",
-   "stars": 6,
-   "forks": 1,
-   "open_issues": 10,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-03-15T02:38:55Z",
-   "created_at": "2026-02-09T00:46:12Z",
-   "description": "LLM-as-a-Judge evaluation platform for ecommerce search. Scores relevance, computes IR metrics, and flags quality issues across multiple retail verticals",
-   "topics": [
-    "autocomplete",
-    "autosuggest",
-    "ecommerce",
-    "ecommerce-search",
-    "information-retrieval",
-    "llm-as-a-judge",
-    "llm-eval",
-    "llm-evaluation",
-    "ndcg",
-    "python",
-    "relevance-evaluation",
-    "search",
-    "search-eval",
-    "search-quality"
-   ],
-   "category": "RAG Eval",
    "momentum": 20,
    "rank": 257
   },
