@@ -3,48 +3,48 @@
 > The living leaderboard of LLM and agent evaluation & benchmark tooling, ranked
 > daily by momentum (stars, push-recency, rising-newness) from live GitHub signals.
 
-Updated: 2026-08-11T09:44:24.467718+00:00
-Tools indexed: 275
+Updated: 2026-08-12T09:48:11.434877+00:00
+Tools indexed: 274
 
 ## Top eval tools by momentum
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) — momentum 87, ⭐32873 — Observability — 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) — momentum 86, ⭐27462 — Observability — The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) — momentum 85, ⭐24121 — Red Teaming & Safety — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p
-- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 85, ⭐21298 — Observability — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) — momentum 85, ⭐20905 — Observability — Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — momentum 84, ⭐19666 — RAG Eval — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) — momentum 83, ⭐17524 — Eval Frameworks — The LLM Evaluation Framework
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) — momentum 82, ⭐11848 — Observability — BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and 
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — momentum 81, ⭐10987 — Observability — AI Observability & Evaluation
-- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — momentum 81, ⭐8361 — Red Teaming & Safety — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) — momentum 80, ⭐9368 — Eval Frameworks — Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
-- [NVIDIA/garak](https://github.com/NVIDIA/garak) — momentum 79, ⭐8761 — Eval Frameworks — the LLM vulnerability scanner
-- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — momentum 79, ⭐7367 — Observability — Open-source observability for your GenAI or LLM application, based on OpenTelemetry
-- [katanemo/plano](https://github.com/katanemo/plano) — momentum 79, ⭐6995 — Observability — Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) — momentum 78, ⭐7795 — Observability — Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) — momentum 78, ⭐7294 — Benchmarks — OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, Inter
-- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) — momentum 78, ⭐6364 — Agent Eval — 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.
-- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) — momentum 78, ⭐5745 — Red Teaming & Safety — 🐢 Open-Source Evaluation & Testing library for LLM Agents
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) — momentum 78, ⭐5686 — Observability — Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent developmen
-- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 77, ⭐6209 — Benchmarks — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
-- [Q00/ouroboros](https://github.com/Q00/ouroboros) — momentum 77, ⭐5376 — Agent Eval — Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity scor
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — momentum 77, ⭐5017 — RAG Eval — Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data g
-- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) — momentum 77, ⭐4973 — RAG Eval — AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it freq
-- [Sahir619/fable-method](https://github.com/Sahir619/fable-method) — momentum 77, ⭐2195 — Agent Eval — The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eva
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — momentum 76, ⭐4465 — Red Teaming & Safety — A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, 
-- [pydantic/logfire](https://github.com/pydantic/logfire) — momentum 76, ⭐4418 — Observability — AI observability platform for production LLM and agent systems.
-- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) — momentum 76, ⭐4336 — Benchmarks — Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchma
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) — momentum 76, ⭐4105 — Agent Eval — Framework for evaluating and improving agents
-- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) — momentum 76, ⭐2004 — Agent Eval — AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) — momentum 87, ⭐32949 — Observability — 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) — momentum 86, ⭐27478 — Observability — The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) — momentum 85, ⭐24155 — Red Teaming & Safety — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p
+- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 85, ⭐21328 — Observability — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) — momentum 85, ⭐20937 — Observability — Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — momentum 84, ⭐19732 — RAG Eval — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) — momentum 84, ⭐17549 — Eval Frameworks — The LLM Evaluation Framework
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) — momentum 82, ⭐11855 — Observability — BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and 
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — momentum 81, ⭐11008 — Observability — AI Observability & Evaluation
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — momentum 81, ⭐8384 — Red Teaming & Safety — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) — momentum 80, ⭐9373 — Eval Frameworks — Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) — momentum 80, ⭐8772 — Eval Frameworks — the LLM vulnerability scanner
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — momentum 79, ⭐7374 — Observability — Open-source observability for your GenAI or LLM application, based on OpenTelemetry
+- [katanemo/plano](https://github.com/katanemo/plano) — momentum 79, ⭐6997 — Observability — Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) — momentum 78, ⭐7798 — Observability — Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) — momentum 78, ⭐7296 — Benchmarks — OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, Inter
+- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) — momentum 78, ⭐6365 — Agent Eval — 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.
+- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) — momentum 78, ⭐5749 — Red Teaming & Safety — 🐢 Open-Source Evaluation & Testing library for LLM Agents
+- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) — momentum 78, ⭐5690 — Observability — Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent developmen
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 77, ⭐6223 — Benchmarks — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) — momentum 77, ⭐5390 — Agent Eval — Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — momentum 77, ⭐5018 — RAG Eval — Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data g
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) — momentum 77, ⭐4982 — RAG Eval — AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it freq
+- [Sahir619/fable-method](https://github.com/Sahir619/fable-method) — momentum 77, ⭐2203 — Agent Eval — The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eva
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — momentum 76, ⭐4479 — Red Teaming & Safety — A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, 
+- [pydantic/logfire](https://github.com/pydantic/logfire) — momentum 76, ⭐4421 — Observability — AI observability platform for production LLM and agent systems.
+- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) — momentum 76, ⭐4335 — Benchmarks — Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchma
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) — momentum 76, ⭐4138 — Agent Eval — Framework for evaluating and improving agents
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) — momentum 75, ⭐6534 — Observability — Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/C
-- [Helicone/helicone](https://github.com/Helicone/helicone) — momentum 75, ⭐6051 — Observability — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC 
-- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) — momentum 75, ⭐4356 — Benchmarks — One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
-- [truera/trulens](https://github.com/truera/trulens) — momentum 75, ⭐3500 — Observability — Evaluation and Tracking for LLM Experiments and AI Agents
-- [langwatch/langwatch](https://github.com/langwatch/langwatch) — momentum 75, ⭐3485 — Observability — The platform for LLM evaluations and AI agent testing
-- [modelscope/evalscope](https://github.com/modelscope/evalscope) — momentum 75, ⭐3219 — RAG Eval — A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and p
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) — momentum 75, ⭐3161 — Observability — Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — momentum 74, ⭐3058 — Red Teaming & Safety — A repo for jailbreaking various LLMs, mainly Claude
-- [openlit/openlit](https://github.com/openlit/openlit) — momentum 74, ⭐2680 — Observability — Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Gua
-- [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) — momentum 73, ⭐2858 — Benchmarks — A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥
-- [huggingface/lighteval](https://github.com/huggingface/lighteval) — momentum 73, ⭐2515 — Eval Frameworks — Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
+- [Helicone/helicone](https://github.com/Helicone/helicone) — momentum 75, ⭐6055 — Observability — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC 
+- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) — momentum 75, ⭐4358 — Benchmarks — One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
+- [truera/trulens](https://github.com/truera/trulens) — momentum 75, ⭐3506 — Observability — Evaluation and Tracking for LLM Experiments and AI Agents
+- [langwatch/langwatch](https://github.com/langwatch/langwatch) — momentum 75, ⭐3487 — Observability — The platform for LLM evaluations and AI agent testing
+- [modelscope/evalscope](https://github.com/modelscope/evalscope) — momentum 75, ⭐3229 — RAG Eval — A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and p
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) — momentum 75, ⭐3162 — Observability — Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) — momentum 75, ⭐2006 — Agent Eval — AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+- [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — momentum 74, ⭐3079 — Red Teaming & Safety — A repo for jailbreaking various LLMs, mainly Claude
+- [openlit/openlit](https://github.com/openlit/openlit) — momentum 74, ⭐2681 — Observability — Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Gua
+- [FreedomIntelligence/Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) — momentum 73, ⭐2859 — Benchmarks — A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥
+- [huggingface/lighteval](https://github.com/huggingface/lighteval) — momentum 73, ⭐2517 — Eval Frameworks — Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
