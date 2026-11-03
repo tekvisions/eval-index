@@ -1,0 +1,61 @@
+{
+  "host": "eval.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose evaluation tools around a defined failure",
+  "answer": "Decide whether you are evaluating answers, retrieval, agent actions, code or a safety boundary. A framework, benchmark and production monitor provide different kinds of evidence.",
+  "choices": [
+    {
+      "categories": [
+        "Eval Frameworks",
+        "Benchmarks",
+        "Reasoning"
+      ],
+      "task": "Measure answers on a task set",
+      "guidance": "Define reference answers, judging criteria and dataset/version before choosing a harness. Review where automatic judging disagrees with human labels."
+    },
+    {
+      "categories": [
+        "RAG Eval",
+        "Agent Eval",
+        "Coding Eval"
+      ],
+      "task": "Evaluate a complete system",
+      "guidance": "Include retrieval/context, tool-call trajectories or executable tests as appropriate. Measure the task outcome and relevant intermediate failures."
+    },
+    {
+      "categories": [
+        "Red Teaming & Safety",
+        "Observability"
+      ],
+      "task": "Investigate production and adversarial failures",
+      "guidance": "Specify the threat/failure model and permitted test scope. A passing test suite or dashboard does not prove universal safety or correctness."
+    }
+  ],
+  "checks": [
+    "Keep model, prompts, tools, data and evaluator versions with each result.",
+    "Separate held-out examples from training/optimization data.",
+    "Compare cost, runtime and agreement with reviewed labels under the same conditions."
+  ],
+  "unknowns": "Benchmark wins, evaluator validity, safety coverage and comparative task-success rates are unverified unless supported by a reproducible result outside this catalog.",
+  "related": [
+    {
+      "url": "https://observability.kymatalabs.com/",
+      "label": "observability"
+    },
+    {
+      "url": "https://rag.kymatalabs.com/",
+      "label": "rag"
+    },
+    {
+      "url": "https://agents.kymatalabs.com/",
+      "label": "agents"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/eval-index/blob/edde16cc66f949a0d2e64a54df8759839045b902/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}

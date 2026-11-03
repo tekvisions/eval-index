@@ -23,12 +23,7 @@
     try { localStorage.setItem("ei-theme", cur); } catch (e) {}
   });
 
-  function countUp(el, target) {
-    var dur = 900, t0 = null;
-    function step(t) { if (!t0) t0 = t; var p = Math.min((t - t0) / dur, 1);
-      el.textContent = Math.round((1 - Math.pow(1 - p, 3)) * target); if (p < 1) requestAnimationFrame(step); }
-    requestAnimationFrame(step);
-  }
+  function countUp(el, target) { el.textContent=target.toLocaleString(); }
 
   function matches(it) {
     if (state.cat !== "all" && it.category !== state.cat) return false;
@@ -64,12 +59,16 @@
     );
   }
 
-  function render() {
+  var shown=48;
+  function render(expand) {
+    if(!expand)shown=48;
     var list = sortItems(DATA.items.filter(matches)), board = $("#board");
     $("#metaline").textContent = list.length + (list.length === 1 ? " tool" : " tools") +
       (state.cat === "all" ? "" : " · " + state.cat) + (state.q ? ' · "' + state.q + '"' : "");
     if (!list.length) { board.innerHTML = '<div class="empty">No eval tools match. Try a broader search.</div>'; return; }
-    board.innerHTML = list.map(row).join("");
+    board.innerHTML = list.slice(0,shown).map(row).join("") + (list.length>shown ? '<button type="button" class="fleet-load-more">Show '+Math.min(48,list.length-shown)+' more · '+Math.min(shown,list.length)+' of '+list.length+' shown</button>' : '');
+    var more=board.querySelector('.fleet-load-more');
+    if(more)more.addEventListener('click',function(){var first=shown;shown+=48;render(true);var next=board.querySelectorAll('a')[first];if(next)next.focus();});
     var rows = board.querySelectorAll(".row");
     requestAnimationFrame(function () {
       rows.forEach(function (r) { r.classList.add("in"); });
@@ -108,5 +107,6 @@
   }
 
   fetch("/data.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (d) { DATA = d; boot(); })
-    .catch(function () { $("#metaline").textContent = "Could not load the leaderboard. Refresh to retry."; });
+    .then(function(){if(window.dispatchEvent&&window.Event)window.dispatchEvent(new window.Event("catalog:ready"));}).catch(function () {
+    if(window.dispatchEvent&&window.Event)window.dispatchEvent(new window.Event("catalog:error")); $("#metaline").textContent = "Could not load the leaderboard. Refresh to retry."; });
 })();

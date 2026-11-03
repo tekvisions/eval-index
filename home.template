@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Eval Index — LLM evaluation & benchmark tools, ranked by momentum</title>
+<meta name="description" content="A living leaderboard of LLM and AI-agent evaluation, benchmark, observability and red-teaming tools — ranked from dated source snapshots by momentum from live GitHub signals.">
+<link rel="canonical" href="https://eval.kymatalabs.com/">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="llm evaluation framework, llm benchmark, ai eval tools, agent evaluation, llm observability, red teaming llm, rag evaluation, prompt testing, deepeval, promptfoo">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eval.kymatalabs.com/">
+<meta property="og:title" content="The Eval Index — LLM evaluation & benchmark tools, ranked by momentum">
+<meta property="og:description" content="A living leaderboard of LLM & agent evaluation, benchmark and red-teaming tools, ranked from dated source snapshots from live GitHub signals.">
+<meta property="og:image" content="https://eval.kymatalabs.com/og.png">
+<meta property="og:site_name" content="The Eval Index">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Eval Index — LLM evaluation & benchmark tool">
+<meta name="twitter:description" content="A living leaderboard of LLM & agent eval tooling, ranked from dated source snapshots by momentum.">
+<meta name="twitter:image" content="https://eval.kymatalabs.com/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="The Eval Index" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebSite", "name": "The Eval Index", "url": "https://eval.kymatalabs.com/", "description": "A living leaderboard of LLM and AI-agent evaluation, benchmark, observability and red-teaming tools — ranked from dated source snapshots by momentum from live GitHub signals.", "publisher": {"@type": "Organization", "name": "Kymata Labs LLC", "url": "https://www.kymatalabs.com"}, "isPartOf": {"@type": "WebSite", "name": "The Living Indexes", "url": "https://indexes.kymatalabs.com/"}}
+</script>
+
+<!-- catalog:schema:start -->
+<!-- catalog:schema:end -->
+<link rel="alternate" type="application/json" href="/data.json" title="Current catalog snapshot">
+<script defer src="/guidance.js"></script>
+</head>
+<body>
+<div class="kstrip"><div class="wrap">
+  <a href="https://www.kymatalabs.com" target="_blank" rel="noopener"><span class="dot"></span>Kymata Labs</a>
+  <span class="sep">/</span>
+  <a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">The Living Indexes</a>
+
+</div></div>
+
+<header><div class="wrap head-row">
+  <div class="brand"><span class="dot"></span><span class="name disp">EVAL<b>/</b>INDEX</span></div>
+  <div class="head-actions">
+    <a href="/rss.xml">RSS</a><a href="/llms.txt">llms.txt</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+  </div>
+</div></header>
+
+<main>
+  <section class="hero"><div class="wrap">
+    <div class="kicker">Recomputed daily from live GitHub signals</div>
+    <h1>How do you <b>measure</b> an AI?</h1>
+    <p class="lede">The living leaderboard of LLM &amp; agent evaluation tooling — eval frameworks, benchmark suites, observability, and red-teaming — ranked by momentum, not marketing.</p>
+    <div class="stats">
+      <div class="stat"><div class="num disp" id="s-count">280</div><div class="lbl">tools ranked</div></div>
+      <div class="stat"><div class="num disp" id="s-cats">8</div><div class="lbl">categories</div></div>
+      <div class="stat"><div class="num disp" id="s-top">87</div><div class="lbl">top momentum</div></div>
+    </div>
+  </div></section>
+
+  <section class="toolbar"><div class="wrap">
+    <div class="search-row">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="search eval tools, owners, topics…" autocomplete="off" spellcheck="false" aria-label="Search the catalog">
+      </label>
+      <div class="sort" id="sort">
+        <button data-sort="momentum" class="active">Momentum</button>
+        <button data-sort="stars">Stars</button>
+        <button data-sort="new">Newest</button>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div></section>
+
+  <div class="wrap">
+    <div class="meta-line" id="metaline">280 records · snapshot 2026-11-02</div>
+    <div class="board" id="board"><!-- catalog:entries:start -->
+<!-- catalog:entries:end --></div><!-- catalog:pagination:start -->
+<!-- catalog:pagination:end -->
+  </div>
+  <!-- catalog:about:start -->
+<!-- catalog:about:end -->
+</main>
+<aside data-portfolio-ad="after-content" aria-label="Advertisement" hidden></aside>
+
+<footer><div class="wrap foot-row">
+  <div>
+    <div class="blurb">A dated catalog of upstream activity signals. Rankings help discovery; they are not independent tests of quality, adoption or suitability. See the methodology and selection guidance.</div>
+    <div class="updated" id="foot-updated"></div>
+  </div>
+  <div class="links">
+    <a href="/sitemap.xml">Sitemap</a><a href="/rss.xml">RSS feed</a>
+    <a href="/llms.txt">llms.txt</a><a href="/ai.txt">ai.txt</a><a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">↗ The Living Indexes</a><a href="https://www.kymatalabs.com/live" target="_blank" rel="noopener">Built by tekvisions →</a>
+  </div>
+</div><p class="wrap"><a href="/privacy.html">Privacy and advertising</a> · <button type="button" data-ad-privacy hidden>Advertising privacy choices</button></p>
+</footer>
+
+<script src="/app.js"></script>
+<script defer src="/advertising.js" data-host="eval.kymatalabs.com" data-approved="false" data-consent-ready="false" data-slot="6939405217"></script>
+</body>
+</html>

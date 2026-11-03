@@ -1,50 +1,64 @@
 # The Eval Index
 
-> The living leaderboard of LLM and agent evaluation & benchmark tooling, ranked
-> daily by momentum (stars, push-recency, rising-newness) from live GitHub signals.
+> The Eval Index: a source-backed catalog published by Kymata Labs.
 
-Updated: 2026-11-02T18:52:06.710473+00:00
-Tools indexed: 280
+Snapshot collected: 2026-11-02T18:52:06.710473+00:00
+Current catalog records: 280
 
-## Top eval tools by momentum
+## Sources and interpretation
 
-- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — momentum 87, ⭐43015 — Red Teaming & Safety — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) — momentum 86, ⭐36896 — Observability — 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one op
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — momentum 86, ⭐36267 — RAG Eval — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) — momentum 85, ⭐28630 — Observability — The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) — momentum 85, ⭐26748 — Red Teaming & Safety — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p
-- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 84, ⭐23122 — Observability — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) — momentum 84, ⭐22697 — Observability — Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session repla
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) — momentum 83, ⭐19251 — Eval Frameworks — The LLM Evaluation Framework
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) — momentum 80, ⭐12105 — Observability — BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and 
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — momentum 80, ⭐12103 — Observability — AI Observability & Evaluation
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) — momentum 79, ⭐9422 — Agent Eval — Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
-- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — momentum 79, ⭐9170 — Red Teaming & Safety — Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt enginee
-- [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) — momentum 79, ⭐1213 — Observability — Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replay
-- [NVIDIA/garak](https://github.com/NVIDIA/garak) — momentum 78, ⭐9834 — Eval Frameworks — the LLM vulnerability scanner
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) — momentum 78, ⭐7561 — Red Teaming & Safety — OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic,
-- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — momentum 78, ⭐7516 — Observability — Open-source observability for your GenAI or LLM application, based on OpenTelemetry
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — momentum 78, ⭐7335 — Red Teaming & Safety — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, A
-- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 77, ⭐6815 — Benchmarks — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) — momentum 77, ⭐6721 — Agent Eval — Framework for evaluating and improving agents
-- [Q00/ouroboros](https://github.com/Q00/ouroboros) — momentum 77, ⭐6308 — Agent Eval — Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluati
-- [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) — momentum 77, ⭐5940 — Red Teaming & Safety — 🐢 Open-Source Evaluation & Testing library for LLM Agents
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) — momentum 77, ⭐5799 — Observability — Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent developmen
-- [katanemo/plano](https://github.com/katanemo/plano) — momentum 76, ⭐7104 — Observability — Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability
-- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) — momentum 76, ⭐6498 — Agent Eval — 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.
-- [Helicone/helicone](https://github.com/Helicone/helicone) — momentum 76, ⭐6254 — Observability — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC 
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — momentum 76, ⭐5249 — RAG Eval — Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data g
-- [langwatch/langwatch](https://github.com/langwatch/langwatch) — momentum 76, ⭐5004 — Observability — Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every a
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) — momentum 76, ⭐4742 — Observability — Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to 
-- [pydantic/logfire](https://github.com/pydantic/logfire) — momentum 75, ⭐4530 — Observability — AI observability platform for production LLM and agent systems.
-- [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — momentum 75, ⭐4486 — Red Teaming & Safety — A repo for jailbreaking various LLMs, mainly Claude
-- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) — momentum 75, ⭐4479 — Benchmarks — One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
-- [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) — momentum 75, ⭐4472 — Benchmarks — Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchma
-- [SolaceProducts/solace-agent-mesh](https://github.com/SolaceProducts/solace-agent-mesh) — momentum 74, ⭐4922 — Observability — Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor
-- [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) — momentum 74, ⭐3776 — RAG Eval — A collection of scientific methods, processes, algorithms, and systems to build stories & models.
-- [modelscope/evalscope](https://github.com/modelscope/evalscope) — momentum 74, ⭐3636 — RAG Eval — A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and p
-- [truera/trulens](https://github.com/truera/trulens) — momentum 74, ⭐3622 — Observability — Evaluation and Tracking for LLM Experiments and AI Agents
-- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) — momentum 74, ⭐3477 — Benchmarks — Switchyard lets LLM applications route traffic across models and providers while preserving native O
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) — momentum 74, ⭐3470 — Observability — Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) — momentum 74, ⭐754 — Eval Frameworks — A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.
-- [amitshekhariitbhu/ai-engineering-course](https://github.com/amitshekhariitbhu/ai-engineering-course) — momentum 74, ⭐625 — Red Teaming & Safety — AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by st
+- [Public GitHub repository searches and API signals](https://docs.github.com/en/rest/search)
+- [Collection and scoring source](https://github.com/tekvisions/eval-index/blob/main/build_data.py)
+
+Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 days (32%), and a young-repository bonus for repositories under 120 days old with at least 20 stars (13%), rounded and clamped to 1–100. Configured searches select the catalog; coverage is not exhaustive. Stars and repository activity are proxies, not measured adoption, reviews, security or product-quality benchmarks.
+
+## Readable and structured resources
+
+- [Catalog](https://eval.kymatalabs.com/)
+- [Selection guide and evidence limits](https://eval.kymatalabs.com/#catalog-guidance)
+- [Methodology and snapshot date](https://eval.kymatalabs.com/#catalog-methodology)
+- [Current source snapshot (JSON)](https://eval.kymatalabs.com/data.json)
+- [Sitemap of published pages](https://eval.kymatalabs.com/sitemap.xml)
+
+## Current catalog sample
+
+- [ifixai-ai/iFixAi](https://eval.kymatalabs.com/p/ifixai-ai-ifixai/) — Red Teaming & Safety
+- [langfuse/langfuse](https://eval.kymatalabs.com/p/langfuse-langfuse/) — Observability
+- [Tencent/WeKnora](https://eval.kymatalabs.com/p/tencent-weknora/) — RAG Eval
+- [mlflow/mlflow](https://eval.kymatalabs.com/p/mlflow-mlflow/) — Observability
+- [promptfoo/promptfoo](https://eval.kymatalabs.com/p/promptfoo-promptfoo/) — Red Teaming & Safety
+- [comet-ml/opik](https://eval.kymatalabs.com/p/comet-ml-opik/) — Observability
+- [openobserve/openobserve](https://eval.kymatalabs.com/p/openobserve-openobserve/) — Observability
+- [confident-ai/deepeval](https://eval.kymatalabs.com/p/confident-ai-deepeval/) — Eval Frameworks
+- [dataelement/bisheng](https://eval.kymatalabs.com/p/dataelement-bisheng/) — Observability
+- [Arize-ai/phoenix](https://eval.kymatalabs.com/p/arize-ai-phoenix/) — Observability
+- [oumi-ai/oumi](https://eval.kymatalabs.com/p/oumi-ai-oumi/) — Agent Eval
+- [ai-boost/awesome-prompts](https://eval.kymatalabs.com/p/ai-boost-awesome-prompts/) — Red Teaming & Safety
+- [jwuthri-cloud/Tracely-ai](https://eval.kymatalabs.com/p/jwuthri-cloud-tracely-ai/) — Observability
+- [NVIDIA/garak](https://eval.kymatalabs.com/p/nvidia-garak/) — Eval Frameworks
+- [open-compass/opencompass](https://eval.kymatalabs.com/p/open-compass-opencompass/) — Red Teaming & Safety
+- [traceloop/openllmetry](https://eval.kymatalabs.com/p/traceloop-openllmetry/) — Observability
+- [Tencent/AI-Infra-Guard](https://eval.kymatalabs.com/p/tencent-ai-infra-guard/) — Red Teaming & Safety
+- [Andyyyy64/whichllm](https://eval.kymatalabs.com/p/andyyyy64-whichllm/) — Benchmarks
+- [harbor-framework/harbor](https://eval.kymatalabs.com/p/harbor-framework-harbor/) — Agent Eval
+- [Q00/ouroboros](https://eval.kymatalabs.com/p/q00-ouroboros/) — Agent Eval
+- [Giskard-AI/giskard-oss](https://eval.kymatalabs.com/p/giskard-ai-giskard-oss/) — Red Teaming & Safety
+- [coze-dev/coze-loop](https://eval.kymatalabs.com/p/coze-dev-coze-loop/) — Observability
+- [katanemo/plano](https://eval.kymatalabs.com/p/katanemo-plano/) — Observability
+- [jeinlee1991/chinese-llm-benchmark](https://eval.kymatalabs.com/p/jeinlee1991-chinese-llm-benchmark/) — Agent Eval
+- [Helicone/helicone](https://eval.kymatalabs.com/p/helicone-helicone/) — Observability
+- [Kiln-AI/Kiln](https://eval.kymatalabs.com/p/kiln-ai-kiln/) — RAG Eval
+- [langwatch/langwatch](https://eval.kymatalabs.com/p/langwatch-langwatch/) — Observability
+- [latitude-dev/latitude-llm](https://eval.kymatalabs.com/p/latitude-dev-latitude-llm/) — Observability
+- [pydantic/logfire](https://eval.kymatalabs.com/p/pydantic-logfire/) — Observability
+- [Goochbeater/Spiritual-Spell-Red-Teaming](https://eval.kymatalabs.com/p/goochbeater-spiritual-spell-red-teaming/) — Red Teaming & Safety
+- [EvolvingLMMs-Lab/lmms-eval](https://eval.kymatalabs.com/p/evolvinglmms-lab-lmms-eval/) — Benchmarks
+- [open-compass/VLMEvalKit](https://eval.kymatalabs.com/p/open-compass-vlmevalkit/) — Benchmarks
+- [SolaceProducts/solace-agent-mesh](https://eval.kymatalabs.com/p/solaceproducts-solace-agent-mesh/) — Observability
+- [hemansnation/AI-Engineer-Headquarters](https://eval.kymatalabs.com/p/hemansnation-ai-engineer-headquarters/) — RAG Eval
+- [modelscope/evalscope](https://eval.kymatalabs.com/p/modelscope-evalscope/) — RAG Eval
+- [truera/trulens](https://eval.kymatalabs.com/p/truera-trulens/) — Observability
+- [NVIDIA-NeMo/Switchyard](https://eval.kymatalabs.com/p/nvidia-nemo-switchyard/) — Benchmarks
+- [lmnr-ai/lmnr](https://eval.kymatalabs.com/p/lmnr-ai-lmnr/) — Observability
+- [v-modal/awesome-jev-tools](https://eval.kymatalabs.com/p/v-modal-awesome-jev-tools/) — Eval Frameworks
+- [amitshekhariitbhu/ai-engineering-course](https://eval.kymatalabs.com/p/amitshekhariitbhu-ai-engineering-course/) — Red Teaming & Safety
