@@ -286,8 +286,62 @@
     "https://eval.kymatalabs.com/p/human-centric-machine-learning-prediction-powered-ranking/",
     "https://eval.kymatalabs.com/p/prompt-foundry-python-sdk/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "airtasystems-dvaia-damn-vulnerable-ai-application",
+      "entity": "airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
+      "canonical_url": "https://eval.kymatalabs.com/p/airtasystems-dvaia-damn-vulnerable-ai-application/",
+      "repository": "https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
+      "summary": "An intentionally vulnerable AI application documented for LLM, RAG, agent and multimodal security training.",
+      "selection_context": "Evaluate controlled AI security training environments.",
+      "limitations": "Use only in an authorized isolated lab; check deployment boundaries and backend costs.",
+      "last_catalog_snapshot": "2026-11-03T16:38:16.780832+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application/blob/master/README.md",
+          "title": "airtasystems/DVAIA-Damn-Vulnerable-AI-Application publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "facebookresearch-meta-agents-research-environments",
+      "entity": "facebookresearch/meta-agents-research-environments",
+      "canonical_url": "https://eval.kymatalabs.com/p/facebookresearch-meta-agents-research-environments/",
+      "repository": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "summary": "A research framework for evaluating agents in evolving, multi-step environments, including Gaia2.",
+      "selection_context": "Understand benchmark environments and agent integration.",
+      "limitations": "Verify benchmark versions, dependencies and result comparability; no new result is asserted.",
+      "last_catalog_snapshot": "2026-11-03T16:38:16.780832+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/facebookresearch/meta-agents-research-environments/blob/main/README.md",
+          "title": "facebookresearch/meta-agents-research-environments publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "visualwebbench-visualwebbench",
+      "entity": "VisualWebBench/VisualWebBench",
+      "canonical_url": "https://eval.kymatalabs.com/p/visualwebbench-visualwebbench/",
+      "repository": "https://github.com/VisualWebBench/VisualWebBench",
+      "summary": "A benchmark and evaluation framework for multimodal model understanding and grounding on web pages.",
+      "selection_context": "Compare web-oriented multimodal evaluation tasks using the repository and linked paper.",
+      "limitations": "Check dataset access, licensing, model adapters and protocol; no current leaderboard standing is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:38:16.780832+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/VisualWebBench/VisualWebBench/blob/main/README.md",
+          "title": "VisualWebBench/VisualWebBench publisher documentation"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Eval Index",
+  "detail_prefix": "p"
 }
