@@ -66,7 +66,7 @@ class PublicAssetBoundaryTests(unittest.TestCase):
             root = Path(directory); make_sealed_fixture(root); (root / 'index.html').write_text('changed')
             with self.assertRaisesRegex(ValueError, 'stale'): public_assets.collect_public_files(root)
             with patch.object(deployment, 'ROOT', directory), patch.object(deployment, 'TOKEN', 'fixture'), patch.object(deployment, 'req') as request:
-                with self.assertRaises(ValueError): deployment.main()
+                self.assertEqual(deployment.main(), 1)
                 request.assert_not_called()
             (root / 'sitemap.xml').write_text('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://other.invalid/</loc></url></urlset>')
             with self.assertRaisesRegex(ValueError, 'same-host'): public_assets.planned_files(root)
@@ -81,20 +81,19 @@ class PublicAssetBoundaryTests(unittest.TestCase):
 
     def test_target_override_and_wrong_returned_id_cannot_bypass_binding(self):
         with patch.object(deployment, 'PROJECT', 'wrong-target'), patch.dict('os.environ', {'ALLOW_OVERWRITE': '1'}), patch.object(deployment, 'req') as request:
-            with self.assertRaises(SystemExit): deployment._preflight_overwrite_guard()
+            with self.assertRaises(ValueError): deployment._preflight_overwrite_guard()
             request.assert_not_called()
         with patch.object(deployment, 'PROJECT', deployment.EXPECTED_PROJECT_NAME), patch.dict('os.environ', {'ALLOW_OVERWRITE': '1'}), patch.object(deployment, 'req', return_value=(200, b'{"id":"wrong-project"}')) as request:
-            with self.assertRaises(SystemExit): deployment._preflight_overwrite_guard()
+            with self.assertRaises(ValueError): deployment._preflight_overwrite_guard()
             self.assertEqual(request.call_count, 1)
-            self.assertNotIn('method', request.call_args.kwargs)
+            self.assertEqual(request.call_args.kwargs['method'], 'GET')
 
-    def test_rejected_upload_never_creates_a_partial_deployment(self):
-        with tempfile.TemporaryDirectory() as directory:
-            root = Path(directory); make_sealed_fixture(root)
-            with patch.object(deployment, 'ROOT', directory), patch.object(deployment, 'TOKEN', 'fixture'), patch.object(deployment, '_preflight_overwrite_guard'), patch.object(deployment, 'req', return_value=(403, b'fixture denial')) as request:
-                self.assertEqual(deployment.main(), 1)
-                self.assertEqual(request.call_count, 1)
-                self.assertIn('/v2/files', request.call_args.args[0])
+    def test_rejected_preflight_never_creates_a_deployment(self):
+        with patch.object(deployment, 'TOKEN', 'fixture'), patch.object(deployment, 'committed_snapshot', return_value='b' * 40), patch.object(deployment, 'req', return_value=(403, b'fixture denial')) as request:
+            self.assertEqual(deployment.main(), 1)
+            self.assertEqual(request.call_count, 1)
+            self.assertIn('/v9/projects/', request.call_args.args[0])
+            self.assertEqual(request.call_args.kwargs['method'], 'GET')
 
     def test_actual_public_inventory_preserves_required_assets_without_private_inputs(self):
         selected = public_assets.planned_files(ROOT)

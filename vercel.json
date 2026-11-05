@@ -1,5 +1,9 @@
 {
   "git": {
     "deploymentEnabled": false
-  }
+  },
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "python3 public_output.py",
+  "outputDirectory": "public-output"
 }

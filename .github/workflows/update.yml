@@ -47,22 +47,21 @@ jobs:
           python -m unittest discover -s tests -p test_public_assets.py
           python -m unittest discover -s tests -p test_site_quality.py
           python -m unittest discover -s tests -p test_indexnow_backoff.py
+          python -m unittest discover -s tests -p test_deploy_retry.py
+          python -m unittest discover -s tests -p test_git_transport.py
           python public_assets.py --seal
 
       - name: Commit if changed
         run: |
           git config user.name  "eval-index-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add capabilities.json ai.txt index.html sitemap.xml llms.txt data.json sitemap.xml rss.xml robots.txt llms.txt og.png p/
+          python git_public_snapshot.py --stage
           if ! git diff --cached --quiet; then
             git commit -m "data: daily eval-index refresh ($(date -u +%Y-%m-%d))"
             git push
           else
             echo "No data change."
           fi
-      - name: Check deployment upload safety
-        run: python -m unittest discover -s tests -p test_deploy_retry.py
-
       - name: Deploy to Vercel
         if: ${{ env.VERCEL_TOKEN != '' }}
         run: python deploy.py

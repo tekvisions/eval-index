@@ -62,11 +62,9 @@ class DeploymentRetryTests(unittest.TestCase):
             self.assertEqual(deployment.req('https://api.vercel.com/v2/files', data=b'fixture', method='POST')[0], 200)
             sleep.assert_called_once_with(3)
 
-    def test_rejected_upload_never_creates_a_partial_deployment(self):
-        with tempfile.TemporaryDirectory() as folder:
-            make_sealed_fixture(Path(folder))
-            with patch.object(deployment, 'ROOT', folder), patch.object(deployment, 'TOKEN', 'fixture'), patch.object(deployment, '_preflight_overwrite_guard'), patch.object(deployment, 'req', return_value=(403, b'failure')) as request:
-                self.assertEqual(deployment.main(), 1)
-                self.assertEqual(request.call_count, 1)
+    def test_rejected_preflight_never_creates_a_deployment(self):
+        with patch.object(deployment, 'TOKEN', 'fixture'), patch.object(deployment, 'committed_snapshot', return_value='b' * 40), patch.object(deployment, '_preflight_overwrite_guard', side_effect=ValueError('refused')), patch.object(deployment, 'req') as request:
+            self.assertEqual(deployment.main(), 1)
+            request.assert_not_called()
 
 if __name__ == '__main__': unittest.main()
