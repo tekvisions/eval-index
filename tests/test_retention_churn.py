@@ -100,3 +100,35 @@ class RetentionChurnTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class November6RetentionTests(unittest.TestCase):
+    def test_reported_routes_survive_discovery_rotation_without_false_rank(self):
+        expected = json.loads((ROOT / 'tests/fixtures/retention-20261106.json').read_text())
+        rules = json.loads((ROOT / 'url.lifecycle').read_text())
+        rules['aliases'] = []  # Alias behavior has its own production-config regression suite.
+        missing = set(expected['canonical_urls'])
+        protected = set(rules['captured_public_urls']) | set(rules.get('planned_release_urls', []))
+        self.assertTrue(missing <= protected)
+        for key, value in expected['protected_policy'].items():
+            self.assertEqual(rules.get(key), value, key + ' must remain unchanged')
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            (root / 'url.lifecycle').write_text(json.dumps(rules))
+            (root / 'data.json').write_text(json.dumps({'models' if rules['detail_prefix']=='m' else 'items': []}))
+            (root / 'sitemap.xml').write_text('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ''.join('<url><loc>' + u + '</loc></url>' for u in sorted(protected - missing)) + '</urlset>')
+            with self.assertRaisesRegex(ValueError, 'retention/retirement'):
+                url_lifecycle.verify(root)
+            url_lifecycle.render_retained(root)
+            self.assertTrue(missing <= url_lifecycle.urls(root), 'Reported protected routes need explicit retention')
+            self.assertEqual(url_lifecycle.verify(root)['explicitly_retired'], [])
+            for canonical in missing:
+                body = (root / canonical.split('.com/', 1)[1] / 'index.html').read_text()
+                self.assertIn('outside the current ranked discovery snapshot', body)
+                self.assertIn('rel="canonical" href="' + canonical + '"', body)
+                self.assertNotIn('aggregateRating', body)
+                self.assertNotIn('class="rk"', body)
+            rules['captured_public_urls'].append('https://' + rules['host'] + '/' + rules['detail_prefix'] + '/unreviewed-november6-removal/')
+            (root / 'url.lifecycle').write_text(json.dumps(rules))
+            with self.assertRaisesRegex(ValueError, 'retention/retirement'):
+                url_lifecycle.verify(root)

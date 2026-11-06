@@ -337,6 +337,27 @@
           "title": "VisualWebBench/VisualWebBench publisher documentation"
         }
       ]
+    },
+    {
+      "slug": "openlit-openlit",
+      "entity": "openlit/openlit",
+      "canonical_url": "https://eval.kymatalabs.com/p/openlit-openlit/",
+      "repository": "https://github.com/openlit/openlit",
+      "summary": "OpenLIT documents OpenTelemetry-based tracing, evaluations, guardrails and cost monitoring for AI agents.",
+      "selection_context": "Compare trace-based evaluation and observability workflows using the publisher documentation.",
+      "limitations": "Verify instrumentation coverage, evaluation configuration, data handling and operating costs; no reliability or quality benchmark was run.",
+      "last_catalog_snapshot": "2026-11-05T20:40:44.057139+00:00",
+      "reviewed_on": "2026-11-06",
+      "last_successful_source_commit": "48768e1250b937d08a965c242ac8f6595c89ab34",
+      "decision": "retain published route as a dated unranked reference when absent from current discovery",
+      "primary_sources": [
+        {
+          "url": "https://github.com/openlit/openlit/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "ba931279ecf3be009c208063ffa07c2eea7bb610fe69ef6e13ba68d6613b8afc",
+          "blob_sha": "c6a6e18047a1608a7aadb686155f412a93552416"
+        }
+      ]
     }
   ],
   "retirements": [],
