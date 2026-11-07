@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "slug": "lmarena-arena-hard-auto",
+      "entity": "lmarena/arena-hard-auto",
+      "canonical_url": "https://eval.kymatalabs.com/p/lmarena-arena-hard-auto/",
+      "repository": "https://github.com/Arena-OSS/arena-hard-auto",
+      "summary": "Arena-Hard-Auto documents automated evaluation of instruction-tuned language models using model-based judges. The former lmarena repository now resolves to Arena-OSS/arena-hard-auto.",
+      "selection_context": "Trace the repository move and compare a specific benchmark version, prompt set and judge configuration.",
+      "limitations": "Check judge bias, style control, provider costs and evaluation settings. Published benchmark scores and correlation claims were not independently reproduced.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-06T17:25:02.968708+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "87b9fa0c4071dcc9da777118212f25985aae3357",
+      "decision": "Retain the published route as a dated unranked reference when absent from current discovery.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Arena-OSS/arena-hard-auto/blob/196f6b826783b3da7310e361a805fa36f0be83f3/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f0563c344399179df0fb7abbb2503762b0446584ace78039f1f792058e0ab0dc",
+          "blob_sha": "f3445b6200ed7ceefaeb333ba3655edf9324937d",
+          "commit_sha": "196f6b826783b3da7310e361a805fa36f0be83f3"
+        }
+      ]
+    },
+    {
+      "slug": "valuebyte-ai-awesome-llm-in-social-science",
+      "entity": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+      "canonical_url": "https://eval.kymatalabs.com/p/valuebyte-ai-awesome-llm-in-social-science/",
+      "repository": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science",
+      "summary": "This repository curates papers and resources on language models in social science, with a stated focus on psychology and intrinsic values. It is a reading collection rather than an executable evaluation service.",
+      "selection_context": "Find surveys, datasets and research on evaluation, alignment and social simulation, then consult the individual papers.",
+      "limitations": "The collection reflects its maintainers' selection and taxonomy. Inclusion is not validation of a paper, dataset or method; no research results were independently reproduced.",
+      "schema_type": "CreativeWork",
+      "last_catalog_snapshot": "2026-11-06T17:25:02.968708+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "87b9fa0c4071dcc9da777118212f25985aae3357",
+      "decision": "Retain the published route as a dated unranked reference when absent from current discovery.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science/blob/9e162273e14f30780ac56b959fe650ad33633fef/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "75cbf52c9f08934505fad33e64cbcb4b9e290d509b2f63f3873fb1fea56d86bf",
+          "blob_sha": "61192c22c5f37d196c5863bcffabaf1c17d7ed7a",
+          "commit_sha": "9e162273e14f30780ac56b959fe650ad33633fef"
+        }
+      ]
+    }
+  ],
+  "saved_snapshot": "2026-11-06T17:25:02.968708+00:00",
+  "policy_sha256": "e6128accad765f92ee97a755c750c50ad316d98992bfa84a7c12d54574557d3b",
+  "previous_references": [
+    {
+      "slug": "airtasystems-dvaia-damn-vulnerable-ai-application",
+      "entity": "airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
+      "canonical_url": "https://eval.kymatalabs.com/p/airtasystems-dvaia-damn-vulnerable-ai-application/",
+      "repository": "https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
+      "summary": "An intentionally vulnerable AI application documented for LLM, RAG, agent and multimodal security training.",
+      "selection_context": "Evaluate controlled AI security training environments.",
+      "limitations": "Use only in an authorized isolated lab; check deployment boundaries and backend costs.",
+      "last_catalog_snapshot": "2026-11-03T16:38:16.780832+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application/blob/master/README.md",
+          "title": "airtasystems/DVAIA-Damn-Vulnerable-AI-Application publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "facebookresearch-meta-agents-research-environments",
+      "entity": "facebookresearch/meta-agents-research-environments",
+      "canonical_url": "https://eval.kymatalabs.com/p/facebookresearch-meta-agents-research-environments/",
+      "repository": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "summary": "A research framework for evaluating agents in evolving, multi-step environments, including Gaia2.",
+      "selection_context": "Understand benchmark environments and agent integration.",
+      "limitations": "Verify benchmark versions, dependencies and result comparability; no new result is asserted.",
+      "last_catalog_snapshot": "2026-11-03T16:38:16.780832+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/facebookresearch/meta-agents-research-environments/blob/main/README.md",
+          "title": "facebookresearch/meta-agents-research-environments publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "visualwebbench-visualwebbench",
+      "entity": "VisualWebBench/VisualWebBench",
+      "canonical_url": "https://eval.kymatalabs.com/p/visualwebbench-visualwebbench/",
+      "repository": "https://github.com/VisualWebBench/VisualWebBench",
+      "summary": "A benchmark and evaluation framework for multimodal model understanding and grounding on web pages.",
+      "selection_context": "Compare web-oriented multimodal evaluation tasks using the repository and linked paper.",
+      "limitations": "Check dataset access, licensing, model adapters and protocol; no current leaderboard standing is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:38:16.780832+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/VisualWebBench/VisualWebBench/blob/main/README.md",
+          "title": "VisualWebBench/VisualWebBench publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "openlit-openlit",
+      "entity": "openlit/openlit",
+      "canonical_url": "https://eval.kymatalabs.com/p/openlit-openlit/",
+      "repository": "https://github.com/openlit/openlit",
+      "summary": "OpenLIT documents OpenTelemetry-based tracing, evaluations, guardrails and cost monitoring for AI agents.",
+      "selection_context": "Compare trace-based evaluation and observability workflows using the publisher documentation.",
+      "limitations": "Verify instrumentation coverage, evaluation configuration, data handling and operating costs; no reliability or quality benchmark was run.",
+      "last_catalog_snapshot": "2026-11-05T20:40:44.057139+00:00",
+      "reviewed_on": "2026-11-06",
+      "last_successful_source_commit": "48768e1250b937d08a965c242ac8f6595c89ab34",
+      "decision": "retain published route as a dated unranked reference when absent from current discovery",
+      "primary_sources": [
+        {
+          "url": "https://github.com/openlit/openlit/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "ba931279ecf3be009c208063ffa07c2eea7bb610fe69ef6e13ba68d6613b8afc",
+          "blob_sha": "c6a6e18047a1608a7aadb686155f412a93552416"
+        }
+      ]
+    }
+  ]
+}

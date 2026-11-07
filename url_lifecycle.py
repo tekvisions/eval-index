@@ -57,11 +57,14 @@ def render_retained(root=ROOT):
             source = urlparse(source_url)
             if source.scheme != 'https' or not source.hostname or source.username or source.password:
                 raise ValueError('Retained reference requires explicit HTTPS primary sources')
+        schema_type = entry.get('schema_type', 'CreativeWork' if detail_prefix == 'm' else 'SoftwareSourceCode')
+        if schema_type not in {'SoftwareSourceCode', 'CreativeWork'}:
+            raise ValueError('Retained reference schema type must be explicitly supported')
         description = entry['summary']
-        schema = {'@context': 'https://schema.org', '@type': 'CreativeWork' if detail_prefix == 'm' else 'SoftwareSourceCode',
+        schema = {'@context': 'https://schema.org', '@type': schema_type,
                   'name': entry['entity'], 'url': canonical,
                   'description': description}
-        schema['sameAs' if detail_prefix == 'm' else 'codeRepository'] = entry['repository']
+        schema['codeRepository' if schema_type == 'SoftwareSourceCode' else 'sameAs'] = entry['repository']
         sources = ''.join('<li><a href="' + esc(s['url']) + '">' + esc(s['title']) + '</a></li>' for s in entry['primary_sources'])
         body = (f'<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
                 f'<title>{esc(entry["entity"])} — retained reference | {esc(site_name)}</title>'
