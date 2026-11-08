@@ -404,6 +404,29 @@
           "commit_sha": "9e162273e14f30780ac56b959fe650ad33633fef"
         }
       ]
+    },
+    {
+      "slug": "mmmu-benchmark-mmmu",
+      "entity": "MMMU-Benchmark/MMMU",
+      "canonical_url": "https://eval.kymatalabs.com/p/mmmu-benchmark-mmmu/",
+      "repository": "https://github.com/MMMU-Benchmark/MMMU",
+      "summary": "MMMU documents evaluation code and datasets for multidisciplinary multimodal understanding and reasoning, including MMMU-Pro. Its questions combine images and college-level subject knowledge rather than targeting coding tasks alone.",
+      "selection_context": "Compare the official benchmark tasks, data splits and evaluation pipeline when assessing multimodal models. The README distinguishes official local test-set evaluation from the community-maintained EvalScope workflow.",
+      "limitations": "Keep the dataset version, split, prompts and scoring protocol fixed when comparing results. Review dataset licensing and contamination risks. Published scores and benchmark coverage were not independently reproduced.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T16:30:58.748522+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "288d74d5a7187cd09ad02c577c692c2b49884341",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/MMMU-Benchmark/MMMU/blob/268471d0d488258990025331c7528359c324aa25/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "268471d0d488258990025331c7528359c324aa25",
+          "blob_sha": "69a0114f196d01f03d46bedabb55da57c8549a07",
+          "evidence_sha256": "a4e89dd389f9b4c82b92e54b5d50a58e55a53c077a5009f7d4b4e53c09bdcc3a"
+        }
+      ]
     }
   ],
   "retirements": [],
