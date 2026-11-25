@@ -427,6 +427,119 @@
           "evidence_sha256": "a4e89dd389f9b4c82b92e54b5d50a58e55a53c077a5009f7d4b4e53c09bdcc3a"
         }
       ]
+    },
+    {
+      "slug": "claudlos-hermes-katana",
+      "entity": "claudlos/hermes-katana",
+      "canonical_url": "https://eval.kymatalabs.com/p/claudlos-hermes-katana/",
+      "repository": "https://github.com/claudlos/hermes-katana",
+      "summary": "Publisher description of claudlos/hermes-katana: Defense-in-depth security toolkit for LLM agents, taint tracking, proxy secret guard, policy engine, and red-team benchmarking. The saved 2026-11-09 catalog classified it under Red Teaming & Safety.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Red Teaming & Safety work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T19:13:19.679034+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "1ffcfff8edceac43ed23911a8b731ae42a92fef3",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/claudlos/hermes-katana/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "dc3363afcae72c25e4685f11479fb95d11c834418c2454089fd2f8e8b0213556",
+          "blob_sha": "aebaba2862244e7a84c8b565901b2bbd3ad38dba"
+        }
+      ]
+    },
+    {
+      "slug": "crucible-security-crucible",
+      "entity": "crucible-security/crucible",
+      "canonical_url": "https://eval.kymatalabs.com/p/crucible-security-crucible/",
+      "repository": "https://github.com/crucible-security/crucible",
+      "summary": "Publisher description of crucible-security/crucible: pytest for AI agents - Autonomous red-teaming, behavioral monitoring & security testing for LLM agents. The saved 2026-11-09 catalog classified it under Observability.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Observability work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T19:13:19.679034+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "1ffcfff8edceac43ed23911a8b731ae42a92fef3",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/crucible-security/crucible/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "427925eef692027f3a4d82d07d4d8a1440a459d1ba0fd81abe691472e0b32eda",
+          "blob_sha": "ac0f32da97a1e2bf6444f9e85f60a44181e0ee5a"
+        }
+      ]
+    },
+    {
+      "slug": "juanjuandog-finsight-ai",
+      "entity": "juanjuandog/FinSight-AI",
+      "canonical_url": "https://eval.kymatalabs.com/p/juanjuandog-finsight-ai/",
+      "repository": "https://github.com/juanjuandog/FinSight-AI",
+      "summary": "The saved 2026-11-09 catalog classified juanjuandog/FinSight-AI under RAG Eval and recorded the publisher description: AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation. The publisher repository returned HTTP 404 on the GitHub API and web page during the 2026-11-25 check; that does not establish whether it was deleted, renamed without a redirect or made private.",
+      "selection_context": "Use this dated reference to trace the previously indexed project and its historical catalog classification; choose a currently available alternative from the ranked catalog.",
+      "limitations": "Current documentation, installation, licensing and maintenance could not be verified because the publisher source is unavailable. No current rank or momentum score is assigned, and no runtime test or benchmark is claimed.",
+      "last_catalog_snapshot": "2026-11-09T19:13:19.679034+00:00",
+      "reviewed_on": "2026-11-25",
+      "source_status": "historical_unavailable",
+      "schema_type": "CreativeWork",
+      "last_successful_source_commit": "1ffcfff8edceac43ed23911a8b731ae42a92fef3",
+      "primary_sources": [
+        {
+          "url": "https://github.com/juanjuandog/FinSight-AI",
+          "title": "Publisher repository (HTTP 404 on 2026-11-25)"
+        },
+        {
+          "url": "https://github.com/tekvisions/eval-index/blob/1ffcfff8edceac43ed23911a8b731ae42a92fef3/data.json",
+          "title": "Saved catalog record (2026-11-09)"
+        }
+      ],
+      "decision": "Preserve the existing published URL as a dated historical reference while the publisher source is unavailable."
+    },
+    {
+      "slug": "keli-wen-agy-staff",
+      "entity": "keli-wen/agy-staff",
+      "canonical_url": "https://eval.kymatalabs.com/p/keli-wen-agy-staff/",
+      "repository": "https://github.com/keli-wen/agy-staff",
+      "summary": "Publisher description of keli-wen/agy-staff: Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex. The saved 2026-11-09 catalog classified it under Agent Eval.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Eval work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T19:13:19.679034+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "1ffcfff8edceac43ed23911a8b731ae42a92fef3",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/keli-wen/agy-staff/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d7040961ce8539fffd097093f5c75b3e55030d70f53b98a863330e4cadd4c58d",
+          "blob_sha": "442096cc633e574cef8acfd0000e068493345a48"
+        }
+      ]
+    },
+    {
+      "slug": "v-modal-awesome-jev-tools",
+      "entity": "v-modal/awesome-jev-tools",
+      "canonical_url": "https://eval.kymatalabs.com/p/v-modal-awesome-jev-tools/",
+      "repository": "https://github.com/v-modal/awesome-jev-tools",
+      "summary": "Publisher description of v-modal/awesome-jev-tools: A curated list of tools built for Jev, TypeSafe AI's System One model for typed decisions. The saved 2026-11-09 catalog classified it under Eval Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Eval Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T19:13:19.679034+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "1ffcfff8edceac43ed23911a8b731ae42a92fef3",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/v-modal/awesome-jev-tools/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "b106e9b0714a70c8d0eb0e7bb2f7b7b3986ff419f85882da9bb01d6bc3a49086",
+          "blob_sha": "a1f2e2a75c6caa1889d6b3ab6ba91fc7b0170bf9"
+        }
+      ]
     }
   ],
   "retirements": [],
