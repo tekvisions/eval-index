@@ -34,11 +34,15 @@ jobs:
           python gen_details.py
           python gen_og.py
       - name: Render and verify the public catalog snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          python auto_retain.py
           python url_lifecycle.py --render-retained
           python sanitize_detail_schema.py
           python render_home.py
           python url_lifecycle.py --verify
+          python -m unittest discover -s tests -p test_auto_retain.py
           python -m unittest discover -s tests -p test_retention_churn.py
           python -m unittest discover -s tests -p test_discoverability.py
           python -m unittest discover -s tests -p test_indexnow_receipts.py
@@ -58,6 +62,7 @@ jobs:
           git config user.name  "eval-index-bot"
           git config user.email "actions@users.noreply.github.com"
           python git_public_snapshot.py --stage
+          git add url.lifecycle
           if ! git diff --cached --quiet; then
             git commit -m "data: daily eval-index refresh ($(date -u +%Y-%m-%d))"
             git push
